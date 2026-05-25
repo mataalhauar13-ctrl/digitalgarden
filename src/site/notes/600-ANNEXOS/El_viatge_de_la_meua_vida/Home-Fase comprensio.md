@@ -4,26 +4,6 @@
 
 
 
-## Índex de continguts
-
-| Pàgina | Enllaç |
-| :--- | :--- |
-| 🈶 EKSPERIMENT - Wolt vs Bolt Food vs Tellitoit | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 EKSPERIMENT - Wolt vs Bolt Food vs Tellitoit\|🈶 EKSPERIMENT - Wolt vs Bolt Food vs Tellitoit]] |
-| 🈶 EKSPERIMENT - Wolt vs Bolt Food vs Tellitoit-versió comprensible | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 EKSPERIMENT - Wolt vs Bolt Food vs Tellitoit-versió comprensible\|🈶 EKSPERIMENT - Wolt vs Bolt Food vs Tellitoit-versió comprensible]] |
-| 🈶 Kaasaostetud toit igapäevaelus-Diàleg | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Kaasaostetud toit igapäevaelus-Diàleg\|🈶 Kaasaostetud toit igapäevaelus-Diàleg]] |
-| 🈶 Kaasaostetud toit igapäevaelus-Diàleg-versió comprensible | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Kaasaostetud toit igapäevaelus-Diàleg-versió comprensible\|🈶 Kaasaostetud toit igapäevaelus-Diàleg-versió comprensible]] |
-
-
-### Carpetes compartides: Estonian
-
-| Nota / Pàgina | Enllaç al Digital Garden |
-| :--- | :--- |
-| 🈶 Kaasaostetud toit igapäevaelus-Diàleg-versió comprensible | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Kaasaostetud toit igapäevaelus-Diàleg-versió comprensible\|Anar a la nota]] |
-| 🈶 Kaasaostetud toit igapäevaelus-Diàleg | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Kaasaostetud toit igapäevaelus-Diàleg\|Anar a la nota]] |
-| 🈶 EKSPERIMENT - Wolt vs Bolt Food vs Tellitoit | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 EKSPERIMENT - Wolt vs Bolt Food vs Tellitoit\|Anar a la nota]] |
-| 🈶 EKSPERIMENT - Wolt vs Bolt Food vs Tellitoit-versió comprensible | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 EKSPERIMENT - Wolt vs Bolt Food vs Tellitoit-versió comprensible\|Anar a la nota]] |
-
-
 ### Carpetes compartides: Estonian
 
 | Nota / Pàgina | Enllaç al Digital Garden |

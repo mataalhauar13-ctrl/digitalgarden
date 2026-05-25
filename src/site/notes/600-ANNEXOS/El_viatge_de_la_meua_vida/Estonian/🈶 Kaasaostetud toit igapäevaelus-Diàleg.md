@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/600-annexos/el-viatge-de-la-meua-vida/estonian/kaasaostetud-toit-igapaeevaelus-dialeg/","dg-note-properties":{}}
 ---
 
+
+
+
 [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Kaasaostetud toit igapäevaelus-Diàleg-versió comprensible\|🈶 Kaasaostetud toit igapäevaelus-Diàleg-versió comprensible]]
 
 # 🈶 Kaasaostetud toit igapäevaelus-Diàleg
