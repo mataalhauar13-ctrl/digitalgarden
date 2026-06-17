@@ -20,3 +20,19 @@
 | 🈶 Nutikas elu-Digivahendi koht ja kohatus-Diàleg | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Nutikas elu-Digivahendi koht ja kohatus-Diàleg\|Anar a la nota]] |
 | 🈶 Nutikas elu-Digivahendi koht ja kohatus-versió comprensible | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Nutikas elu-Digivahendi koht ja kohatus-versió comprensible\|Anar a la nota]] |
 | 🈶 Nutikas elu-Digivahendi koht ja kohatus | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Nutikas elu-Digivahendi koht ja kohatus\|Anar a la nota]] |
+
+
+### Carpetes compartides: Armenian
+
+| Nota / Pàgina | Enllaç al Digital Garden |
+| :--- | :--- |
+| Eastern_Armenian_Comprehensive_Self_Study_Language_Course-12-Diàleg-versió comprensible | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Armenian/Eastern_Armenian_Comprehensive_Self_Study_Language_Course-12-Diàleg-versió comprensible\|Anar a la nota]] |
+| Eastern_Armenian_Comprehensive_Self_Study_Language_Course-10-Diàleg-versió comprensible | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Armenian/Eastern_Armenian_Comprehensive_Self_Study_Language_Course-10-Diàleg-versió comprensible\|Anar a la nota]] |
+| Eastern_Armenian_Comprehensive_Self_Study_Language_Course-10-Diàleg | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Armenian/Eastern_Armenian_Comprehensive_Self_Study_Language_Course-10-Diàleg\|Anar a la nota]] |
+| Eastern_Armenian_Comprehensive_Self_Study_Language_Course-12-Diàleg | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Armenian/Eastern_Armenian_Comprehensive_Self_Study_Language_Course-12-Diàleg\|Anar a la nota]] |
+| Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-1-Diàleg | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Armenian/Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-1-Diàleg\|Anar a la nota]] |
+| Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-1-Diàleg-versió comprensible | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Armenian/Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-1-Diàleg-versió comprensible\|Anar a la nota]] |
+| Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-3-Diàleg-versió comprensible | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Armenian/Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-3-Diàleg-versió comprensible\|Anar a la nota]] |
+| Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-3-Diàleg | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Armenian/Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-3-Diàleg\|Anar a la nota]] |
+| Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-2-Diàleg | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Armenian/Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-2-Diàleg\|Anar a la nota]] |
+| Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-2-Diàleg-versió comprensible | [[600-ANNEXOS/El_viatge_de_la_meua_vida/Armenian/Eastern_Armenian_Comprehensive_Self_Study_Language_Course-25-2-Diàleg-versió comprensible\|Anar a la nota]] |
