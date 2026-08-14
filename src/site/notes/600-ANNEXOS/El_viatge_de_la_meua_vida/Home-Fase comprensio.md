@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/600-annexos/el-viatge-de-la-meua-vida/home-fase-comprensio/","tags":["gardenEntry"],"dg-note-properties":{"actualitzat":"14-08-2026"}}
+{"dg-publish":true,"permalink":"/600-annexos/el-viatge-de-la-meua-vida/home-fase-comprensio/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
@@ -9,33 +9,54 @@
 
 ## Índex d'Idiomes
 
-[Czech](#czech) | [Estonian](#estonian) | [Lithuanian](#lithuanian)
+[Czech](#czech) | [Estonian](#estonian)
 
 ---
 
 <a name="czech"></a>
 ## 🌐 Czech
 
-- [Poslední cigareta](#czech-posledni-cigareta)
+- [Můj přítel je pořád na cestách](#czech-muj-pritel-je-porad-na-cestach)
 
-<a name="czech-posledni-cigareta"></a>
-### 📖 Poslední cigareta
+<a name="czech-muj-pritel-je-porad-na-cestach"></a>
+### 📖 Můj přítel je pořád na cestách
 
 - Carpeta: `Czech`
 - Variants presents: `Text original`
 
-#### Poslední cigareta
+#### Můj přítel je pořád na cestách
 
-🈶 nekovarova2012-5.Lekce-Deixar de fumar-versió comprensible
-nekovarova2012-5.Lekce-Deixar de fumar-Diàleg-versió comprensible
+Můj přítel je pořád na cestách
 
-Poslední cigareta
+Můj přítel je pořád na cestách. → Můj přítel je neustále na cestách.  
 
-Jmenuju se Radka. Začala jsem kouřit na vysoké škole, protože skoro všichni moji známí byli kuřáci. Postupně jsem se zařadila mezi ně a časem jsem se dopracovala ke dvěma krabičkám denně. Usínala jsem obrazně řečeno s cigaretou v puse a hned po probuzení jsem sahala po další. Když jsem byla na tahu, odpalovala jsem jednu cigaretu od druhé.
+Hodně cestuje po celé republice za prací a většinou tráví dny v autě. 
+→ Často se pohybuje po celé republice kvůli práci a většinou tráví dny v autě.  
 
-Po dvanácti letech jsem se rozhodla přestat s kouřením ze dne na den. Neměla jsem ale dost silnou vůli. Po týdnu mě přepadla silná chuť na cigaretu a v blízkém baru jsem vykouřila celou krabičku. Pochopila jsem, že sama tu chuť nedokážu potlačit, a proto jsem navštívila poradnu pro odvykání kouření. Doktor mi předepsal léky proti kouření a poradil mi různé triky, jak přestat kouřit.
+Myslím si, že je těžké být pořád na cestách (podle mého názoru, je to opravdu náročné). 
+– Je podle mého názoru velmi obtížné být neustále na cestách, protože to je opravdu náročné. 
 
-Během odvykací kúry jsem přibrala patnáct kilo, ale stálo to za to. Už rok nekouřím.
+Cítím, že by měl mít více času na odpočinek. 
+– Mám pocit, že by měl mít více volného času na odpočinek.
+
+Se svým jídlem to nevypadá moc dobře (to je fakt špatné).  
+S jídlem se to nezdá příliš dobře (to je opravdu špatné).  
+
+Brzo ráno je ospalý a nemá hlad (to je typické pro něj).  
+V ranních hodinách je ospalý a necítí hlad (to je pro něj typické). 
+
+Takže si dá jen malé kafe (jen tak, aby se probudil).  
+Později v autě sní, zhltne nějakou bagetu nebo hamburger a zapije to studenou kolou (to je jeho oblíbený snack).  
+Jednou jsem byl v kanceláři a byl jsem ospalý (to se stalo, když jsem měl dlouhý den).  
+Dal jsem si jen kávu a později jsem si koupil bagetu (když jsem se cítil unavený).  
+Pak jsem vypil vodu (a to mi pomohlo osvěžit se).
+
+On prostě na jídlo ani nemyslí, protože je během dne navíc ve velkém stresu. Myslím si, že je to těžké, když člověk nemůže myslet na jídlo kvůli stresu. Cítím, že by měl najít chvíli na odpočinek. Je pro mě frustrující vidět, jak to ovlivňuje jeho zdraví.
+Během dne je v tak velkém stresu, že nemá na jídlo ani pomyšlení. 
+
+Ale někdy jde na pořádný oběd (když se mi to hodí). Já například občas zajde na pracovní oběd do tradiční české restaurace. Tam si vždycky pochutná na husté omáčce a houskových knedlících. Jednou jsem šel do restaurace s kamarády. Koupil jsem si husté omáčku s houskovými knedlíky. Bylo to chutné a byl jsem spokojený (a to je pro mě nejdůležitější).
+
+Jeho žena mu pořád říká, že by měl sportovat, protože celý den sedí v autě nebo u počítače a pak si stěžuje na silné bolesti zad. Začal jednou týdně hrát s kolegy squash, ale víc času na sport prostě nemá. Myslím si, že je důležité sportovat, protože sedět dlouho je špatné. Je mi líto, že nemá čas, ale alespoň se snaží hrát squash. Věřím, že by měl najít více času na cvičení.
 
 ---
 
@@ -46,204 +67,49 @@ Během odvykací kúry jsem přibrala patnáct kilo, ale stálo to za to. Už ro
 <a name="estonian"></a>
 ## 🌐 Estonian
 
-- [🈶 Hiiumaa women have to travel to Saaremaa or the mainland to give birth](#estonian-hiiumaa-women-have-to-travel-to-saaremaa-or-the-mainland-to-give-birth)
+- [🈶 Kas osalise tööajaga tööd tuleks gümnaasiumiõpilastele julgustada](#estonian-kas-osalise-tooajaga-tood-tuleks-gumnaasiumiopilastele-julgustada)
 
-<a name="estonian-hiiumaa-women-have-to-travel-to-saaremaa-or-the-mainland-to-give-birth"></a>
-### 📖 🈶 Hiiumaa women have to travel to Saaremaa or the mainland to give birth
+<a name="estonian-kas-osalise-tooajaga-tood-tuleks-gumnaasiumiopilastele-julgustada"></a>
+### 📖 🈶 Kas osalise tööajaga tööd tuleks gümnaasiumiõpilastele julgustada
 
 - Carpeta: `Estonian`
-- Variants presents: `Text original`
+- Variants presents: `Diàleg base`
 
-#### 🈶 Hiiumaa women have to travel to Saaremaa or the mainland to give birth
+#### 🈶 Kas osalise tööajaga tööd tuleks gümnaasiumiõpilastele julgustada-Diàleg
 
-🧠 Contingut
-🈶 Hiiumaa naised peavad sünnituseks sõitma Saaremaale või mandrile-versió comprensible
+🈶 EE - Estonià 📅
 
-🈶 Hiiumaa naised peavad sünnituseks sõitma Saaremaale või mandrile-Diàleg
+🈶 Kas osalise tööajaga tööd tuleks gümnaasiumiõpilastele julgustada-Diàleg
 
-🈶 Hiiumaa naised peavad sünnituseks sõitma Saaremaale või mandrile-Diàleg-versió comprensible🈶 Women from Hiiumaa must travel to Saaremaa or the mainland for childbirth - Dialogue version understandable
+Täna tahan rääkida sellest, kas gümnaasiumi- või ülikooliõpilasi peaks julgustama osalise tööajaga tööle minema. Sel ajal, kui minu lapsed ülikoolis käivad, hakkas üks juba töötama – õpetajana koolis. Just paar kuud tagasi sai ta juhiloa. Aga mis on kõige tähtsam, ta sooritas sel ajal kõik ained.
+Minu arvates on see tähtis, sest paljud noored tahavad rohkem iseseisvust. Ma ise märkasin seda, kui minu lapsed tahtsid saada juhiluba, isegi kui see ei olnud vajalik. Jah, see on tõsi. Näiteks ülikool on lähedal, sest neil ei ole vaja näiteks sõita.
 
-🈶 Hiiumaa naised peavad sünnituseks sõitma Saaremaale või mandrile🈶 Hiiumaa women have to travel to Saaremaa or the mainland to give birth
+Ja peale iseseisvuse võib töö neile õpetada näiteks vastutust, aja planeerimist ja raha väärtust. Töö aitab noorel päriselu paremini mõista. Kool annab teadmisi, aga töö näitab, kuidas inimesed suhtlevad, kuidas kokkulepped toimivad ja mida tähendab olla õigel ajal kohal.
+Kahjuks võtab see minu arvates õppimiselt liiga palju aega.
 
---
+Ja see võib võtta küll, kui näiteks töötunde on liiga palju.
 
-Hiiumaa haigla lõpetas plaanilise sünnitusabiHiiumaa Hospital stopped scheduled maternity care
+Sellepärast peaks töö olema väike ja paindlik, nii et kool jääks alati esikohale.
 
-Hiiumaa haigla ei paku alates 1. juulist enam plaanilist sünnitusabi. Põhjus on see, et haigla pediaater läks pensionile. Selle tõttu peavad Hiiumaa naised sünnitama kas Saaremaal Kuressaares või mõnes mandri haiglas.
+Ma arvan, et ülikooliõpilasele sobiks kõige paremini näiteks selline töö, kus saab lihtsaid ülesandeid. Näiteks töö poes, kohvikus, raamatukogus või suvel laagris. Need võivad olla hea algus.
 
-Hiiumaa Hospital will no longer offer scheduled maternity care from July 1. The reason is that the pediatrician at the hospital retired. Because of this, the women of Hiiumaa have to give birth either in Kuressaare in Saaremaa or in a hospital on the mainland.
+Aga näiteks ühe minu lapse puhul oli see natukene erinev. Ja minu puhul samuti. Juba ütlesin, et üks minu lastest hakkas töötama õpetajana koolis. Ja näiteks mina töötasin samuti õpetajana koolis.
 
-Mis teenused saarel alles jäävadWhat services remain on the island
-Erakorraline sünnitusabi jääb alles. Ka rasedate jälgimine, arvele võtmine, analüüside tegemine, günekoloogi vastuvõtt ja ämmaemanda vastuvõtud jätkuvad. Riskirasedad on aga juba mõnda aega saadetud sünnitama Tallinna haiglatesse.
+Mina andsin eratunde.
 
-Emergency obstetric care remains. Monitoring of pregnant women, registration, analysis, gynecologist's appointment and midwife's appointments will also continue. However, high-risk pregnant women have been sent to Tallinn hospitals to give birth for some time.
+Ja noored saavad sellisest tööst peale raha veel palju asju.
 
-Sünnitusi on vähe, aga mure on suurThere are few births, but the concern is great
+Näiteks nad õpivad inimestega rääkima, probleeme lahendama ja vahel ka oma vigu parandama.
 
-Eelmisel aastal sündis Hiiumaal 22 last. Tänavu sündis poole aasta jooksul 12 last. Arstide liidu president Neeme Tõnisson ütles, et see on kurb uudis, kuid ta loodab, et sünnitusabi peatamine on ajutine ja uus spetsialist leitakse.
+Need oskused on kasulikud nii koolis kui ka hiljem täiskohaga tööl. Aga mõnele õpilasele võib see olla natukene raske.
 
-Last year, 22 children were born in Hiiumaa. This year, 12 children were born within half a year. The president of the Association of Doctors, Neeme Tõnisson, said that this is sad news, but he hopes that the suspension of obstetric care will be temporary and that a new specialist will be found.
+Näiteks mitmed õpilased võivad olla juba koolis väga väsinud. Sellepärast ma arvan, et osalise tööajaga töö peaks olema võimalus, mitte kohustus. Sel puhul peaksid näiteks vanemad ja õpetajad rohkem aitama. Vanemad saavad aidata piire seada ja kool saab rääkida sellest, milline töökoormus on mõistlik. Noorel on lihtsam, kui ta ei pea kõike üksi otsustama. Sest on ka oht, et noor hakkab raha pärast kooli vähem tähtsaks pidama.
 
-Suur probleem on arstide puudus
+Näiteks, kui töö annab neile kiiresti raha, võib õppimine tunduda aeglane. Eelkõige siis, kui nad tahavad kiiresti iseseisvust saavutada. Sellepärast peab noor aru saama, et haridus aitab pikemas vaates rohkem.
 
-Haigla juht Riina Tamm ütles, et pediaatri puudumine ei ole ainus mure. Mõnel päeval ei ole haiglas olnud naistearsti, anestesioloogi või kirurgi. Mõnikord on olnud raske katta ka valveid. Tema sõnul ei saa haigla sellises olukorras pakkuda plaanilist ja turvalist sünnitust.
+Ma ise toetaksin seda siis, kui töö on turvaline, tundide arv on väike ja noorele jääb aega õppida, puhata ja sõpradega olla.
 
-The head of the hospital, Riina Tamm, said that the lack of a pediatrician is not the only concern. Some days there has been no gynecologist, anesthetist or surgeon in the hospital. Sometimes it has been difficult to cover the guards as well. According to him, the hospital cannot offer a planned and safe delivery in such a situation.
-
-Arste on raske saarele tuua
-
-Tammi sõnul maksab haigla head palka, kuid arstid ei julge Hiiumaale tööle tulla, sest tegemist on saarega. Sotsiaalministeeriumi esindaja Nikita Panjuškin ütles, et isegi erimeetmed ja eritingimused ei taga alati seda, et kõik vajalikud spetsialistid oleksid kohal.
-
-According to Tammi, the hospital pays a good salary, but doctors do not dare to come to Hiiumaa to work because it is an island. Nikita Panjushkin, representative of the Ministry of Social Affairs, said that even special measures and special conditions do not always ensure that all necessary specialists are present.
-
-Võimalikud lahendused Possible solutions
-
-Noored arstid ei taha sageli väikese koormusega väikehaiglasse tööle minna. Tõnissoni arvates võiks abi olla kogenud arstidest, kes oleksid valmis töötama osakoormusega*. Panjuškin lisas, et lahendus ei saa olla ainult töötajate arvu suurendamine. Tema sõnul aitavad ka e-konsultatsioonid, üleriigiline digiregistratuur ja teised sarnased meetmed.
-
-Young doctors often do not want to work in a small hospital with a light workload. In Tõnisson's opinion, experienced doctors who would be willing to work part-time could be helpful. Panjushkin added that the solution cannot be only to increase the number of employees. According to him, e-consultations, nationwide digital registry and other similar measures also help.
-
-History ![](chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/global/src/static/emptytool.png)
-
-No records yet
-
-Start using PowerUP, history will be displayed here
-
-Basic Tool
-
-Favorites
-
-For this site ![](chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/global/src/static/emptytool.png)
-
-You can create a custom PowerUP for this web.
-
-Succeed, and you'll be a pioneer of the new frontier!
-
-Explain
-
-📄 Selecció
-
-🧭 Routing
-workflowdomini: llengues
-fasellengues: desenvolupament
-idioma: (emplena-ho)
-
-📝 Observacions
-
----
-
-[Tornar a dalt (TOP)](#top)
-
----
-
-<a name="lithuanian"></a>
-## 🌐 Lithuanian
-
-- [🈶 Auksinės mokymosi taisyklės](#lithuanian-auksines-mokymosi-taisykles)
-
-<a name="lithuanian-auksines-mokymosi-taisykles"></a>
-### 📖 🈶 Auksinės mokymosi taisyklės
-
-- Carpeta: `Lithuanian`
-- Variants presents: `Text original`, `Diàleg base`
-
-#### 🈶 Auksinės mokymosi taisyklės
-
-🈶 Auksinės mokymosi taisyklės-versió comprensible
-🈶 Auksinės mokymosi taisyklės-Diàleg
-🈶 Auksinės mokymosi taisyklės-Diàleg-versió comprensible
-
-🈶 Auksinės mokymosi taisyklės
-
-Ši nota és una transcripció netejada i reordenada a partir de la font d'àudio «Auksines mokymosi taisykles išskyręs profesorius.mp3» del quadern NotebookLM «LT-TV-DEV-Gydytojas Andrius». Manté el contingut principal de l'àudio, però amb una puntuació i una segmentació més llegibles.
-
---
-
-Įžanga
-
-Mokymasis dažnai suprantamas kaip vaikų pareiga, bet iš tikrųjų tai yra biologinė žmogaus savybė. Tai lyg sportas, kurį reikia praktikuoti visą gyvenimą. Pokalbyje profesorius Albertas Kurvydas aiškina, kaip mokosi neuronai ir kodėl mūsų smegenys niekada nenustoja tobulėti.
-
-Kaip mokosi smegenys
-
-Profesorius remiasi Nobelio premijos laureato Eriko Kendelo darbais. Jo tyrimai rodo, kad mūsų galvos smegenys yra labai plastiškos. Kai mokomės, dirba neuronai. Iš prigimties turime apie šimtą milijardų neuronų. Vieni jų labiau susiję su loginiu mąstymu, kiti su emociniu intelektu, judesių valdymu, klausa, rega ar kitomis funkcijomis.
-
-Kai sprendžiame uždavinius, aktyviai dirba loginių centrų neuronai. Profesorius tai vaizdingai lygina su takeliu miške: kuo dažniau tuo pačiu taku einame, tuo jis tampa ryškesnis ir tvirtesnis. Taip ir smegenyse – kuo daugiau kartojame, tuo stipresnis lieka mokymosi pėdsakas.
-
-Miegas ir atmintis
-
-Dienos metu smegenys gauna stimulą, o naktį įvyksta pats svarbiausias darbas. Miego metu smegenys sudėlioja informaciją į savo „lentynas“ ir konsoliduoja ją į ilgalaikę atmintį. Iš pradžių susiformuoja trumpalaikė atmintis, o vėliau ji perduodama į labai svarbią struktūrą – hipokampą.
-
-Profesorius pabrėžia, kad hipokampą labai žaloja stresas. Todėl, jeigu norime geriau atsiminti, turime nepatirti per didelio streso. Taip pat labai svarbu laiku eiti miegoti. Giliojo miego fazėje smegenys iš daugybės dienos įspūdžių atrenka tai, kas buvo svarbiausia ir įdomiausia.
-
-Žmogus gali per dieną išgirsti daug informacijos, bet naktį smegenys neužfiksuoja visko. Jos labiausiai išsaugo tai, kas buvo stipriausia, įdomiausia ar emociškai ryškiausia. Todėl efektyvus mokymasis be pakankamo miego neduoda tokio gero rezultato.
-
-Kodėl reikia mokytis visą gyvenimą
-
-Pokalbyje keliama mintis, kad žmogus, nustojęs mokytis, pradeda greičiau senti ne tik fiziškai, bet ir emociškai. Profesorius aiškina, kad jeigu nenaudojame tam tikrų funkcijų, jas silpniname. Jeigu nesprendžiame loginių uždavinių, prarandame dalį tam reikalingų ryšių. Jeigu netreniruojame smulkiosios motorikos, klausos, regėjimo ar emocinio intelekto, taip pat prarandame dalį tų gebėjimų.
-
-Todėl, kad smegenys nuolat atsinaujintų, reikia mokytis visą gyvenimą. Svarbu mokytis ne vienu būdu, o per įvairovę: per akis, per ausis, per emocijas, per judesį, per logiką ir per darbinę atmintį.
-
-Neuroplastiškumas ir įvairovė
-
-Neuroplastiškumas reiškia, kad smegenys gali kurti naujus ryšius. Kai vieno neurono ar vieno tinklo nebepakanka, formuojasi nauji kontaktai, nauji neuronų ryšiai, o net ir nauji kapiliarai, kad aktyviai dirbančios smegenys gautų daugiau maisto ir deguonies.
-
-Profesorius pabrėžia, kad smegenims reikia įvairovės. Joms reikia ne tik logikos, bet ir meno, muzikos, gamtos, judesio, intuicijos, emocijų ir patirtinio darbo. Jei per daug specializuojamės tik vienoje srityje, kitos sritys lieka silpnesnės.
-
-Auksinės mokymosi taisyklės
-
-Profesorius išskiria kelias svarbias mokymosi taisykles.
-
-Pirma – sąmoningas dėmesio koncentravimas. Norint ką nors tikrai išmokti, reikia mokėti kryptingai sutelkti dėmesį.
-
-Antra – dėmesio išlaikymas. Reikia treniruotis išlaikyti dėmesį vis ilgiau ir kartu slopinti pagundas, kurios trukdo susikaupti.
-
-Trečia – darbinės atminties treniravimas. Tai reiškia mintinį skaičiavimą, vizualizavimą, prognozavimą ir gebėjimą vienu metu išlaikyti galvoje kelis svarbius faktus ar principus.
-
-Ketvirta – geriau mažiau, bet giliau. Skubotas mokymasis dažnai būna paviršutiniškas. Daug geriau mokytis mažiau temų, bet jas nagrinėti iš įvairių pusių.
-
-Penkta – mokymasis per įvairovę. Tyrimai rodo, kad taip išmokti dalykai išlieka ilgiau ir gali būti plačiau pritaikomi kitose veiklose.
-
-Šešta – mokytis reikia pačiam. Kai mokytojas, tėvai ar kiti žmonės nuolat parodo visą sprendimą ir taiso klaidas čia pat, smegenys dirba mažiau. Kai žmogus pats bando priimti sprendimus ir ieškoti atsakymo, dirba daug daugiau neuronų.
-
-Septinta – vidinė motyvacija ir džiaugsmas. Mokymasis geriausiai vyksta tada, kai žmogui tikrai patinka tai, ką jis daro. Kai yra vidinis noras ir džiaugsmas, rezultatai būna stipresni ir ilgaamžiškesni.
-
-Pabaiga
-
-Pokalbio pabaigoje profesorius apibendrina, kad šiuolaikinis mokymosi mokslas vis labiau rodo tą pačią kryptį: smegenims reikia dėmesio, miego, įvairovės, savarankiškumo ir vidinės motyvacijos. Mokymasis nėra trumpas etapas – tai viso gyvenimo procesas.
-
----
-
-#### 🈶 Auksinės mokymosi taisyklės-Diàleg
-
-🈶 Auksinės mokymosi taisyklės
-🈶 Auksinės mokymosi taisyklės-Diàleg-versió comprensible
-
-🈶 Auksinės mokymosi taisyklės-Diàleg
-
---
-
-Mokymasis nėra tik vaikų pareiga, mokymasis yra biologinė žmogaus savybė. Tai veikla, kurią reikia tęsti visą gyvenimą. Todėl, kad mūsų smegenys nuolat gali keistis. Jos nėra sustingusios. Kai mokomės, aktyviai dirba neuronai ir formuojasi stipresni ryšiai.
-Anna: Kaip jis paaiškina tą procesą?
-Adrian:* Jis duoda labai aiškų palyginimą. Smegenys yra kaip miškas. Kai dažnai eini tuo pačiu taku, takas tampa aiškesnis. Taip ir mokantis: kuo daugiau kartoji, tuo stipresnis lieka pėdsakas smegenyse.
-Anna:* O kokį vaidmenį čia turi miegas?
-Adrian:* Labai didelį. Dieną mes gauname daug informacijos, bet naktį smegenys ją sutvarko ir perkelia į ilgalaikę atmintį. Jos neišsaugo visko, tik tai, kas buvo svarbiausia arba įdomiausia.
-Anna:* Vadinasi, jeigu žmogus mažai miega, jis blogiau mokosi?
-Adrian:* Taip. Profesorius sako, kad be gero miego sunkiau konsoliduoti informaciją. Dar jis pabrėžia, kad stresą reikia mažinti, nes stresas kenkia hipokampui, kuris labai svarbus atminčiai.
-Anna:* O kas nutinka, jeigu žmogus nustoja mokytis?
-Adrian:* Tada jis pradeda greičiau senti. Silpnėja ne tik žinios. Silpnėja ir įvairūs gebėjimai, nes nenaudojami neuronų ryšiai po truputį nyksta.
-Anna:* Ar todėl jis taip daug kalba apie įvairovę?
-Adrian:* Būtent. Jis sako, kad smegenims reikia mokytis per akis, per ausis, per emocijas, per judesį ir per logiką. Joms reikia ir meno, ir muzikos, ir gamtos, ir praktinės patirties.
-Anna:* O kas yra neuroplastiškumas?
-Adrian:* Tai smegenų gebėjimas kurti naujus ryšius. Kai mes treniruojame tam tikrą sritį, ten stiprėja tinklai. Gali formuotis net nauji kapiliarai, kad aktyvios smegenys gautų daugiau deguonies ir maisto.
-Anna:* Gerai, o kokios yra pagrindinės mokymosi taisyklės?
-Adrian:* Pirma taisyklė – sąmoningai sutelkti dėmesį. Antra – mokėti tą dėmesį išlaikyti ilgiau ir slopinti trukdžius. Trečia – treniruoti darbinę atmintį: skaičiuoti, įsivaizduoti ir mintyse laikyti kelis svarbius dalykus.
-Anna:* O kaip mokytis giliau, o ne paviršutiniškai?
-Adrian:* Profesorius siūlo mokytis mažiau, bet giliau. Geriau nagrinėti mažiau temų, tačiau iš daugiau pusių. Toks mokymasis išlieka ilgesniam laikui.
-Anna:* Ar jis kalba ir apie savarankiškumą?
-Adrian:* Taip, labai aiškiai. Kai mokytojas ar tėvai viską parodo iš karto, smegenys dirba mažiau. Kai žmogus pats ieško sprendimo, dirba daug daugiau neuronų ir mokymasis tampa stipresnis.
-Anna:* O motyvacija čia tikrai tokia svarbi?
-Adrian:* Taip. Jis sako, kad vidinė motyvacija ir džiaugsmas yra mokymosi karalius. Kai žmogui tikrai patinka tai, ką jis mokosi, rezultatas būna geresnis ir tvirtesnis.
-Anna:* Vadinasi, geras mokymasis yra ne tik disciplina, bet ir džiaugsmas?
-Adrian:** Taip. Dėmesys, miegas, įvairovė, savarankiškumas ir vidinis noras – visa tai kartu daro mokymąsi veiksmingą.
+Siis võib see kogemus olla väga kasulik.
 
 ---
 
