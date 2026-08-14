@@ -16,140 +16,26 @@
 <a name="czech"></a>
 ## 🌐 Czech
 
-- [🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé](#czech-12-praziren-desitky-druhu-kavy-nebo-workshop-latte-art-mostecky-festival-kafovani-je-pro-velke-i-male)
+- [Poslední cigareta](#czech-posledni-cigareta)
 
-<a name="czech-12-praziren-desitky-druhu-kavy-nebo-workshop-latte-art-mostecky-festival-kafovani-je-pro-velke-i-male"></a>
-### 📖 🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé
+<a name="czech-posledni-cigareta"></a>
+### 📖 Poslední cigareta
 
 - Carpeta: `Czech`
-- Variants presents: `Text original`, `Diàleg base`
+- Variants presents: `Text original`
 
-#### 🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé
+#### Poslední cigareta
 
----
-alias: []
-creat: 2026-08-11
-actualitzat: 2026-08-11
-tipus: annex
-sector: aprenentatge
-estat: activa
-prioritat: mitjana
-font_tipus: article_web
-font_ref: []
-tags:
-  - desenvolupament
-  - comprensio
-  - txec
-  - idiomes
----
+🈶 nekovarova2012-5.Lekce-Deixar de fumar-versió comprensible
+nekovarova2012-5.Lekce-Deixar de fumar-Diàleg-versió comprensible
 
-[[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé-versió comprensible\|🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé-versió comprensible]]
-[[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé-Diàleg\|🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé-Diàleg]]
+Poslední cigareta
 
-# 🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé
+Jmenuju se Radka. Začala jsem kouřit na vysoké škole, protože skoro všichni moji známí byli kuřáci. Postupně jsem se zařadila mezi ně a časem jsem se dopracovala ke dvěma krabičkám denně. Usínala jsem obrazně řečeno s cigaretou v puse a hned po probuzení jsem sahala po další. Když jsem byla na tahu, odpalovala jsem jednu cigaretu od druhé.
 
-- URL font: https://www.irozhlas.cz/zivotni-styl/spolecnost/12-prazirek-desitky-druhu-kavy-nebo-workshop-latte-artu-mostecky-festival_2608091248_mkm
-- Publicat: 2026-08-09 12:48
-- Tipus de font: article web amb àudio incrustat
+Po dvanácti letech jsem se rozhodla přestat s kouřením ze dne na den. Neměla jsem ale dost silnou vůli. Po týdnu mě přepadla silná chuť na cigaretu a v blízkém baru jsem vykouřila celou krabičku. Pochopila jsem, že sama tu chuť nedokážu potlačit, a proto jsem navštívila poradnu pro odvykání kouření. Doktor mi předepsal léky proti kouření a poradil mi různé triky, jak přestat kouřit.
 
-## Kafování v Mostě
-
-V parku Střed v Mostě se koná druhý ročník kávového festivalu Kafování. Festival se zaměřuje na výběrovou kávu a účastní se ho české i zahraniční pražírny.
-
-Oproti minulému ročníku je festival větší. Návštěvníci se mohou těšit na dvanáct pražíren. Kávu ze zahraničních pražíren mohou ochutnat ve zvláštním stánku, kterému se říká brewbar.
-
-Program je rozdělený na placenou a neplacenou část. Neplacená část probíhá na pódiu v parku. Lidé si tam mohou poslechnout rozhovory s majiteli pražíren a s dalšími lidmi, kteří se dlouhodobě věnují kávě.
-
-## Namaluj kávu
-
-Placená část se koná na střeše kavárny. Jsou tam hlavně workshopy. Lidé tam ochutnávají kávu a učí se, jak některé chutě poznat, jak kávu připravit nebo jak ji párovat s čokoládou.
-
-Součástí programu je také workshop latte art. Účastníci se tam naučí šlehat mléko a kreslit do kávy. Organizátorka Kateřina Turek upozorňuje, že kapacita workshopu je omezená. V pět hodin odpoledne pak kurz končí soutěží o nejlepší obrázek v kávě.
-
-Festival myslí i na děti. Stejně jako minulý rok mohou navrhovat samolepku na balíček kávových zrn vytvořený přímo pro festival. Loni vyhrál návrh od dvouleté holčičky a právě ten se letos na festivalu prodává.
-
----
-
-#### 🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé-Diàleg
-
----
-alias: []
-creat: 2026-08-11
-actualitzat: 2026-08-11
-tipus: annex
-sector: aprenentatge
-estat: activa
-prioritat: mitjana
-font_tipus: dialeg
-font_ref:
-  - "[[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé\|🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé]]"
-tags:
-  - desenvolupament
-  - dialeg
-  - txec
-  - idiomes
----
-
-[[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé\|🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé]]
-[[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé-Diàleg-versió comprensible\|🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé-Diàleg-versió comprensible]]
-
-# 🈶 12 pražíren, desítky druhů kávy nebo workshop latte art. Mostecký festival Kafování je pro velké i malé-Diàleg
-
-**Anna:** Co je to Kafování? Ten název zní docela vtipně.
-
-**Adrian:** Je to kávový festival v Mostě. Koná se v parku Střed a letos má druhý ročník.
-
-**Anna:** Je to malá místní akce, nebo něco většího?
-
-**Adrian:** Letos je festival větší než minule. Přijede tam dvanáct pražíren a některé jsou i ze zahraničí.
-
-**Anna:** A co tam lidé vlastně dělají? Jen pijí kávu?
-
-**Adrian:** Ne, program je širší. Lidé ochutnávají výběrovou kávu a mohou mluvit s lidmi, kteří se kávě věnují dlouho.
-
-**Anna:** Kde jsou zahraniční pražírny?
-
-**Adrian:** Pro ně je připravený zvláštní stánek. Říká se mu brewbar.
-
-**Anna:** Festival má jen jednu část programu?
-
-**Adrian:** Ne. Je rozdělený na placenou a neplacenou část. Ta neplacená je na pódiu v parku.
-
-**Anna:** Co se děje na tom pódiu?
-
-**Adrian:** Jsou tam rozhovory s majiteli pražíren a s dalšími lidmi z kávového světa.
-
-**Anna:** A placená část je kde?
-
-**Adrian:** Na střeše kavárny. Tam jsou hlavně workshopy.
-
-**Anna:** Jaké workshopy?
-
-**Adrian:** Lidé se tam učí poznávat chutě, připravovat kávu a párovat ji s čokoládou.
-
-**Anna:** To zní dobře. Je tam i něco pro lidi, kteří mají rádi latte art?
-
-**Adrian:** Ano. Je tam workshop latte art. Lidé se učí šlehat mléko a kreslit do kávy.
-
-**Anna:** Může tam jít každý?
-
-**Adrian:** Může, ale kapacita je omezená. Takže je dobré počítat s tím, že nebude místo pro všechny.
-
-**Anna:** A jak ten workshop končí?
-
-**Adrian:** V pět hodin je soutěž o nejlepší obrázek v kávě. To je závěr kurzu.
-
-**Anna:** Myslí festival i na děti?
-
-**Adrian:** Ano, i letos. Děti mohou navrhovat samolepku na balíček kávových zrn pro festival.
-
-**Anna:** To je hezký nápad. Vyhrál už někdo takovou soutěž dřív?
-
-**Adrian:** Ano. Minulý rok vyhrál návrh od dvouleté holčičky. A právě ten se letos na festivalu prodává.
-
-**Anna:** Takže festival není jen o pití kávy.
-
-**Adrian:** Přesně tak. Je to ochutnávka, vzdělávání i zábava pro dospělé i pro děti.
+Během odvykací kúry jsem přibrala patnáct kilo, ale stálo to za to. Už rok nekouřím.
 
 ---
 
@@ -160,69 +46,88 @@ tags:
 <a name="estonian"></a>
 ## 🌐 Estonian
 
-- [Tartus Rüütli tänavale kerkiv elumaja tekitab baariomanikes muret](#estonian-tartus-ruutli-tanavale-kerkiv-elumaja-tekitab-baariomanikes-muret)
+- [🈶 Hiiumaa women have to travel to Saaremaa or the mainland to give birth](#estonian-hiiumaa-women-have-to-travel-to-saaremaa-or-the-mainland-to-give-birth)
 
-<a name="estonian-tartus-ruutli-tanavale-kerkiv-elumaja-tekitab-baariomanikes-muret"></a>
-### 📖 Tartus Rüütli tänavale kerkiv elumaja tekitab baariomanikes muret
+<a name="estonian-hiiumaa-women-have-to-travel-to-saaremaa-or-the-mainland-to-give-birth"></a>
+### 📖 🈶 Hiiumaa women have to travel to Saaremaa or the mainland to give birth
 
 - Carpeta: `Estonian`
 - Variants presents: `Text original`
 
-#### Tartus Rüütli tänavale kerkiv elumaja tekitab baariomanikes muret
+#### 🈶 Hiiumaa women have to travel to Saaremaa or the mainland to give birth
 
----
-títol: "Tartus Rüütli tänavale kerkiv elumaja tekitab baariomanikes muret"
-alias:
-autor: "[[Lauraliis Jurkov \| ERR]]"
-descripcio: "Mitu Tartu vanalinna baari on mures paari aasta pärast linna südamesse valmivate korterite ja uute elanike pärast. Eelkõige kardetakse öise müra tõttu tekkivaid konflikte. Tartu linna sõnul peavad vanalinnna mahtuma nii baarid kui ka uued elanikud."
-font: "https://www.err.ee/1610106124/tartus-ruutli-tanavale-kerkiv-elumaja-tekitab-baariomanikes-muret"
-tipus_font:
-creat: "2026-08-09T18:38:42+02:00"
-publicat: "2026-08-09T19:10:00+0300"
-tipus:
-estat: "activa"
-prioritat: "mitjana"
-tags:
-workflow_domini: "llengues"
-fase_llengues: "desenvolupament"
-idioma:
----
+🧠 Contingut
+🈶 Hiiumaa naised peavad sünnituseks sõitma Saaremaale või mandrile-versió comprensible
 
-## 🧠 Contingut
-X!
+🈶 Hiiumaa naised peavad sünnituseks sõitma Saaremaale või mandrile-Diàleg
 
-![Rüütli tänav Tartus](https://i.err.ee/smartcrop?type=optimize&width=1744&aspectratio=16%3A10&url=https%3A%2F%2Fs.err.ee%2Fphoto%2Fcrop%2F2025%2F10%2F02%2F3037176h9101.jpg)
+🈶 Hiiumaa naised peavad sünnituseks sõitma Saaremaale või mandrile-Diàleg-versió comprensible🈶 Women from Hiiumaa must travel to Saaremaa or the mainland for childbirth - Dialogue version understandable
 
-Rüütli tänav Tartus Autor/allikas: Airika Harrik/ERR
+🈶 Hiiumaa naised peavad sünnituseks sõitma Saaremaale või mandrile🈶 Hiiumaa women have to travel to Saaremaa or the mainland to give birth
 
-[Eesti](https://www.err.ee/k/eesti)
+--
 
-Mitu Tartu vanalinna baari on mures paari aasta pärast linna südamesse valmivate korterite ja uute elanike pärast. Eelkõige kardetakse öise müra tõttu tekkivaid konflikte. Tartu linna sõnul peavad vanalinnna mahtuma nii baarid kui ka uued elanikud.
+Hiiumaa haigla lõpetas plaanilise sünnitusabiHiiumaa Hospital stopped scheduled maternity care
 
-1838\. aastal Tartu vanalinna Gildi ja Rüütli tänava nurgale ehitatud hoone on täitnud nii kalevivabriku, tütarlaste kooli kui ka polikliiniku rolli. Nüüd on aga mitu aastat tühjana seisnud hoones lisaks büroopinnale valmimas 53 - peamiselt ühe- kuni kahetoalist -korterit. Läheduses asuvad baarid on uute võimalike naabrite tuleku pärast mures, kartes mürakaebuseid ja samasuguseid konflikte, nagu on Genialistide klubiga seoses Tartus juba poolteist aastat lahendatud.
+Hiiumaa haigla ei paku alates 1. juulist enam plaanilist sünnitusabi. Põhjus on see, et haigla pediaater läks pensionile. Selle tõttu peavad Hiiumaa naised sünnitama kas Saaremaal Kuressaares või mõnes mandri haiglas.
 
-"Rüütli tänav on Tartu südatänav. Siin toimub kõige tihedam ööelu. Kuna meil on nagunii müraprobleemid, seda on Tartu linna puhul väga palju räägitud, siis kuidas lahendada seda olukorda, kus lubatakse külaliskortereid südatänavale, kus on ööelu meka? Miks lubatakse külaliskortereid siia tänavale? See on eos teada, et siin hakkavad probleemid olema ja praegu on kogemus näidanud, et mina pean oma taskust kõik probleemid lahendama oma raha, närvide ja kõigega," lausus Kivi baari omanik Karin Kiplok.
+Hiiumaa Hospital will no longer offer scheduled maternity care from July 1. The reason is that the pediatrician at the hospital retired. Because of this, the women of Hiiumaa have to give birth either in Kuressaare in Saaremaa or in a hospital on the mainland.
 
-Uute korterite läheduses asuvate mitmete baaride omaniku Jaan Toveri sõnul on mures ka nemad, kuna linn ei tegele ööeluprobleemide ennetamisega. Kui probleemid tekivad, peavad Rüütli tänava ettevõtjad nende lahendamisega ise tegelema. Arendaja sõnul on nemad oma plaane teinud asukohta arvestades.
+Mis teenused saarel alles jäävadWhat services remain on the island
+Erakorraline sünnitusabi jääb alles. Ka rasedate jälgimine, arvele võtmine, analüüside tegemine, günekoloogi vastuvõtt ja ämmaemanda vastuvõtud jätkuvad. Riskirasedad on aga juba mõnda aega saadetud sünnitama Tallinna haiglatesse.
 
-"Siin on pigem väiksemad kodud, kus tõenäoliselt on nooremapoolsed inimesed, lasteta, keda võiks kaasnev häiring vähem häirida. Teine asi, et ehitustehniliselt me peame väga hästi kandma hoolt, et aknad saaksid väga hästi tehtud. Pluss, et ventilatsiooniavasid ei tuleks seina," sõnas Livida juhtivpartner Kaarel Kiidron.
+Emergency obstetric care remains. Monitoring of pregnant women, registration, analysis, gynecologist's appointment and midwife's appointments will also continue. However, high-risk pregnant women have been sent to Tallinn hospitals to give birth for some time.
 
-Kuigi korterite ostuhuvilisi teavitatakse Rüütli tänava melust, on ka neid, kes on arvestanud küll tänaval oleva lärmi ja inimestega, kuid kõiki murekohti pole ette näinud.
+Sünnitusi on vähe, aga mure on suurThere are few births, but the concern is great
 
-"See vibratsioon, mis tuleb nädalavahetusel aknasse, on päris hull tegelikult ja see tuleb just muusikamürast. Ma teadsin, et seal on müra, aga ma ei arvanud, et see vibratsioon tuleb läbi maja seina. See on kõrvalmaja, kust see vibratsioon läbi tuleb. Ma teadsin, et siin on palju inimesi, inimesed mind ei häiri, aga seda muusikat võiks siin vähem olla," ütles elanik Rüütli tänavas Triin Varul.
+Eelmisel aastal sündis Hiiumaal 22 last. Tänavu sündis poole aasta jooksul 12 last. Arstide liidu president Neeme Tõnisson ütles, et see on kurb uudis, kuid ta loodab, et sünnitusabi peatamine on ajutine ja uus spetsialist leitakse.
 
-Tartu abilinnapea Kertu Vuksi sõnul näeb linn ette, et vanalinna peavad mahtuma nii elamispinnad kui ka baarid ja kohvikud. Juhul, kui uutel vanalinna elanikel tekivad müraga probleemid, asutakse neid juhtumipõhiselt lahendama. Samal ajal on linna soov, et baarid oleksid elujõulised ka väljaspool vanalinna.
+Last year, 22 children were born in Hiiumaa. This year, 12 children were born within half a year. The president of the Association of Doctors, Neeme Tõnisson, said that this is sad news, but he hopes that the suspension of obstetric care will be temporary and that a new specialist will be found.
 
-"Linna soov ja nägemus on ka see, et ka teistsugused asukohad, mitte ainult Rüütli tänaval, vaid ka kogukonnabaarid oleksid elujõulised," lausus Vuks, lisades, et kokkuvõttes baarid Rüütli tänavalt lahkuma ei pea ning ettevõtted valid endale ise kõige sobivama koha.
+Suur probleem on arstide puudus
 
-Toimetaja: Johanna Alvin
+Haigla juht Riina Tamm ütles, et pediaatri puudumine ei ole ainus mure. Mõnel päeval ei ole haiglas olnud naistearsti, anestesioloogi või kirurgi. Mõnikord on olnud raske katta ka valveid. Tema sõnul ei saa haigla sellises olukorras pakkuda plaanilist ja turvalist sünnitust.
 
-Allikas: "Aktuaalne kaamera"
+The head of the hospital, Riina Tamm, said that the lack of a pediatrician is not the only concern. Some days there has been no gynecologist, anesthetist or surgeon in the hospital. Sometimes it has been difficult to cover the guards as well. According to him, the hospital cannot offer a planned and safe delivery in such a situation.
 
-## 📄 Selecció
-- [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Tartus Rüütli tänavale kerkiv elumaja tekitab baariomanikes muret-versió comprensible\|🈶 Tartus Rüütli tänavale kerkiv elumaja tekitab baariomanikes muret-versió comprensible]]
-- [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Tartus Rüütli tänavale kerkiv elumaja tekitab baariomanikes muret-Diàleg\|🈶 Tartus Rüütli tänavale kerkiv elumaja tekitab baariomanikes muret-Diàleg]]
-- [[600-ANNEXOS/El_viatge_de_la_meua_vida/Estonian/🈶 Tartus Rüütli tänavale kerkiv elumaja tekitab baariomanikes muret-Diàleg-versió comprensible\|🈶 Tartus Rüütli tänavale kerkiv elumaja tekitab baariomanikes muret-Diàleg-versió comprensible]]
+Arste on raske saarele tuua
+
+Tammi sõnul maksab haigla head palka, kuid arstid ei julge Hiiumaale tööle tulla, sest tegemist on saarega. Sotsiaalministeeriumi esindaja Nikita Panjuškin ütles, et isegi erimeetmed ja eritingimused ei taga alati seda, et kõik vajalikud spetsialistid oleksid kohal.
+
+According to Tammi, the hospital pays a good salary, but doctors do not dare to come to Hiiumaa to work because it is an island. Nikita Panjushkin, representative of the Ministry of Social Affairs, said that even special measures and special conditions do not always ensure that all necessary specialists are present.
+
+Võimalikud lahendused Possible solutions
+
+Noored arstid ei taha sageli väikese koormusega väikehaiglasse tööle minna. Tõnissoni arvates võiks abi olla kogenud arstidest, kes oleksid valmis töötama osakoormusega*. Panjuškin lisas, et lahendus ei saa olla ainult töötajate arvu suurendamine. Tema sõnul aitavad ka e-konsultatsioonid, üleriigiline digiregistratuur ja teised sarnased meetmed.
+
+Young doctors often do not want to work in a small hospital with a light workload. In Tõnisson's opinion, experienced doctors who would be willing to work part-time could be helpful. Panjushkin added that the solution cannot be only to increase the number of employees. According to him, e-consultations, nationwide digital registry and other similar measures also help.
+
+History ![](chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/global/src/static/emptytool.png)
+
+No records yet
+
+Start using PowerUP, history will be displayed here
+
+Basic Tool
+
+Favorites
+
+For this site ![](chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/global/src/static/emptytool.png)
+
+You can create a custom PowerUP for this web.
+
+Succeed, and you'll be a pioneer of the new frontier!
+
+Explain
+
+📄 Selecció
+
+🧭 Routing
+workflowdomini: llengues
+fasellengues: desenvolupament
+idioma: (emplena-ho)
+
+📝 Observacions
 
 ---
 
@@ -233,83 +138,112 @@ Allikas: "Aktuaalne kaamera"
 <a name="lithuanian"></a>
 ## 🌐 Lithuanian
 
-- [🈶 Tėčio ir dukros grybavimo džiaugsmas Varėnos rajone - Text amb expressions](#lithuanian-tecio-ir-dukros-grybavimo-dziaugsmas-varenos-rajone-text-amb-expressions)
+- [🈶 Auksinės mokymosi taisyklės](#lithuanian-auksines-mokymosi-taisykles)
 
-<a name="lithuanian-tecio-ir-dukros-grybavimo-dziaugsmas-varenos-rajone-text-amb-expressions"></a>
-### 📖 🈶 Tėčio ir dukros grybavimo džiaugsmas Varėnos rajone - Text amb expressions
+<a name="lithuanian-auksines-mokymosi-taisykles"></a>
+### 📖 🈶 Auksinės mokymosi taisyklės
 
 - Carpeta: `Lithuanian`
-- Variants presents: `Text original`
+- Variants presents: `Text original`, `Diàleg base`
 
-#### 🈶 Tėčio ir dukros grybavimo džiaugsmas Varėnos rajone - Text amb expressions
+#### 🈶 Auksinės mokymosi taisyklės
+
+🈶 Auksinės mokymosi taisyklės-versió comprensible
+🈶 Auksinės mokymosi taisyklės-Diàleg
+🈶 Auksinės mokymosi taisyklės-Diàleg-versió comprensible
+
+🈶 Auksinės mokymosi taisyklės
+
+Ši nota és una transcripció netejada i reordenada a partir de la font d'àudio «Auksines mokymosi taisykles išskyręs profesorius.mp3» del quadern NotebookLM «LT-TV-DEV-Gydytojas Andrius». Manté el contingut principal de l'àudio, però amb una puntuació i una segmentació més llegibles.
+
+--
+
+Įžanga
+
+Mokymasis dažnai suprantamas kaip vaikų pareiga, bet iš tikrųjų tai yra biologinė žmogaus savybė. Tai lyg sportas, kurį reikia praktikuoti visą gyvenimą. Pokalbyje profesorius Albertas Kurvydas aiškina, kaip mokosi neuronai ir kodėl mūsų smegenys niekada nenustoja tobulėti.
+
+Kaip mokosi smegenys
+
+Profesorius remiasi Nobelio premijos laureato Eriko Kendelo darbais. Jo tyrimai rodo, kad mūsų galvos smegenys yra labai plastiškos. Kai mokomės, dirba neuronai. Iš prigimties turime apie šimtą milijardų neuronų. Vieni jų labiau susiję su loginiu mąstymu, kiti su emociniu intelektu, judesių valdymu, klausa, rega ar kitomis funkcijomis.
+
+Kai sprendžiame uždavinius, aktyviai dirba loginių centrų neuronai. Profesorius tai vaizdingai lygina su takeliu miške: kuo dažniau tuo pačiu taku einame, tuo jis tampa ryškesnis ir tvirtesnis. Taip ir smegenyse – kuo daugiau kartojame, tuo stipresnis lieka mokymosi pėdsakas.
+
+Miegas ir atmintis
+
+Dienos metu smegenys gauna stimulą, o naktį įvyksta pats svarbiausias darbas. Miego metu smegenys sudėlioja informaciją į savo „lentynas“ ir konsoliduoja ją į ilgalaikę atmintį. Iš pradžių susiformuoja trumpalaikė atmintis, o vėliau ji perduodama į labai svarbią struktūrą – hipokampą.
+
+Profesorius pabrėžia, kad hipokampą labai žaloja stresas. Todėl, jeigu norime geriau atsiminti, turime nepatirti per didelio streso. Taip pat labai svarbu laiku eiti miegoti. Giliojo miego fazėje smegenys iš daugybės dienos įspūdžių atrenka tai, kas buvo svarbiausia ir įdomiausia.
+
+Žmogus gali per dieną išgirsti daug informacijos, bet naktį smegenys neužfiksuoja visko. Jos labiausiai išsaugo tai, kas buvo stipriausia, įdomiausia ar emociškai ryškiausia. Todėl efektyvus mokymasis be pakankamo miego neduoda tokio gero rezultato.
+
+Kodėl reikia mokytis visą gyvenimą
+
+Pokalbyje keliama mintis, kad žmogus, nustojęs mokytis, pradeda greičiau senti ne tik fiziškai, bet ir emociškai. Profesorius aiškina, kad jeigu nenaudojame tam tikrų funkcijų, jas silpniname. Jeigu nesprendžiame loginių uždavinių, prarandame dalį tam reikalingų ryšių. Jeigu netreniruojame smulkiosios motorikos, klausos, regėjimo ar emocinio intelekto, taip pat prarandame dalį tų gebėjimų.
+
+Todėl, kad smegenys nuolat atsinaujintų, reikia mokytis visą gyvenimą. Svarbu mokytis ne vienu būdu, o per įvairovę: per akis, per ausis, per emocijas, per judesį, per logiką ir per darbinę atmintį.
+
+Neuroplastiškumas ir įvairovė
+
+Neuroplastiškumas reiškia, kad smegenys gali kurti naujus ryšius. Kai vieno neurono ar vieno tinklo nebepakanka, formuojasi nauji kontaktai, nauji neuronų ryšiai, o net ir nauji kapiliarai, kad aktyviai dirbančios smegenys gautų daugiau maisto ir deguonies.
+
+Profesorius pabrėžia, kad smegenims reikia įvairovės. Joms reikia ne tik logikos, bet ir meno, muzikos, gamtos, judesio, intuicijos, emocijų ir patirtinio darbo. Jei per daug specializuojamės tik vienoje srityje, kitos sritys lieka silpnesnės.
+
+Auksinės mokymosi taisyklės
+
+Profesorius išskiria kelias svarbias mokymosi taisykles.
+
+Pirma – sąmoningas dėmesio koncentravimas. Norint ką nors tikrai išmokti, reikia mokėti kryptingai sutelkti dėmesį.
+
+Antra – dėmesio išlaikymas. Reikia treniruotis išlaikyti dėmesį vis ilgiau ir kartu slopinti pagundas, kurios trukdo susikaupti.
+
+Trečia – darbinės atminties treniravimas. Tai reiškia mintinį skaičiavimą, vizualizavimą, prognozavimą ir gebėjimą vienu metu išlaikyti galvoje kelis svarbius faktus ar principus.
+
+Ketvirta – geriau mažiau, bet giliau. Skubotas mokymasis dažnai būna paviršutiniškas. Daug geriau mokytis mažiau temų, bet jas nagrinėti iš įvairių pusių.
+
+Penkta – mokymasis per įvairovę. Tyrimai rodo, kad taip išmokti dalykai išlieka ilgiau ir gali būti plačiau pritaikomi kitose veiklose.
+
+Šešta – mokytis reikia pačiam. Kai mokytojas, tėvai ar kiti žmonės nuolat parodo visą sprendimą ir taiso klaidas čia pat, smegenys dirba mažiau. Kai žmogus pats bando priimti sprendimus ir ieškoti atsakymo, dirba daug daugiau neuronų.
+
+Septinta – vidinė motyvacija ir džiaugsmas. Mokymasis geriausiai vyksta tada, kai žmogui tikrai patinka tai, ką jis daro. Kai yra vidinis noras ir džiaugsmas, rezultatai būna stipresni ir ilgaamžiškesni.
+
+Pabaiga
+
+Pokalbio pabaigoje profesorius apibendrina, kad šiuolaikinis mokymosi mokslas vis labiau rodo tą pačią kryptį: smegenims reikia dėmesio, miego, įvairovės, savarankiškumo ir vidinės motyvacijos. Mokymasis nėra trumpas etapas – tai viso gyvenimo procesas.
 
 ---
-títol: "🈶 Tėčio ir dukros grybavimo džiaugsmas Varėnos rajone"
-alias:
-autor:
-descripcio:
-font: "https://share.note.sx/fe20nq0d#t8j9nYQRNOCfwyszMTKeqiqgzPd8k/lpUl7ndUtTNh8"
-tipus_font:
-creat: "2026-07-24T15:03:53+02:00"
-publicat:
-tipus:
-estat: "activa"
-prioritat: "mitjana"
-tags:
-workflow_domini: "llengues"
-fase_llengues: "desenvolupament"
-idioma:
----
 
-## 🧠 Contingut
-## Šeimos grybavimo tradicija
+#### 🈶 Auksinės mokymosi taisyklės-Diàleg
 
-Marijampolės rajone gyvenantis Benediktas Šalna su žmona Zenyte ir dukra Reda grybauja jau daug metų. Jie kartu eina į mišką nuo tada, kai Reda buvo visai maža, **vos trejų metų**. Pats Benediktas taip pat grybauja nuo vaikystės, todėl draugai jį net vadina Grybų karaliumi.
+🈶 Auksinės mokymosi taisyklės
+🈶 Auksinės mokymosi taisyklės-Diàleg-versió comprensible
 
-## Kodėl jie pakeitė planą
+🈶 Auksinės mokymosi taisyklės-Diàleg
 
-Šiemet Benediktas labai **pyko ant miško netoli namų**, Balbieršgyrėje. Ten jis rado nemažai baravykų, bet beveik visi jie buvo sukirmiję. Dėl to šeima nusprendė neieškoti daugiau baravykų ir važiuoti rinkti voveraičių, nes šie grybai paprastai nekirmija.
+--
 
-## Kelionė į Varėnos rajoną
-
-Šeima iš Marijampolės rajono išvažiavo į Varėnos rajoną. Į vieną pusę reikėjo važiuoti apie šimtą kilometrų. Paklaustas, ar **negaila tiek degalų dėl grybų**, Benediktas pasakė, kad grybavimas jam yra kaip liga. Kai žmogus labai mėgsta grybauti, **jis apie tokias smulkmenas daug negalvoja**.
-
-## Labai sėkminga diena miške
-
-Kelionė tikrai **buvo verta pastangų**. Per maždaug tris valandas, nuo aštuntos iki vienuoliktos ryto, Benediktas, Zenyte ir Reda pririnko keturis kibirus voveraičių, tai yra bent trisdešimt penkis litrus. Reda pasakojo, kad kai kur grybų buvo tiek daug, jog atrodė, tarsi jie augtų kilimais. Ji sakė, kad tokio nuostabaus grybavimo seniai nebuvo.
-
-Benediktas pridūrė, kad **ne visur buvo vienodai**. Kai kur reikėjo sustoti ir rimtai ieškoti, o kitose vietose **grybų buvo tiek daug, kad buvo galima tiesiog tupėti ar net ropoti ir pjauti juos vieną po kito**.
-
-## Kur jie rado voveraites
-
-Benediktas net pasakė gana tikslią vietą. Tai vietovė Varėnos rajone, netoli Zervynų, abiejose Ūlos upės pusėse. Važiuojant nuo Varėnos link Marcinkonių, jo manymu, reikėtų sustoti maždaug keturioliktame kilometre. Jis sakė, kad visi žmonės, kuriems jau buvo parodęs šią vietą, nenusivylė.
-
-## Šeimos požiūris į mėgstamą vietą
-
-Paklaustas, ar negaila viešai pasakyti apie mėgstamą grybingą vietą, Benediktas atsakė, kad ne. **Jo manymu**, **grybai yra Dievo dovana visiems**, todėl **tegul grybauja visi, kas nori**. Dukra Reda jam pritarė ir sakė, kad jai taip pat negaila, nes smagu, kai ir kiti žmonės džiaugiasi.
-
-## Ką jie padarė su grybais
-
-Dalį surinktų voveraičių Reda panaudojo vakarienei ir **pasikvietė draugų**. Daug grybų dar liko konservuoti. Benediktas **sakė, kad dalį grybų duos kaimynei**, dalį šeima valgys šviežius, o kitus džiovins. Jis taip pat girdėjo, kad **džiovintos** ir sumaltos **voveraitės dabar laikomos naudingu ilgaamžiškumo produktu**, todėl gal verta tai irgi išbandyti.
-
-## Maža šeimos tradicija
-
-Šeima turi gražią tradiciją. **Po kiekvieno sėkmingo grybavimo jie fotografuojasi** prie to paties stalo šalia namų. Tokių nuotraukų jau susikaupė tiek daug, kad dukra kartą padovanojo tėčiui albumą su įvairiomis jo surinktų grybų nuotraukomis.
-
-Explain
-
-## 📄 Selecció
-
-
-
-
-
-## 🧭 Routing
-- workflow_domini: llengues
-- fase_llengues: desenvolupament
-- idioma: (emplena-ho)
-
-## 📝 Observacions
+Mokymasis nėra tik vaikų pareiga, mokymasis yra biologinė žmogaus savybė. Tai veikla, kurią reikia tęsti visą gyvenimą. Todėl, kad mūsų smegenys nuolat gali keistis. Jos nėra sustingusios. Kai mokomės, aktyviai dirba neuronai ir formuojasi stipresni ryšiai.
+Anna: Kaip jis paaiškina tą procesą?
+Adrian:* Jis duoda labai aiškų palyginimą. Smegenys yra kaip miškas. Kai dažnai eini tuo pačiu taku, takas tampa aiškesnis. Taip ir mokantis: kuo daugiau kartoji, tuo stipresnis lieka pėdsakas smegenyse.
+Anna:* O kokį vaidmenį čia turi miegas?
+Adrian:* Labai didelį. Dieną mes gauname daug informacijos, bet naktį smegenys ją sutvarko ir perkelia į ilgalaikę atmintį. Jos neišsaugo visko, tik tai, kas buvo svarbiausia arba įdomiausia.
+Anna:* Vadinasi, jeigu žmogus mažai miega, jis blogiau mokosi?
+Adrian:* Taip. Profesorius sako, kad be gero miego sunkiau konsoliduoti informaciją. Dar jis pabrėžia, kad stresą reikia mažinti, nes stresas kenkia hipokampui, kuris labai svarbus atminčiai.
+Anna:* O kas nutinka, jeigu žmogus nustoja mokytis?
+Adrian:* Tada jis pradeda greičiau senti. Silpnėja ne tik žinios. Silpnėja ir įvairūs gebėjimai, nes nenaudojami neuronų ryšiai po truputį nyksta.
+Anna:* Ar todėl jis taip daug kalba apie įvairovę?
+Adrian:* Būtent. Jis sako, kad smegenims reikia mokytis per akis, per ausis, per emocijas, per judesį ir per logiką. Joms reikia ir meno, ir muzikos, ir gamtos, ir praktinės patirties.
+Anna:* O kas yra neuroplastiškumas?
+Adrian:* Tai smegenų gebėjimas kurti naujus ryšius. Kai mes treniruojame tam tikrą sritį, ten stiprėja tinklai. Gali formuotis net nauji kapiliarai, kad aktyvios smegenys gautų daugiau deguonies ir maisto.
+Anna:* Gerai, o kokios yra pagrindinės mokymosi taisyklės?
+Adrian:* Pirma taisyklė – sąmoningai sutelkti dėmesį. Antra – mokėti tą dėmesį išlaikyti ilgiau ir slopinti trukdžius. Trečia – treniruoti darbinę atmintį: skaičiuoti, įsivaizduoti ir mintyse laikyti kelis svarbius dalykus.
+Anna:* O kaip mokytis giliau, o ne paviršutiniškai?
+Adrian:* Profesorius siūlo mokytis mažiau, bet giliau. Geriau nagrinėti mažiau temų, tačiau iš daugiau pusių. Toks mokymasis išlieka ilgesniam laikui.
+Anna:* Ar jis kalba ir apie savarankiškumą?
+Adrian:* Taip, labai aiškiai. Kai mokytojas ar tėvai viską parodo iš karto, smegenys dirba mažiau. Kai žmogus pats ieško sprendimo, dirba daug daugiau neuronų ir mokymasis tampa stipresnis.
+Anna:* O motyvacija čia tikrai tokia svarbi?
+Adrian:* Taip. Jis sako, kad vidinė motyvacija ir džiaugsmas yra mokymosi karalius. Kai žmogui tikrai patinka tai, ką jis mokosi, rezultatas būna geresnis ir tvirtesnis.
+Anna:* Vadinasi, geras mokymasis yra ne tik disciplina, bet ir džiaugsmas?
+Adrian:** Taip. Dėmesys, miegas, įvairovė, savarankiškumas ir vidinis noras – visa tai kartu daro mokymąsi veiksmingą.
 
 ---
 
