@@ -54,22 +54,6 @@
 **Adrian:** To je na tom krásné. Malý detail, průhledná sklenice, ukázal novou krásu piva. A ta krása přinesla nové návyky i nové technologie.
 
 ---
-
-## Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| průhledná sklenice | got transparent |
-| půllitr | got de mig litre |
-| pěna | escuma |
-| čirost / čistota | claredat / netedat |
-| pít očima | beure amb els ulls |
-| chlazení | refrigeració |
-| ledárna | magatzem de gel |
-| chladicí systém | sistema de refrigeració |
-
----
-
 *Versió comprensible: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració-Diàleg-versió comprensible\|🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració-Diàleg-versió comprensible]]*
 *Segment anterior: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 04 Revolució 1842-Diàleg\|🈶 Češi a pivo - 04 Revolució 1842-Diàleg]]*
 *Segment següent: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 06 Hospoda i comunisme-Diàleg\|🈶 Češi a pivo - 06 Hospoda i comunisme-Diàleg]]*

@@ -62,22 +62,6 @@
 **Adrian:** Ne. Měl jen tříletou smlouvu a potom se vrátil do Bavorska. Je to paradox: nebyl Čech, nebyl tam dlouho, ale změnil české pivo i celý svět.
 
 ---
-
-## Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| sládek | mestre cerveser |
-| měšťanský pivovar | cerveseria municipal / dels ciutadans |
-| várečné právo | dret de fabricar cervesa |
-| spodní kvašení | fermentació baixa |
-| ležák | lager, cervesa madurada en fred |
-| světlý slad | malta clara |
-| žatecký chmel | llúpol de Žatec |
-| průzračný | transparent, clar |
-
----
-
 *Versió comprensible: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 04 Revolució 1842-Diàleg-versió comprensible\|🈶 Češi a pivo - 04 Revolució 1842-Diàleg-versió comprensible]]*
 *Segment anterior (07:45): [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 03 Orígens medievals-Diàleg\|🈶 Češi a pivo - 03 Orígens medievals-Diàleg]]*
 *Segment següent: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració-Diàleg\|🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració-Diàleg]]*

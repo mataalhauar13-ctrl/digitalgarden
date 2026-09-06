@@ -34,24 +34,6 @@
 **Adrian:** Přesně. Když Josef Groll přijel z Bavorska v roce 1842, spojil bavorskou technologii spodního kvašení s měkkou plzeňskou vodou, světlým sladem a žateckým chmelem. Výsledek byl zlatavý, průzračný ležák, který změnil svět.
 
 ---
-
-## Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| chmel | llúpol |
-| žatecký chmel | llúpol de Žatec |
-| ušlechtilost | noblesa / distinció (d'aroma) |
-| měkká voda | aigua tova / suau |
-| tvrdá voda | aigua dura |
-| minerální soli | sals minerals |
-| žula / rula | granit / gneis |
-| spodní kvašení | fermentació baixa (lager) |
-| světlý slad | malt clar |
-| ležák | lager (tipus de cervesa) |
-
----
-
 *Versió comprensible: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 02 Factors geogràfics-Diàleg-versió comprensible\|🈶 Češi a pivo - 02 Factors geogràfics-Diàleg-versió comprensible]]*
 *Segment anterior (00:00): [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 01 Paradoxa del consum cerveser-Diàleg\|🈶 Češi a pivo - 01 Paradoxa del consum cerveser-Diàleg]]*
 *Segment següent (07:45): [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 03 Orígens medievals-Diàleg\|🈶 Češi a pivo - 03 Orígens medievals-Diàleg]]*

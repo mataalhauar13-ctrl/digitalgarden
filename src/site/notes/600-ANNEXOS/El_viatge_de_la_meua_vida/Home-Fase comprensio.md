@@ -54,22 +54,6 @@ Anna:* Ale proč? Co je na Češích tak zvláštního?
 Adrian:* Přesně ta otázka je nejzajímavější. Odpověď není jednoduchá a ten, kdo Čechy naučil pít, není ten, koho byste čekali.
 
 --
-
-Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| spotřeba piva | consum de cervesa |
-| ohromující | aclaparador / impressionant |
-| průměrný Čech | el txec mitjà |
-| koupelnová vana | banyera |
-| pivní zahrada | jardí de cervesa (Biergarten) |
-| nepřetržitě | ininterrompudament / sense pausa |
-| zakořeněný | arrelat |
-| kulturní fenomén | fenomen cultural |
-| čtvrt století | un quart de segle |
-
---
 Segment següent (03:15): 🈶 Češi a pivo - 02 Factors geogràfics-Diàleg
 
 ---
@@ -100,23 +84,6 @@ Anna:* Proč je plzeňská voda tak měkká?
 Adrian:* Kvůli geologii. Plzeň leží na soutoku čtyř řek v oblasti žul a rul. To jsou horniny, které vodě nepřidávají minerály. Tato měkkost existuje miliony let, dávno před tím, než tam někdo vařil pivo.
 Anna:* Takže to byla šťastná náhoda, ne vědomá volba pivovarníků?
 Adrian:* Přesně. Když Josef Groll přijel z Bavorska v roce 1842, spojil bavorskou technologii spodního kvašení s měkkou plzeňskou vodou, světlým sladem a žateckým chmelem. Výsledek byl zlatavý, průzračný ležák, který změnil svět.
-
---
-
-Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| chmel | llúpol |
-| žatecký chmel | llúpol de Žatec |
-| ušlechtilost | noblesa / distinció (d'aroma) |
-| měkká voda | aigua tova / suau |
-| tvrdá voda | aigua dura |
-| minerální soli | sals minerals |
-| žula / rula | granit / gneis |
-| spodní kvašení | fermentació baixa (lager) |
-| světlý slad | malt clar |
-| ležák | lager (tipus de cervesa) |
 
 --
 Segment anterior (00:00): 🈶 Češi a pivo - 01 Paradoxa del consum cerveser-Diàleg
@@ -150,23 +117,6 @@ Anna:* A kláštery? Hrály také nějakou roli?
 Adrian:* Obrovskou. Kláštery jako Břevnov, založený roku 993, měly jednu výhodu oproti městským sládkům: čas. Mniši mohli experimentovat, zkoušet různé suroviny a postupy, protože jejich obživa nezávisela výhradně na prodeji piva.
 Anna:* A co se stalo, když monopol fungoval příliš dobře?
 Adrian:* Přesně to je zajímavé. Monopol vede k poklesu kvality. V Plzni bylo pivo tak špatné, že se sudy vylévaly na náměstí. A to byl důvod, proč město povolalo Josefa Grolla z Bavorska.
-
---
-
-Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| várečné právo | dret de fabricació de cervesa |
-| měšťan | burgès / ciutadà medieval |
-| privilegium | privilegi |
-| sládek | mestre cerveser |
-| obec právovárečná | corporació de cervesers amb drets |
-| mílové právo | dret de la milla (monopoli de radi) |
-| klášter | monestir |
-| mnich | monjo |
-| sud | bóta / barril |
-| tekutý chléb | pa líquid (metàfora de la cervesa) |
 
 --
 Segment anterior (03:15): 🈶 Češi a pivo - 02 Factors geogràfics-Diàleg
@@ -216,21 +166,6 @@ Anna:* A Groll pak zůstal v Plzni jako hrdina?
 Adrian:* Ne. Měl jen tříletou smlouvu a potom se vrátil do Bavorska. Je to paradox: nebyl Čech, nebyl tam dlouho, ale změnil české pivo i celý svět.
 
 --
-
-Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| sládek | mestre cerveser |
-| měšťanský pivovar | cerveseria municipal / dels ciutadans |
-| várečné právo | dret de fabricar cervesa |
-| spodní kvašení | fermentació baixa |
-| ležák | lager, cervesa madurada en fred |
-| světlý slad | malta clara |
-| žatecký chmel | llúpol de Žatec |
-| průzračný | transparent, clar |
-
---
 Segment anterior (07:45): 🈶 Češi a pivo - 03 Orígens medievals-Diàleg
 Segment següent: 🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració-Diàleg*
 
@@ -272,21 +207,6 @@ Anna:* To znamená, že české pivo změnilo nejen pití, ale i potraviny?
 Adrian:* Přesně. Plzeňský ležák změnil kulturu pití po celém světě. Lidé začali sledovat barvu, pěnu a teplotu. A průmysl musel dodat sklo a chlad.
 Anna:* Nikdy bych neřekla, že jedna sklenice piva může mít tak velký vliv.
 Adrian:* To je na tom krásné. Malý detail, průhledná sklenice, ukázal novou krásu piva. A ta krása přinesla nové návyky i nové technologie.
-
---
-
-Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| průhledná sklenice | got transparent |
-| půllitr | got de mig litre |
-| pěna | escuma |
-| čirost / čistota | claredat / netedat |
-| pít očima | beure amb els ulls |
-| chlazení | refrigeració |
-| ledárna | magatzem de gel |
-| chladicí systém | sistema de refrigeració |
 
 --
 Segment anterior: 🈶 Češi a pivo - 04 Revolució 1842-Diàleg
@@ -340,23 +260,6 @@ Anna:* Takže hospoda, pivo, jídlo a rozhovor tvoří jeden celek.
 Adrian:* Přesně. Proto české pivo není jen nápoj. Je součástí způsobu života, společenských vztahů a také dějin nesvobody.
 
 --
-
-Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| hospoda | taverna / pub txec |
-| prodloužený obývací pokoj | sala d'estar prolongada |
-| šenk | taverna, lloc de servei de beguda |
-| krčma | hostal / taverna |
-| výčep | barra o punt on es tira cervesa |
-| půllitr | mig litre de cervesa |
-| udavač | delator |
-| útočiště | refugi |
-| utopenci | embotits en vinagre |
-| nakládaný hermelín | formatge Hermelín adobat |
-
---
 Segment anterior: 🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració-Diàleg
 
 ---
@@ -386,20 +289,6 @@ Pavel:* Ano, Plzeňský ležák změnil všechno. Lidé navíc začali pít z pr
 Eva:* To je zajímavé! A hospoda byla vždycky centrem společenského života.
 Pavel:* Dnes sice mladí lidé pijí trochu méně, ale více se zajímají o řemeslná piva a vysokou kvalitu.
 Eva:** Takže pivo pro nás není jen nápoj, ale drahocenná součást naší kultury.
-
---
-
-Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| žatecký chmel | llúpol de Žatec |
-| světlý ležák | lager clar (cervesa llager) |
-| sládek | mestre cerveser |
-| průhledná sklenice | got transparent |
-| hospoda | taverna / pub |
-| řemeslné pivo | cervesa artesana |
-| drahocenná součást | component preuat / part valuosa |
 
 --
 

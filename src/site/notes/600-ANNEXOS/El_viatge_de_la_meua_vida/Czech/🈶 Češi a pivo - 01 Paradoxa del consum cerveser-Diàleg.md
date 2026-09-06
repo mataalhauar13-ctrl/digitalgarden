@@ -38,22 +38,5 @@
 **Adrian:** Přesně ta otázka je nejzajímavější. Odpověď není jednoduchá a ten, kdo Čechy naučil pít, není ten, koho byste čekali.
 
 ---
-
-## Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| spotřeba piva | consum de cervesa |
-| ohromující | aclaparador / impressionant |
-| průměrný Čech | el txec mitjà |
-| koupelnová vana | banyera |
-| pivní zahrada | jardí de cervesa (*Biergarten*) |
-| nepřetržitě | ininterrompudament / sense pausa |
-| zakořeněný | arrelat |
-| kulturní fenomén | fenomen cultural |
-| čtvrt století | un quart de segle |
-
----
-
 *Versió comprensible: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 01 Paradoxa del consum cerveser-Diàleg-versió comprensible\|🈶 Češi a pivo - 01 Paradoxa del consum cerveser-Diàleg-versió comprensible]]*
 *Segment següent (03:15): [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 02 Factors geogràfics-Diàleg\|🈶 Češi a pivo - 02 Factors geogràfics-Diàleg]]*

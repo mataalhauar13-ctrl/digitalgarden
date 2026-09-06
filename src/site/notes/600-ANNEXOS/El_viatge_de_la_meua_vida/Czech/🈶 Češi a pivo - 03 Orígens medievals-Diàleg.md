@@ -34,24 +34,6 @@
 **Adrian:** Přesně to je zajímavé. Monopol vede k poklesu kvality. V Plzni bylo pivo tak špatné, že se sudy vylévaly na náměstí. A to byl důvod, proč město povolalo Josefa Grolla z Bavorska.
 
 ---
-
-## Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| várečné právo | dret de fabricació de cervesa |
-| měšťan | burgès / ciutadà medieval |
-| privilegium | privilegi |
-| sládek | mestre cerveser |
-| obec právovárečná | corporació de cervesers amb drets |
-| mílové právo | dret de la milla (monopoli de radi) |
-| klášter | monestir |
-| mnich | monjo |
-| sud | bóta / barril |
-| tekutý chléb | pa líquid (metàfora de la cervesa) |
-
----
-
 *Versió comprensible: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 03 Orígens medievals-Diàleg-versió comprensible\|🈶 Češi a pivo - 03 Orígens medievals-Diàleg-versió comprensible]]*
 *Segment anterior (03:15): [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 02 Factors geogràfics-Diàleg\|🈶 Češi a pivo - 02 Factors geogràfics-Diàleg]]*
 *Segment següent (12:30): [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 04 Revolució 1842-Diàleg\|🈶 Češi a pivo - 04 Revolució 1842-Diàleg]]*

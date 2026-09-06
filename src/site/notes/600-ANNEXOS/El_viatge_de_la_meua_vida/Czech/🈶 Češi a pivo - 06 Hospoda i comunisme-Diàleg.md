@@ -70,23 +70,5 @@
 **Adrian:** Přesně. Proto české pivo není jen nápoj. Je součástí způsobu života, společenských vztahů a také dějin nesvobody.
 
 ---
-
-## Notes lèxiques
-
-| Txec | Català |
-|------|--------|
-| hospoda | taverna / pub txec |
-| prodloužený obývací pokoj | sala d'estar prolongada |
-| šenk | taverna, lloc de servei de beguda |
-| krčma | hostal / taverna |
-| výčep | barra o punt on es tira cervesa |
-| půllitr | mig litre de cervesa |
-| udavač | delator |
-| útočiště | refugi |
-| utopenci | embotits en vinagre |
-| nakládaný hermelín | formatge Hermelín adobat |
-
----
-
 *Versió comprensible: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 06 Hospoda i comunisme-Diàleg-versió comprensible\|🈶 Češi a pivo - 06 Hospoda i comunisme-Diàleg-versió comprensible]]*
 *Segment anterior: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració-Diàleg\|🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració-Diàleg]]*
