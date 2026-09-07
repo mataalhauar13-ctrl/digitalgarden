@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/600-annexos/el-viatge-de-la-meua-vida/czech/vikend-v-safari-zoo-ve-dvore-kralove/","tags":["desenvolupament","text_elaborat","txec","idiomes"],"dg-note-properties":{"alias":["Víkend v safari zoo ve Dvoře Králové"],"creat":"2026-09-07","actualitzat":"2026-09-07","tipus":"annex","sector":"aprenentatge","estat":"activa","font_tipus":"text_elaborat_corregit","font_ref":["[[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur\|Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur]]"],"tags":["desenvolupament","text_elaborat","txec","idiomes"]}}
+{"dg-publish":true,"permalink":"/600-annexos/el-viatge-de-la-meua-vida/czech/vikend-v-safari-zoo-ve-dvore-kralove/","tags":["desenvolupament","text_elaborat","txec","idiomes"],"dg-note-properties":{"alias":["Víkend v safari zoo ve Dvoře Králové"],"creat":"2026-09-07","actualitzat":"2026-09-07","tipus":"annex","sector":"aprenentatge","estat":"activa","font_tipus":"text_elaborat_corregit","font_ref":["[[Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur\|Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur]]"],"tags":["desenvolupament","text_elaborat","txec","idiomes"]}}
 ---
 
 
 # Víkend v safari zoo ve Dvoře Králové
 
-[[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur\|Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur]]
+[[Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur\|Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur]]
+[[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1\|🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1]]
 
 ## Plán na víkend
 
