@@ -16,284 +16,160 @@
 <a name="czech"></a>
 ## 🌐 Czech
 
-- [🈶 Češi a pivo - 01 Paradoxa del consum cerveser](#czech-cesi-a-pivo-01-paradoxa-del-consum-cerveser)
-- [🈶 Češi a pivo - 02 Factors geogràfics](#czech-cesi-a-pivo-02-factors-geografics)
-- [🈶 Češi a pivo - 03 Orígens medievals](#czech-cesi-a-pivo-03-origens-medievals)
-- [🈶 Češi a pivo - 04 Revolució 1842](#czech-cesi-a-pivo-04-revolucio-1842)
-- [🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració](#czech-cesi-a-pivo-05-cristalleria-transparent-i-refrigeracio)
-- [🈶 Češi a pivo - 06 Hospoda i comunisme](#czech-cesi-a-pivo-06-hospoda-i-comunisme)
-- [🈶 Češi a pivo - Jak se z malé země stal pivní národ](#czech-cesi-a-pivo-jak-se-z-male-zeme-stal-pivni-narod)
+- [🈶 Nordic walking pro zdraví](#czech-nordic-walking-pro-zdravi)
+- [🈶 Příroda, pohyb a skautské výpravy](#czech-priroda-pohyb-a-skautske-vypravy)
+- [🈶 U lékaře](#czech-u-lekare)
+- [🈶 Víkend v safari zoo ve Dvoře Králové](#czech-vikend-v-safari-zoo-ve-dvore-kralove)
 
-<a name="czech-cesi-a-pivo-01-paradoxa-del-consum-cerveser"></a>
-### 📖 🈶 Češi a pivo - 01 Paradoxa del consum cerveser
+<a name="czech-nordic-walking-pro-zdravi"></a>
+### 📖 🈶 Nordic walking pro zdraví
 
-#### 🈶 Češi a pivo - 01 Paradoxa del consum cerveser-Diàleg
+#### 🈶 Nordic walking pro zdraví
 
-Anna: Adriane, viděl jsi někdy statistiky o spotřebě piva v Česku?
+Nordic walking pro zdraví
 
-Adrian: Ano, jsou naprosto ohromující. Průměrný Čech vypije přes 140 litrů piva za rok.
+Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur
 
-Anna: 140 litrů? To si nedokážu představit. Je to opravdu tolik?
+Co je nordic walking
 
-Adrian: Zkus si to představit takto: běžná koupelnová vana pojme zhruba 150 litrů. Průměrný Čech tedy vypije skoro celou vanu piva ročně.
+Nordic walking možná pro někoho zní hodně tajemně, ale ve skutečnosti je to jen běžná chůze se speciálními nastavitelnými hůlkami. Tato zajímavá a atraktivní forma pohybu se nejprve dostala z Finska do celé Skandinávie a odtud do zbytku Evropy.
 
-Anna: A jak je to ve srovnání s jinými zeměmi? Třeba s Německem?
+Technika a vybavení
 
-Adrian: Německo je v hlavách lidí synonymem pivní kultury – Oktoberfest, bavorské pivní zahrady. Ale průměrný Němec vypije jen asi 95 litrů ročně. To je o 30 procent méně než Čech.
+Technika pohybu není příliš složitá a velmi brzy se ji naučí prakticky každý. Důležitá je správná velikost holí, jejich výška, délka kroku a souhra s pohybem rukou.
 
-Anna: A Irsko? To je přece také velmi pivní země.
+Ani potřebné vybavení není nijak drahé. Kromě hůlek a dobré obuvi stačí jen pohodlné sportovní oblečení.
 
-Adrian: Irsko je spojené s pubovou kulturou a Guinnessem, ale průměrný Ir vypije kolem 80 litrů. To je jen něco přes polovinu toho, co Čech.
+Kde se dá provozovat
 
-Anna: Takže Česká republika je skutečně číslo jedna na světě?
+Nordic walking je možné provozovat celý rok bez ohledu na počasí, přírodní podmínky nebo fyzickou zdatnost. Nevyžaduje žádný speciální terén. Hole se hodí pro všechny druhy povrchů: na rovinu stejně jako do hor, a se speciálními nástavci i do města.
 
-Adrian: Ano, a to nepřetržitě déle než čtvrt století. Není to náhoda ani dočasný výkyv. Je to hluboce zakořeněný kulturní fenomén.
+Přínosy pro zdraví
 
-Anna: Ale proč? Co je na Češích tak zvláštního?
+Oproti běžné chůzi se při nordic walkingu spotřebovává více energie, a proto může chůze s holemi pomoci i při hubnutí. Při správné technice se zlepšuje držení těla, protože se zpevňují nejen bederní a zádové svaly, ale také svaly krční a ramenní.
 
-Adrian: Přesně ta otázka je nejzajímavější. Odpověď není jednoduchá a ten, kdo Čechy naučil pít, není ten, koho byste čekali.
+Zapojením horní části těla se zvyšuje tepová frekvence, zlepšuje se srdeční činnost a krevní oběh. Tím je nordic walking vhodný i jako prevence proti kardiovaskulárním chorobám.
 
----
+Pro koho je vhodný
 
-<a name="czech-cesi-a-pivo-02-factors-geografics"></a>
-### 📖 🈶 Češi a pivo - 02 Factors geogràfics
+Používání hůlek redukuje zátěž kyčlí, kolen i kotníků. Klouby se tolik nepřetěžují a díky opoře rukou se snižuje i možnost zranění, uklouznutí, podvrtnutí nebo pádu.
 
-#### 🈶 Češi a pivo - 02 Factors geogràfics-Diàleg
+Proto mohou takto sportovat i lidé, kteří mají problémy s klouby dolních končetin. Nordic walking lze doporučit také při rehabilitaci po operaci.
 
-Anna: Adriane, mluvil jsi o tom, že české pivo má výjimečné suroviny. Co je na nich tak zvláštního?
+Shrnutí
 
-Adrian: Začneme chmelem. Žatecký chmel má naprosto unikátní aroma, které se nazývá ušlechtilost. Jiný chmel tuhle vlastnost nemá.
-
-Anna: A odkud pochází tato výjimečnost?
-
-Adrian: Ze zeměpisu. Oblast kolem Žatce má ideální kombinaci klimatu a půdy. Žatecký chmel se vyvážel do celé Evropy už ve středověku – do Bavorska, Saska, dokonce až do Anglie.
-
-Anna: A co voda? Slyšela jsem, že plzeňská voda je něčím výjimečná.
-
-Adrian: Je extrémně měkká. To znamená, že obsahuje velmi málo minerálních solí. Měkká voda zvýrazňuje jemné chutě a potlačuje drsnou hořkost.
-
-Anna: Proč je plzeňská voda tak měkká?
-
-Adrian: Kvůli geologii. Plzeň leží na soutoku čtyř řek v oblasti žul a rul. To jsou horniny, které vodě nepřidávají minerály. Tato měkkost existuje miliony let, dávno před tím, než tam někdo vařil pivo.
-
-Anna: Takže to byla šťastná náhoda, ne vědomá volba pivovarníků?
-
-Adrian: Přesně. Když Josef Groll přijel z Bavorska v roce 1842, spojil bavorskou technologii spodního kvašení s měkkou plzeňskou vodou, světlým sladem a žateckým chmelem. Výsledek byl zlatavý, průzračný ležák, který změnil svět.
+Nordic walking je jednoduchý, levný a dostupný způsob pohybu. Nevyžaduje speciální terén ani drahé vybavení, dá se provozovat po celý rok a přináší mnoho zdravotních výhod. Je vhodný pro aktivní lidi i pro ty, kteří potřebují šetrnější formu pohybu.
 
 ---
 
-<a name="czech-cesi-a-pivo-03-origens-medievals"></a>
-### 📖 🈶 Češi a pivo - 03 Orígens medievals
+<a name="czech-priroda-pohyb-a-skautske-vypravy"></a>
+### 📖 🈶 Příroda, pohyb a skautské výpravy
 
-#### 🈶 Češi a pivo - 03 Orígens medievals-Diàleg
+#### 🈶 Příroda, pohyb a skautské výpravy
 
-Anna: Adriane, proč se pivo stalo tak důležitým právě v Čechách? Kdy to vlastně začalo?
+Příroda, pohyb a skautské výpravy
 
-Adrian: Ve středověku bylo pivo paradoxně bezpečnější než voda. Studny byly kontaminované a řeky znečištěné. Protože při vaření piva se voda vaří, bylo to zdravější. Pivo bylo tekutý chléb.
+Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur
 
-Anna: Ale proč zrovna v Čechách to mělo takový zvláštní vývoj?
+Příroda jako zdroj klidu
 
-Adrian: Kvůli systému, který se jmenoval várečné právo. Od 13. století měli někteří měšťané královské privilegium vařit a prodávat pivo. Toto právo bylo vázáno na konkrétní dům, ne na osobu.
+Podle mě je příroda úžasná. Když je mi mizerně, vezmu si batoh a vyrážím do přírody. Když stoupám na vrchol nějakého kopce nebo jen tak odpočívám na slunci, poslouchám šumění stromů a zpěv ptáků. V takových chvílích mi příroda dává pocit klidu a štěstí.
 
-Anna: Takže pokud jsi měl dům, mohl jsi vařit pivo?
+Často chodím ven i v noci. Když jsem už v kopcích, usínám pod širým nebem a poslední, co vidím, než zavřu oči, jsou miliony hvězd. Příroda mi dává šanci vidět život v jiném světle a díky novým prožitkům načerpat sílu pro další aktivity.
 
-Adrian: Přesně. A to znamenalo, že pivovarnictví bylo symbolem společenského postavení, ne jen řemeslo. Majitelé várečných práv tvořili vlastní korporaci, takzvanou obec právovárečnou, která měla vliv na celou městskou politiku.
+Procházky, fantazie a malé nehody
 
-Anna: A kláštery? Hrály také nějakou roli?
+Chodím pravidelně se svým psem na dlouhé procházky a dobíjím si přitom energii. Příroda mi přináší nové nápady a rozvíjí mou fantazii. Když jsem venku, okamžitě zapomínám na všechny své starosti a problémy.
 
-Adrian: Obrovskou. Kláštery jako Břevnov, založený roku 993, měly jednu výhodu oproti městským sládkům: čas. Mniši mohli experimentovat, zkoušet různé suroviny a postupy, protože jejich obživa nezávisela výhradně na prodeji piva.
+Občas se mi ale příroda trochu vymstí. Například minulý rok jsem pospíchal a uklouzl jsem na ledu. Málem jsem si zlomil nohu. Jinak si však myslím, že mě příroda obohacuje a dává mi hlavně příjemné zážitky.
 
-Anna: A co se stalo, když monopol fungoval příliš dobře?
+Víkendy na chatě a v lese
 
-Adrian: Přesně to je zajímavé. Monopol vede k poklesu kvality. V Plzni bylo pivo tak špatné, že se sudy vylévaly na náměstí. A to byl důvod, proč město povolalo Josefa Grolla z Bavorska.
+V přírodě hledám změnu a uvolnění po rušném pracovním týdnu. Každý víkend proto jezdím na chatu, pracuji na zahrádce nebo chodím do lesa. Tam fotím hlavně zvířata; dříve jsem někdy chodil i s dětmi.
 
----
+Čas strávený v přírodě je příjemný, ale je ještě příjemnější, když ho člověk tráví s přáteli nebo s rodinou. Nemám moc rád zimu, protože jsem měl před sedmi lety na umrzlém sněhu vážnou dopravní nehodu. Bez přírody bych ale nemohl žít.
 
-<a name="czech-cesi-a-pivo-04-revolucio-1842"></a>
-### 📖 🈶 Češi a pivo - 04 Revolució 1842
+Skautské výpravy
 
-#### 🈶 Češi a pivo - 04 Revolució 1842-Diàleg
+Moje žena má také blízko k přírodě. Pracuje jako vedoucí skautského oddílu, a proto tráví téměř veškerý svůj volný čas venku. Během celého roku podnikáme výpravy do okolí i do vzdálenějších míst. Když mám volno, chodím s ní na výlety.
 
-Anna: Adriane, říkal jsi, že v Plzni bylo pivo kdysi opravdu špatné. Co se tam stalo?
+Při každé výpravě jsou dívky i chlapci nadšení. Společně s nimi musíme prozkoumat každý lesík, vystoupit na každý větší kopec, prohlédnout každou hradní zříceninu a sestoupit do každého údolí. Nepřestaneme, dokud neznáme každý kout.
 
-Adrian: V první polovině 19. století měli Plzeňané velký problém. Jejich pivo bylo často kyselé, kalné a skoro nepitelné. Několik sudů dokonce veřejně vylili na náměstí.
+Shrnutí
 
-Anna: To zní jako velká ostuda pro město piva. Co udělali potom?
-
-Adrian: Majitelé várečných práv se domluvili. Založili společný měšťanský pivovar. Už nechtěli vařit každý doma ve staré varně. Chtěli moderní pivovar a lepší kvalitu.
-
-Anna: A proto pozvali Josefa Grolla?
-
-Adrian: Ano. Josef Groll byl bavorský sládek z Wilshofenu. Narodil se roku 1813 a do Plzně přišel, když mu bylo asi dvacet devět let. Nebyl prý lehký člověk, ale pivu rozuměl skvěle.
-
-Anna: Co uměl jinak než plzeňští sládkové?
-
-Adrian: Znal spodní kvašení. Při něm kvasinky pracují v chladu a klesají dolů. Pivo zraje déle, ale je čistší, jemnější a stabilnější. Takové pivo se česky jmenuje ležák.
-
-Anna: Takže Groll vymyslel ležák?
-
-Adrian: Ne úplně. On nebyl hlavně vynálezce. Byl mistr kombinace. Vzal bavorskou techniku, velmi měkkou plzeňskou vodu, světlý slad a žatecký chmel.
-
-Anna: Proč byla plzeňská voda tak důležitá?
-
-Adrian: Byla velmi měkká, tedy měla málo minerálů. Díky tomu pivo nebylo drsně hořké. Bylo jemné a elegantní. Chmel i slad mohly lépe vyniknout.
-
-Anna: A světlý slad dal pivu tu zlatou barvu?
-
-Adrian: Přesně. Starší piva byla většinou tmavá a zakalená. Nový světlý slad a dobrá práce ve varně vytvořily pivo zlaté, průzračné a jiskřivé.
-
-Anna: Kdy ho lidé poprvé ochutnali?
-
-Adrian: Pátého října 1842. Ten den Groll poprvé načepoval nové plzeňské pivo. Pro lidi to byl skoro vizuální šok, jako kdyby někdo nalil do sklenice tekuté zlato.
-
-Anna: A chuť byla také nová?
-
-Adrian: Ano. Byla svěží, čistá, jemně hořká a dobře vyvážená. Nebylo to těžké ani náhodné pivo. Každý doušek měl stejnou kvalitu.
-
-Anna: Proto se z něj stala Pilsner Urquell?
-
-Adrian: Ano, z Plzně vyšel styl, který svět zná jako Pilsner nebo Pilsner Urquell. Během několika desetiletí ho napodobovaly pivovary v Evropě i mimo ni.
-
-Anna: Takže většina světa dnes pije pivo podle plzeňského vzoru?
-
-Adrian: Přibližně ano. Zdroj říká, že přes devadesát procent dnešního piva je nějaká varianta tohoto světlého ležáku. To je neuvěřitelný vliv jednoho města a jedné kombinace.
-
-Anna: A Groll pak zůstal v Plzni jako hrdina?
-
-Adrian: Ne. Měl jen tříletou smlouvu a potom se vrátil do Bavorska. Je to paradox: nebyl Čech, nebyl tam dlouho, ale změnil české pivo i celý svět.
+Příroda pro mě není jen místo k odpočinku. Je to prostor, kde znovu získávám energii, kde zapomínám na starosti a kde mohu být s rodinou, přáteli i skautským oddílem. I když někdy přinese únavu, zimu nebo drobné nehody, dává mi mnohem víc: klid, radost, nové nápady a pocit svobody.
 
 ---
 
-<a name="czech-cesi-a-pivo-05-cristalleria-transparent-i-refrigeracio"></a>
-### 📖 🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració
+<a name="czech-u-lekare"></a>
+### 📖 🈶 U lékaře
 
-#### 🈶 Češi a pivo - 05 Cristalleria transparent i refrigeració-Diàleg
+#### 🈶 U lékaře
 
-Anna: Adriane, proč byla průhledná sklenice pro pivo tak důležitá?
+🈶 V lékárně-Diàleg-versió comprensible
 
-Adrian: Protože před plzeňským ležákem se pivo většinou nepilo kvůli vzhledu. Bylo tmavé nebo zakalené. Lidé ho pili z keramiky, cínu nebo dřeva.
+U lékaře
 
-Anna: Takže nikdo nepotřeboval vidět barvu piva?
+Dítě a bolest břicha
 
-Adrian: Přesně. Nebylo moc na co se dívat. Ale nový ležák z Plzně byl zlatý, čistý a měl krásnou bílou pěnu. Najednou lidé chtěli pivo vidět.
+Mému dítěti právě není dobře. Bolí ho žaludek, protože snědlo příliš mnoho zmrzliny. Naštěstí to nebylo nic vážného a teď už je zase v pořádku.
 
-Anna: Proto se začaly používat skleněné půllitry?
+V poslední době jsme měli štěstí, protože jsme byli většinou zdraví. Tentokrát ale jednomu z dětí bylo opravdu špatně, a proto jsme museli jít do lékárny pro léky. Brzy jsme zjistili, že na některé léky potřebujeme recept od lékaře.
 
-Adrian: Ano. Průhledné sklenice ukázaly barvu, čistotu, bublinky a pěnu. Pivo už nebylo jen chuť. Stalo se také obrazem.
+Minulá zima
 
-Anna: To je pěkná myšlenka: pít očima.
+Vzpomínám si také na minulou zimu. Už druhý den mi nebylo dobře. Bolelo mě v krku, kašlal jsem a měl jsem rýmu. Cítil jsem se velmi slabý. Ráno jsem měl teplotu třicet sedm celých osm.
 
-Adrian: Přesně tak. Když vidíš zlatou barvu a dobrou pěnu, už před prvním douškem čekáš něco svěžího a kvalitního.
+Lékař mi prohlédl krk a zjistil, že ho mám zarudlý. Řekl mi, že musím zůstat v klidu na lůžku a několik dní odpočívat.
 
-Anna: Změnila se tím i práce pivovarů?
+Léky a doporučení
 
-Adrian: Určitě. Když lidé pivo vidí, musí být opravdu čisté. Kal nebo špatná pěna jsou hned vidět. Vzhled se stal součástí kvality.
+Měl jsem brát tři tabletky denně během jídla. Tyto tabletky působily proti nachlazení, chřipce a bolesti hlavy. Snižovaly teplotu a zároveň podporovaly obranyschopnost organismu.
 
-Anna: A jak s tím souvisí chlazení?
+Kromě toho jsem měl brát sirup proti kašli a ještě další lék v sáčcích. Jeden sáček jsem měl užívat každé čtyři hodiny. Obsah sáčku bylo třeba rozpustit ve sklenici vody a potom vypít.
 
-Adrian: Ležák chutná nejlépe studený. Vrchně kvašená piva se často pila při pokojové teplotě. Spodně kvašený ležák potřebuje chlad, aby byl svěží a čistý.
+Kouření a odvykání
 
-Anna: To muselo být v 19. století technicky těžké.
+Co se týče kouření, to přímo nesouviselo s nachlazením, ale je to také důležité téma pro zdraví. Na vysoké škole byli téměř všichni moji známí kuřáci. Jedna z mých známých se po čase dostala až ke dvěma krabičkám cigaret denně.
 
-Adrian: Bylo. Pivovary i hospody potřebovaly ledárny, lednice a později chladicí systémy. Nestačilo pivo dobře uvařit. Bylo třeba ho také správně uchovat a podávat.
+Po dvaceti letech se rozhodla přestat kouřit ze dne na den. Neměla však dostatečně silnou vůli a po týdnu ji přepadla silná chuť na cigaretu. Proto navštívila poradnu pro odvykání kouření.
 
-Anna: Takže ležák pomohl rozvoji chlazení?
+Během odvykací kúry přibrala patnáct kilo, ale stálo to za to. Dnes už dlouho nekouří a cítí se mnohem lépe.
 
-Adrian: Ano, podle zdroje je tato souvislost dobře doložená. Když umíš chladit pivo, stejnou technologii můžeš použít i pro mléko, maso a jiné potraviny.
+Shrnutí
 
-Anna: To znamená, že české pivo změnilo nejen pití, ale i potraviny?
-
-Adrian: Přesně. Plzeňský ležák změnil kulturu pití po celém světě. Lidé začali sledovat barvu, pěnu a teplotu. A průmysl musel dodat sklo a chlad.
-
-Anna: Nikdy bych neřekla, že jedna sklenice piva může mít tak velký vliv.
-
-Adrian: To je na tom krásné. Malý detail, průhledná sklenice, ukázal novou krásu piva. A ta krása přinesla nové návyky i nové technologie.
+Když člověk onemocní, je důležité nezanedbat příznaky, poradit se s lékařem a správně užívat předepsané léky. Zdraví ale nesouvisí jen s nachlazením nebo bolestí břicha. Patří k němu také prevence, zdravé návyky a schopnost změnit věci, které nám škodí.
 
 ---
 
-<a name="czech-cesi-a-pivo-06-hospoda-i-comunisme"></a>
-### 📖 🈶 Češi a pivo - 06 Hospoda i comunisme
+<a name="czech-vikend-v-safari-zoo-ve-dvore-kralove"></a>
+### 📖 🈶 Víkend v safari zoo ve Dvoře Králové
 
-#### 🈶 Češi a pivo - 06 Hospoda i comunisme-Diàleg
+#### 🈶 Víkend v safari zoo ve Dvoře Králové
 
-Anna: Adriane, pořád mluvíme o pivu, ale ty říkáš, že důležitá je hlavně hospoda. Proč?
+Víkend v safari zoo ve Dvoře Králové
 
-Adrian: Protože česká hospoda není jen místo, kde se pije. Je to sociální prostor. Mnozí Češi ji vnímají jako prodloužený obývací pokoj.
+Czech for life 2 - Lliçó 7 Natura i Moviment-versió comprensible - Text txec pur
 
-Anna: Prodloužený obývací pokoj? Co se tam tedy dělá?
+Plán na víkend
 
-Adrian: Lidé tam mluví s přáteli, hrají karty, sledují sport, diskutují o politice, vyprávějí vtipy nebo prostě sedí spolu. Pivo je prostředek, ne hlavní cíl.
+O víkendu asi pojedu s dětmi na chatu. Můj syn David ale chce jít do pražské zoo. Slyšel od svého kamaráda, že tam může krmit zvířata. Pořád mluví o tom, jak sám nakrmí tučňáky, žirafy nebo gorily. Proto jsem mu musela slíbit, že tam spolu půjdeme.
 
-Anna: Takže člověk jde do hospody hlavně kvůli lidem?
+Lepší nápad: Dvůr Králové
 
-Adrian: Ano. V české kultuře je hospoda místo komunity. Když někdo do hospody nechodil, mohl přijít o mnoho neformálních rozhovorů a vztahů.
+Mám však lepší nápad. Místo pražské zoo bychom mohli jet do zoo ve Dvoře Králové. Můžeme si tam objednat jízdu terénním safari vozem přímo mezi pobíhajícími zvířaty. Pro děti to bude obrovský zážitek.
 
-Anna: Má tato tradice staré kořeny?
+Budou se tam cítit jako v africké savaně a na vlastní oči uvidí stáda antilop, lvů, žiraf, gepardů a zeber. Kromě toho se dozvědí spoustu zajímavých věcí ze života zvířat. Byl jsem tam vloni a vím, že průvodce je zábavný. Děti tam navíc můžou některá zvířata i nakrmit.
 
-Adrian: Ano. Už ve středověku existovaly šenky, krčmy a výčepy. Scházeli se tam řemeslníci, obchodníci i lidé na cestách. Později tam vznikaly spolky a besedy.
+Ubytování a celý víkend v zoo
 
-Anna: A v 19. století souvisela hospoda i s národním obrozením?
+Nápad je to skvělý, ale nevím, jestli si za jeden den stihneme všechno prohlédnout. Proto si můžeme zamluvit ubytování přímo v zoo, v hotelu Safari, a zůstat tam celý víkend.
 
-Adrian: Přesně. Hospoda byla demokratická. Vedle sebe seděl učitel, dělník, obchodník i novinář. Myšlenky se tam mohly šířit mezi různými vrstvami společnosti.
+Ubytování v hotelu je ale podle mě zbytečně drahé. Pro děti bude zábavnější, když budeme stanovat v Safari Campu. Bude to také dobrodružnější. Děti navíc můžou být v kontaktu se zvířaty i večer.
 
-Anna: A co se změnilo za komunismu?
+Shrnutí
 
-Adrian: Po roce 1948 stát znárodnil pivovary. Mnoho malých pivovarů zavřel a výroba byla jednotnější. Kvalita i pestrost často klesly.
-
-Anna: To zní špatně pro pivní kulturu.
-
-Adrian: Bylo to špatné, ale zároveň stát držel pivo velmi levné. Režim si myslel, že dělník, který má po směně levné pivo, bude klidnější.
-
-Anna: Jak levné bylo pivo?
-
-Adrian: V 70. a 80. letech stál půllitr často asi dvě koruny československé. Bylo levnější než limonáda, minerální voda, džus nebo mléko.
-
-Anna: Takže celé generace braly pivo jako normální nápoj, ne jako luxus.
-
-Adrian: Přesně. A auta byla drahá a benzín omezený. Mnoho lidí chodilo do hospody pěšky, takže nemuseli řešit řízení po pivu.
-
-Anna: Ale ty jsi mluvil také o svobodě. Jak mohla být hospoda svobodná v totalitním režimu?
-
-Adrian: Protože jiných míst bylo málo. Cestování bylo omezené, kultura cenzurovaná a občanské spolky kontrolované. U stolu s přáteli mohl člověk mluvit otevřeněji.
-
-Anna: Nebylo to nebezpečné?
-
-Adrian: Mohlo být, zvlášť když u vedlejšího stolu seděl udavač. Ale když lidé nemluvili příliš nahlas, hospoda byla často poslední útočiště soukromého života.
-
-Anna: To je zvláštní paradox.
-
-Adrian: Ano. Režim chtěl lidi uklidnit levným pivem. Tím ale posílil hospodní kulturu, humor, ironii a zdravý cynismus. Lidé našli malý prostor svobody uvnitř omezení.
-
-Anna: A patří k hospodě také jídlo?
-
-Adrian: Určitě. Utopenci, nakládaný hermelín, tlačenka nebo olomoucké tvarůžky jsou slaná jídla k pivu. Člověk po nich má žízeň a dá si další pivo.
-
-Anna: Takže hospoda, pivo, jídlo a rozhovor tvoří jeden celek.
-
-Adrian: Přesně. Proto české pivo není jen nápoj. Je součástí způsobu života, společenských vztahů a také dějin nesvobody.
-
----
-
-<a name="czech-cesi-a-pivo-jak-se-z-male-zeme-stal-pivni-narod"></a>
-### 📖 🈶 Češi a pivo - Jak se z malé země stal pivní národ
-
-#### 🈶 Češi a pivo - Jak se z malé země stal pivní národ-Diàleg
-
-Pavel: Ahoj Evo! Víš, proč jsou Češi tak známí svým pivem?
-
-Eva: Ahoj Pavle. Určitě kvůli dlouhé historii a kvalitním surovinám, že?
-
-Pavel: Přesně tak. Máme skvělý žatecký chmel a v Plzni velmi měkkou vodu.
-
-Eva: A v roce 1842 bavorský sládek Josef Groll uvařil první světlý ležák.
-
-Pavel: Ano, Plzeňský ležák změnil všechno. Lidé navíc začali pít z průhledných sklenic, aby viděli zlatou barvu a pěnu.
-
-Eva: To je zajímavé! A hospoda byla vždycky centrem společenského života.
-
-Pavel: Dnes sice mladí lidé pijí trochu méně, ale více se zajímají o řemeslná piva a vysokou kvalitu.
-
-Eva: Takže pivo pro nás není jen nápoj, ale drahocenná součást naší kultury.
+Nakonec se mi výlet do Dvora Králové zdá jako nejlepší možnost. Děti uvidí mnoho zvířat, zažijí jízdu safari vozem, dozvědí se nové informace a večer budou moci spát v kempu blízko zvířat. Takový víkend bude zajímavější než obyčejná návštěva pražské zoo.
 
 ---
 

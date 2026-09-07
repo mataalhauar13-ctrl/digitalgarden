@@ -8,7 +8,7 @@
 > **Font:** [CZ-Youtube-DEV-Češi a pivo-Fonts_curades](../../../Recursos-Estudi/CZ-Youtube-DEV-Češi%20a%20pivo-Fonts_curades.md)
 > **Apartat:** 📌 3️⃣ Daily
 > **Àudio:** `Češi a pivo - Jak se z malé zeměestal pivní národ-Lliçó Pimsleur B1.mp3`
-> **Vegeu diàleg:** [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - Jak se z malé země stal pivní národ-Diàleg\|🈶 Češi a pivo - Jak se z malé země stal pivní národ-Diàleg]]
+> **Vegeu diàleg:** [[🈶 Češi a pivo\|🈶 Češi a pivo]]
 
 ---
 
@@ -81,5 +81,5 @@
 
 ---
 
-*Tornar al diàleg: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - Jak se z malé země stal pivní národ-Diàleg\|🈶 Češi a pivo - Jak se z malé země stal pivní národ-Diàleg]]*
+*Tornar al diàleg: [[🈶 Češi a pivo\|🈶 Češi a pivo]]*
 *Versió comprensible: [[600-ANNEXOS/El_viatge_de_la_meua_vida/Czech/🈶 Češi a pivo - Jak se z malé země stal pivní národ-Diàleg-versió comprensible\|🈶 Češi a pivo - Jak se z malé země stal pivní národ-Diàleg-versió comprensible]]*
