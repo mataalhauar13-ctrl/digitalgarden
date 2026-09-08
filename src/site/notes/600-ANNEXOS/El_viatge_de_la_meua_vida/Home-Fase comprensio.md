@@ -16,10 +16,70 @@
 <a name="czech"></a>
 ## 🌐 Czech
 
-- [🈶 Nordic walking pro zdraví - Lliçó Pimsleur B1](#czech-nordic-walking-pro-zdravi-llico-pimsleur-b1)
 - [🈶 Češi a pivo - Jak se z malé země stal pivní národ](#czech-cesi-a-pivo-jak-se-z-male-zeme-stal-pivni-narod)
+- [🈶 Nordic walking pro zdraví - Lliçó Pimsleur B1](#czech-nordic-walking-pro-zdravi-llico-pimsleur-b1)
 - [🈶 Příroda, pohyb a skautské výpravy - Lliçó Pimsleur B1](#czech-priroda-pohyb-a-skautske-vypravy-llico-pimsleur-b1)
+- [🈶 Svatby v České republice a ve Španělsku - Lliçó Pimsleur B1](#czech-svatby-v-ceske-republice-a-ve-spanelsku-llico-pimsleur-b1)
 - [🈶 U lékaře - Lliçó Pimsleur B1](#czech-u-lekare-llico-pimsleur-b1)
+- [🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1](#czech-vikend-v-safari-zoo-ve-dvore-kralove-llico-pimsleur-b1)
+
+<a name="czech-cesi-a-pivo-jak-se-z-male-zeme-stal-pivni-narod"></a>
+### 📖 🈶 Češi a pivo - Jak se z malé země stal pivní národ
+
+#### 🈶 Češi a pivo - Jak se z malé země stal pivní národ - Lliçó Pimsleur B1
+
+Segment 1 — Pregunta cultural
+
+Instrucció (ca): Com preguntaries en txec: Saps per què els txecs són tan famosos per la seua cervesa?
+
+> Txec: Víš, proč jsou Češi tak známí svým pivem?
+
+Resposta (ca): Molt bé. La paraula clau és známí (famosos) i pivem (per la cervesa, cas instrumental).
+
+Segment 2 — Ingredients i geografia
+
+Instrucció (ca): Ara digues en txec: Tenim excel·lent llúpol de Žatec i a Plzeň aigua molt suau.
+
+> Txec: Máme skvělý žatecký chmel a v Plzni velmi měkkou vodu.
+
+Resposta (ca): Fixa't en la forma locativa v Plzni (a Plzeň) i l'adjectiu měkkou (suau, acusatiu femení).
+
+Segment 3 — Fita històrica
+
+Instrucció (ca): Digues en txec: Josef Groll va elaborar el primer lager clar.
+
+> Txec: Josef Groll uvařil první světlý ležák.
+
+Resposta (ca): El verb uvařit significa literalment 'coure' però s'usa per elaborar cervesa.
+
+Segment 4 — Canvi social
+
+Instrucció (ca): Com diuries: La gent va començar a beure en gots transparents.
+
+> Txec: Lidé začali pít z průhledných sklenic.
+
+Resposta (ca): La preposició z amb genitiu plural sklenic indica 'des de / en gots'.
+
+Segment 5 — Vida social
+
+Instrucció (ca): Ara digues: La taverna sempre ha estat el centre de la vida social.
+
+> Txec: Hospoda byla vždycky centrem společenského života.
+
+Resposta (ca): Nota el cas instrumental centrem (centre, com a predicat nominal).
+
+Conclusió
+
+Has practicat cinc expressions clau sobre la cultura cervesera txeca. Repassa el diàleg complet per consolidar el vocabulari.
+
+Expressions treballades:
+Víš, proč jsou Češi tak známí svým pivem?
+Máme skvělý žatecký chmel a v Plzni velmi měkkou vodu.
+Josef Groll uvařil první světlý ležák.
+Lidé začali pít z průhledných sklenic.
+Hospoda byla vždycky centrem společenského života.
+
+---
 
 <a name="czech-nordic-walking-pro-zdravi-llico-pimsleur-b1"></a>
 ### 📖 🈶 Nordic walking pro zdraví - Lliçó Pimsleur B1
@@ -191,64 +251,6 @@ kteří mají problémy.
 s klouby dolních končetin.
 
 This is the end of today's lesson.
-
----
-
-<a name="czech-cesi-a-pivo-jak-se-z-male-zeme-stal-pivni-narod"></a>
-### 📖 🈶 Češi a pivo - Jak se z malé země stal pivní národ
-
-#### 🈶 Češi a pivo - Jak se z malé země stal pivní národ - Lliçó Pimsleur B1
-
-Segment 1 — Pregunta cultural
-
-Instrucció (ca): Com preguntaries en txec: Saps per què els txecs són tan famosos per la seua cervesa?
-
-> Txec: Víš, proč jsou Češi tak známí svým pivem?
-
-Resposta (ca): Molt bé. La paraula clau és známí (famosos) i pivem (per la cervesa, cas instrumental).
-
-Segment 2 — Ingredients i geografia
-
-Instrucció (ca): Ara digues en txec: Tenim excel·lent llúpol de Žatec i a Plzeň aigua molt suau.
-
-> Txec: Máme skvělý žatecký chmel a v Plzni velmi měkkou vodu.
-
-Resposta (ca): Fixa't en la forma locativa v Plzni (a Plzeň) i l'adjectiu měkkou (suau, acusatiu femení).
-
-Segment 3 — Fita històrica
-
-Instrucció (ca): Digues en txec: Josef Groll va elaborar el primer lager clar.
-
-> Txec: Josef Groll uvařil první světlý ležák.
-
-Resposta (ca): El verb uvařit significa literalment 'coure' però s'usa per elaborar cervesa.
-
-Segment 4 — Canvi social
-
-Instrucció (ca): Com diuries: La gent va començar a beure en gots transparents.
-
-> Txec: Lidé začali pít z průhledných sklenic.
-
-Resposta (ca): La preposició z amb genitiu plural sklenic indica 'des de / en gots'.
-
-Segment 5 — Vida social
-
-Instrucció (ca): Ara digues: La taverna sempre ha estat el centre de la vida social.
-
-> Txec: Hospoda byla vždycky centrem společenského života.
-
-Resposta (ca): Nota el cas instrumental centrem (centre, com a predicat nominal).
-
-Conclusió
-
-Has practicat cinc expressions clau sobre la cultura cervesera txeca. Repassa el diàleg complet per consolidar el vocabulari.
-
-Expressions treballades:
-Víš, proč jsou Češi tak známí svým pivem?
-Máme skvělý žatecký chmel a v Plzni velmi měkkou vodu.
-Josef Groll uvařil první světlý ležák.
-Lidé začali pít z průhledných sklenic.
-Hospoda byla vždycky centrem společenského života.
 
 ---
 
@@ -425,6 +427,321 @@ This is the end of today's lesson.
 
 ---
 
+<a name="czech-svatby-v-ceske-republice-a-ve-spanelsku-llico-pimsleur-b1"></a>
+### 📖 🈶 Svatby v České republice a ve Španělsku - Lliçó Pimsleur B1
+
+#### 🈶 Svatby v České republice a ve Španělsku - Lliçó Pimsleur B1
+
+🈶 Svatby v České republice a ve Španělsku-Diàleg-versió comprensible
+
+Svatby v České republice a ve Španělsku - Lliçó Pimsleur B1
+
+This is today's Pimsleur lesson.
+
+(Listen to the following sentence)
+
+There are certain similarities and differences between weddings in the Czech Republic and in Spain.
+
+Mezi svatbami v České republice a ve Španělsku existují určité podobnosti i rozdíly.
+
+(Let's break that down)
+
+(Say: between weddings)
+
+Mezi svatbami.
+
+(Say: in the Czech Republic and in Spain)
+
+v České republice a ve Španělsku.
+
+(Say: there are certain similarities and differences)
+
+existují určité podobnosti i rozdíly.
+
+(Now, listen to the main answer)
+
+At first glance it can look similar, but the main differences appear in the size and pace of the celebration.
+
+Na první pohled to může vypadat podobně, ale hlavní rozdíly se objevují ve velikosti a tempu oslavy.
+
+(Let's break that down)
+
+(Say: at first glance)
+
+Na první pohled.
+
+(Say: it can look similar)
+
+to může vypadat podobně.
+
+(Say: but the main differences appear)
+
+ale hlavní rozdíly se objevují.
+
+(Say: in the size and pace of the celebration)
+
+ve velikosti a tempu oslavy.
+
+(Listen to another sentence)
+
+In Spain, weddings are often larger and last longer, sometimes until the night.
+
+Ve Španělsku bývají svatby často větší a trvají déle, někdy až do noci.
+
+(Let's break that down)
+
+(Say: in Spain)
+
+Ve Španělsku.
+
+(Say: weddings are often larger)
+
+bývají svatby často větší.
+
+(Say: and last longer)
+
+a trvají déle.
+
+(Say: sometimes until the night)
+
+někdy až do noci.
+
+(Listen to the following sentence)
+
+In the Czech Republic, there are many civil ceremonies at the town hall or in a castle complex.
+
+V Česku je hodně civilních obřadů na radnici nebo v zámeckém areálu.
+
+(Let's break that down)
+
+(Say: in the Czech Republic there are many civil ceremonies)
+
+V Česku je hodně civilních obřadů.
+
+(Say: at the town hall)
+
+na radnici.
+
+(Say: or in a castle complex)
+
+nebo v zámeckém areálu.
+
+(Listen to another sentence)
+
+After the ceremony, they went together with the family to the Mánes restaurant, where the family celebration can continue after the wedding ceremony.
+
+Po obřadu jeli společně s rodinou do restaurace Mánes, kde může pokračovat rodinná oslava po svatebním obřadu.
+
+(Let's break that down)
+
+(Say: after the ceremony)
+
+Po obřadu.
+
+(Say: they went together with the family)
+
+jeli společně s rodinou.
+
+(Say: to the Mánes restaurant)
+
+do restaurace Mánes.
+
+(Say: where the family celebration can continue)
+
+kde může pokračovat rodinná oslava.
+
+(Say: after the wedding ceremony)
+
+po svatebním obřadu.
+
+(Listen to the following sentence)
+
+Here another difference can be seen: in one country the civil form of the ceremony can be more common, while in the other a stronger religious tradition remains.
+
+Právě zde je vidět další rozdíl: v jedné zemi může být běžnější civilní forma obřadu, zatímco v druhé zůstává silnější náboženská tradice.
+
+(Let's break that down)
+
+(Say: here another difference can be seen)
+
+Právě zde je vidět další rozdíl.
+
+(Say: in one country)
+
+v jedné zemi.
+
+(Say: the civil form of the ceremony can be more common)
+
+může být běžnější civilní forma obřadu.
+
+(Say: while in the other)
+
+zatímco v druhé.
+
+(Say: a stronger religious tradition remains)
+
+zůstává silnější náboženská tradice.
+
+(Listen to another sentence)
+
+In Spain, the banquet is often longer and later, and there are usually many courses there.
+
+Ve Španělsku je hostina často delší a pozdější a bývá tam mnoho chodů.
+
+(Let's break that down)
+
+(Say: in Spain)
+
+Ve Španělsku.
+
+(Say: the banquet is often longer and later)
+
+je hostina často delší a pozdější.
+
+(Say: and there are usually many courses there)
+
+a bývá tam mnoho chodů.
+
+(Listen to the following sentence)
+
+Music and dance are very important in both countries, but the atmosphere can be different.
+
+Hudba a tanec jsou v obou zemích velmi důležité, ale atmosféra může být jiná.
+
+(Let's break that down)
+
+(Say: music and dance)
+
+Hudba a tanec.
+
+(Say: are very important in both countries)
+
+jsou v obou zemích velmi důležité.
+
+(Say: but the atmosphere can be different)
+
+ale atmosféra může být jiná.
+
+(Listen to another sentence)
+
+In the Czech Republic there are also some special wedding traditions that differ from the Spanish ones.
+
+V Česku existují i některé zvláštní svatební tradice, které se liší od těch španělských.
+
+(Let's break that down)
+
+(Say: in the Czech Republic there are also)
+
+V Česku existují i.
+
+(Say: some special wedding traditions)
+
+některé zvláštní svatební tradice.
+
+(Say: that differ)
+
+které se liší.
+
+(Say: from the Spanish ones)
+
+od těch španělských.
+
+(Listen to the following sentence)
+
+Another tradition is breaking a plate in front of the newlyweds.
+
+Další tradicí je rozbití talíře před novomanželi.
+
+(Let's break that down)
+
+(Say: another tradition is)
+
+Další tradicí je.
+
+(Say: breaking a plate)
+
+rozbití talíře.
+
+(Say: in front of the newlyweds)
+
+před novomanželi.
+
+(Listen to another sentence)
+
+It is a nice symbol, because it shows that the spouses will have to solve problems together.
+
+Je to hezký symbol, protože ukazuje, že manželé budou muset řešit problémy spolu.
+
+(Let's break that down)
+
+(Say: it is a nice symbol)
+
+Je to hezký symbol.
+
+(Say: because it shows)
+
+protože ukazuje.
+
+(Say: that the spouses will have to solve problems)
+
+že manželé budou muset řešit problémy.
+
+(Say: together)
+
+spolu.
+
+(Listen to the following sentence)
+
+On the one hand, Czech weddings often seem a little calmer, while Spanish ones are usually louder and longer.
+
+Na jedné straně české svatby často působí trochu klidněji, zatímco španělské bývají hlasitější a delší.
+
+(Let's break that down)
+
+(Say: on the one hand)
+
+Na jedné straně.
+
+(Say: Czech weddings often seem a little calmer)
+
+české svatby často působí trochu klidněji.
+
+(Say: while Spanish ones)
+
+zatímco španělské.
+
+(Say: are usually louder and longer)
+
+bývají hlasitější a delší.
+
+(Listen to another sentence)
+
+That is exactly why weddings are a good topic for comparing cultures and also for a conversation in which I can practice the language.
+
+Právě proto jsou svatby dobrým tématem pro srovnání kultur a také pro rozhovor, při kterém si mohu procvičovat jazyk.
+
+(Let's break that down)
+
+(Say: that is exactly why weddings are a good topic)
+
+Právě proto jsou svatby dobrým tématem.
+
+(Say: for comparing cultures)
+
+pro srovnání kultur.
+
+(Say: and also for a conversation)
+
+a také pro rozhovor.
+
+(Say: in which I can practice the language)
+
+při kterém si mohu procvičovat jazyk.
+
+This is the end of today's lesson.
+
+---
+
 <a name="czech-u-lekare-llico-pimsleur-b1"></a>
 ### 📖 🈶 U lékaře - Lliçó Pimsleur B1
 
@@ -585,6 +902,342 @@ poradit se s lékařem.
 (Say: and to use the prescribed medicine correctly)
 
 a správně užívat předepsané léky.
+
+This is the end of today's lesson.
+
+---
+
+<a name="czech-vikend-v-safari-zoo-ve-dvore-kralove-llico-pimsleur-b1"></a>
+### 📖 🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1
+
+#### 🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1
+
+Víkend v safari zoo ve Dvoře Králové
+
+This is today's Pimsleur lesson.
+
+(Listen to the following sentence)
+On the weekend I will probably go with the children to the cottage.
+
+O víkendu asi pojedu s dětmi na chatu.
+
+(Let's break that down)
+(Say: on the weekend)
+
+O víkendu
+
+(Say: I will probably go)
+
+asi pojedu
+
+(Say: with the children)
+
+s dětmi
+
+(Say: to the cottage)
+
+na chatu
+
+(Listen to the following sentence)
+My son David, however, wants to go to the Prague zoo.
+
+Můj syn David ale chce jít do pražské zoo.
+
+(Let's break that down)
+(Say: my son David)
+
+Můj syn David
+
+(Say: however, wants to go)
+
+ale chce jít
+
+(Say: to the Prague zoo)
+
+do pražské zoo
+
+(Listen to another sentence)
+He heard from his friend that he can feed the animals there.
+
+Slyšel od svého kamaráda, že tam může krmit zvířata.
+
+(Let's break that down)
+(Say: he heard from his friend)
+
+Slyšel od svého kamaráda
+
+(Say: that there he can)
+
+že tam může
+
+(Say: feed the animals)
+
+krmit zvířata
+
+(Listen to the following sentence)
+He keeps talking about how he himself will feed the penguins, giraffes, or gorillas.
+
+Pořád mluví o tom, jak sám nakrmí tučňáky, žirafy nebo gorily.
+
+(Let's break that down)
+(Say: he keeps talking about that)
+
+Pořád mluví o tom
+
+(Say: how he himself will feed)
+
+jak sám nakrmí
+
+(Say: penguins, giraffes, or gorillas)
+
+tučňáky, žirafy nebo gorily
+
+(Now, listen to the main idea)
+Instead of the Prague zoo, we could go to the zoo in Dvůr Králové.
+
+Místo pražské zoo bychom mohli jet do zoo ve Dvoře Králové.
+
+(Let's break that down)
+(Say: instead of the Prague zoo)
+
+Místo pražské zoo
+
+(Say: we could go)
+
+bychom mohli jet
+
+(Say: to the zoo in Dvůr Králové)
+
+do zoo ve Dvoře Králové
+
+(Listen to the following sentence)
+We can order a ride in an off-road safari vehicle directly among the running animals.
+
+Můžeme si tam objednat jízdu terénním safari vozem přímo mezi pobíhajícími zvířaty.
+
+(Let's break that down)
+(Say: we can order there)
+
+Můžeme si tam objednat
+
+(Say: a ride in an off-road safari vehicle)
+
+jízdu terénním safari vozem
+
+(Say: directly among the running animals)
+
+přímo mezi pobíhajícími zvířaty
+
+(Listen to another sentence)
+For the children it will be a huge experience.
+
+Pro děti to bude obrovský zážitek.
+
+(Let's break that down)
+(Say: for the children)
+
+Pro děti
+
+(Say: it will be)
+
+to bude
+
+(Say: a huge experience)
+
+obrovský zážitek
+
+(Listen to the following sentence)
+They will feel there as if they were in the African savanna.
+
+Budou se tam cítit jako v africké savaně.
+
+(Let's break that down)
+(Say: they will feel there)
+
+Budou se tam cítit
+
+(Say: as if in the African savanna)
+
+jako v africké savaně
+
+(Listen to another sentence)
+With their own eyes they will see herds of antelopes, lions, giraffes, cheetahs, and zebras.
+
+Na vlastní oči uvidí stáda antilop, lvů, žiraf, gepardů a zeber.
+
+(Let's break that down)
+(Say: with their own eyes they will see)
+
+Na vlastní oči uvidí
+
+(Say: herds of antelopes)
+
+stáda antilop
+
+(Say: lions, giraffes, cheetahs, and zebras)
+
+lvů, žiraf, gepardů a zeber
+
+(Listen to the following sentence)
+Besides that, they will learn many interesting things about the life of animals.
+
+Kromě toho se dozvědí spoustu zajímavých věcí ze života zvířat.
+
+(Let's break that down)
+(Say: besides that)
+
+Kromě toho
+
+(Say: they will learn)
+
+se dozvědí
+
+(Say: many interesting things)
+
+spoustu zajímavých věcí
+
+(Say: about the life of animals)
+
+ze života zvířat
+
+(Listen to another sentence)
+I was there last year, and I know that the guide is entertaining.
+
+Byl jsem tam vloni a vím, že průvodce je zábavný.
+
+(Let's break that down)
+(Say: I was there last year)
+
+Byl jsem tam vloni
+
+(Say: and I know that)
+
+a vím, že
+
+(Say: the guide is entertaining)
+
+průvodce je zábavný
+
+(Listen to the following sentence)
+The idea is great, but I do not know whether we will manage to see everything in one day.
+
+Nápad je to skvělý, ale nevím, jestli si za jeden den stihneme všechno prohlédnout.
+
+(Let's break that down)
+(Say: the idea is great)
+
+Nápad je to skvělý
+
+(Say: but I do not know)
+
+ale nevím
+
+(Say: whether in one day we will manage)
+
+jestli si za jeden den stihneme
+
+(Say: to see everything)
+
+všechno prohlédnout
+
+(Listen to another sentence)
+Therefore, we can reserve accommodation directly in the zoo, in the Safari Hotel, and stay there for the whole weekend.
+
+Proto si můžeme zamluvit ubytování přímo v zoo, v hotelu Safari, a zůstat tam celý víkend.
+
+(Let's break that down)
+(Say: therefore we can reserve)
+
+Proto si můžeme zamluvit
+
+(Say: accommodation directly in the zoo)
+
+ubytování přímo v zoo
+
+(Say: in the Safari Hotel)
+
+v hotelu Safari
+
+(Say: and stay there the whole weekend)
+
+a zůstat tam celý víkend
+
+(Listen to the following sentence)
+Accommodation in the hotel is, in my opinion, unnecessarily expensive.
+
+Ubytování v hotelu je ale podle mě zbytečně drahé.
+
+(Let's break that down)
+(Say: accommodation in the hotel)
+
+Ubytování v hotelu
+
+(Say: is, however, in my opinion)
+
+je ale podle mě
+
+(Say: unnecessarily expensive)
+
+zbytečně drahé
+
+(Listen to another sentence)
+For the children it will be more fun if w
+
+e camp in Safari Camp.
+Pro děti bude zábavnější, když budeme stanovat v Safari Campu.
+
+(Let's break that down)
+(Say: for the children it will be more fun)
+
+Pro děti bude zábavnější
+
+(Say: if we will camp)
+
+když budeme stanovat
+
+(Say: in Safari Camp)
+
+v Safari Campu
+
+(Listen to the following sentence)
+In the end, the trip to Dvůr Králové seems to me like the best option.
+
+Nakonec se mi výlet do Dvora Králové zdá jako nejlepší možnost.
+
+(Let's break that down)
+(Say: in the end)
+
+Nakonec
+
+(Say: the trip to Dvůr Králové seems to me)
+
+se mi výlet do Dvora Králové zdá
+
+(Say: like the best option)
+
+jako nejlepší možnost
+
+(Listen to the final sentence)
+Such a weekend will be more interesting than an ordinary visit to the Prague zoo.
+
+Takový víkend bude zajímavější než obyčejná návštěva pražské zoo.
+
+(Let's break that down)
+(Say: such a weekend)
+
+Takový víkend
+
+(Say: will be more interesting)
+
+bude zajímavější
+
+(Say: than an ordinary visit)
+
+než obyčejná návštěva
+
+(Say: to the Prague zoo)
+
+pražské zoo
 
 This is the end of today's lesson.
 
