@@ -914,7 +914,8 @@ This is the end of today's lesson.
 
 Víkend v safari zoo ve Dvoře Králové
 
-This is today's Pimsleur lesson.
+This is today's Pims
+leur lesson.
 
 (Listen to the following sentence)
 On the weekend I will probably go with the children to the cottage.
