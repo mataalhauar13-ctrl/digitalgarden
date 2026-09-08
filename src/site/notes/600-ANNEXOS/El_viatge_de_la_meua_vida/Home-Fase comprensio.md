@@ -16,340 +16,575 @@
 <a name="czech"></a>
 ## 🌐 Czech
 
-- [🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1](#czech-vikend-v-safari-zoo-ve-dvore-kralove-llico-pimsleur-b1)
+- [🈶 Nordic walking pro zdraví - Lliçó Pimsleur B1](#czech-nordic-walking-pro-zdravi-llico-pimsleur-b1)
+- [🈶 Češi a pivo - Jak se z malé země stal pivní národ](#czech-cesi-a-pivo-jak-se-z-male-zeme-stal-pivni-narod)
+- [🈶 Příroda, pohyb a skautské výpravy - Lliçó Pimsleur B1](#czech-priroda-pohyb-a-skautske-vypravy-llico-pimsleur-b1)
+- [🈶 U lékaře - Lliçó Pimsleur B1](#czech-u-lekare-llico-pimsleur-b1)
 
-<a name="czech-vikend-v-safari-zoo-ve-dvore-kralove-llico-pimsleur-b1"></a>
-### 📖 🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1
+<a name="czech-nordic-walking-pro-zdravi-llico-pimsleur-b1"></a>
+### 📖 🈶 Nordic walking pro zdraví - Lliçó Pimsleur B1
 
-#### 🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1
+#### 🈶 Nordic walking pro zdraví - Lliçó Pimsleur B1
 
-Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1
+Nordic walking pro zdraví - Lliçó Pimsleur B1
 
 This is today's Pimsleur lesson.
 
 (Listen to the following sentence)
-On the weekend I will probably go with the children to the cottage.
 
-O víkendu asi pojedu s dětmi na chatu.
+Nordic walking may sound very mysterious to someone, but in reality it is only ordinary walking with special adjustable poles.
 
-(Let's break that down)
-(Say: on the weekend)
-
-O víkendu
-
-(Say: I will probably go)
-
-asi pojedu
-
-(Say: with the children)
-
-s dětmi
-
-(Say: to the cottage)
-
-na chatu
-
-(Listen to the following sentence)
-My son David, however, wants to go to the Prague zoo.
-
-Můj syn David ale chce jít do pražské zoo.
+Nordic walking možná pro někoho zní hodně tajemně, ale ve skutečnosti je to jen běžná chůze se speciálními nastavitelnými hůlkami.
 
 (Let's break that down)
-(Say: my son David)
 
-Můj syn David
+(Say: Nordic walking may sound very mysterious)
 
-(Say: however, wants to go)
+Nordic walking možná pro někoho zní hodně tajemně.
 
-ale chce jít
+(Say: but in reality it is only ordinary walking)
 
-(Say: to the Prague zoo)
+ale ve skutečnosti je to jen běžná chůze.
 
-do pražské zoo
+(Say: with special adjustable poles)
+
+se speciálními nastavitelnými hůlkami.
+
+(Now, listen to the main answer)
+
+This interesting and attractive form of movement first spread from Finland to all of Scandinavia and from there to the rest of Europe.
+
+Tato zajímavá a atraktivní forma pohybu se nejprve dostala z Finska do celé Skandinávie a odtud do zbytku Evropy.
+
+(Let's break that down)
+
+(Say: this interesting and attractive form of movement)
+
+Tato zajímavá a atraktivní forma pohybu.
+
+(Say: first spread from Finland)
+
+se nejprve dostala z Finska.
+
+(Say: to all of Scandinavia)
+
+do celé Skandinávie.
+
+(Say: and from there to the rest of Europe)
+
+a odtud do zbytku Evropy.
 
 (Listen to another sentence)
-He heard from his friend that he can feed the animals t
-here.
 
-Slyšel od svého kamaráda, že tam může krmit zvířata.
+Nordic walking can be practiced all year round regardless of weather, natural conditions, or physical fitness.
+
+Nordic walking je možné provozovat celý rok bez ohledu na počasí, přírodní podmínky nebo fyzickou zdatnost.
 
 (Let's break that down)
-(Say: he heard from his friend)
 
-Slyšel od svého kamaráda
+(Say: Nordic walking can be practiced all year round)
 
-(Say: that there he can)
+Nordic walking je možné provozovat celý rok.
 
-že tam může
+(Say: regardless of weather)
 
-(Say: feed the animals)
+bez ohledu na počasí.
 
-krmit zvířata
+(Say: natural conditions)
+
+přírodní podmínky.
+
+(Say: or physical fitness)
+
+nebo fyzickou zdatnost.
 
 (Listen to the following sentence)
-He keeps talking about how he himself will feed the penguins, giraffes, or gorillas.
 
-Pořád mluví o tom, jak sám nakrmí tučňáky, žirafy nebo gorily.
+Compared with ordinary walking, more energy is consumed during Nordic walking, and therefore walking with poles can also help with losing weight.
 
-(Let's break that down)
-(Say: he keeps talking about that)
-
-Pořád mluví o tom
-
-(Say: how he himself will feed)
-
-jak sám nakrmí
-
-(Say: penguins, giraffes, or gorillas)
-
-tučňáky, žirafy nebo gorily
-
-(Now, listen to the main idea)
-Instead of the Prague zoo, we could go to the zoo in Dvůr Králové.
-
-Místo pražské zoo bychom mohli jet do zoo ve Dvoře Králové.
+Oproti běžné chůzi se při nordic walkingu spotřebovává více energie, a proto může chůze s holemi pomoci i při hubnutí.
 
 (Let's break that down)
-(Say: instead of the Prague zoo)
 
-Místo pražské zoo
+(Say: compared with ordinary walking)
 
-(Say: we could go)
+Oproti běžné chůzi.
 
-bychom mohli jet
+(Say: during Nordic walking more energy is consumed)
 
-(Say: to the zoo in Dvůr Králové)
+se při nordic walkingu spotřebovává více energie.
 
-do zoo ve Dvoře Králové
+(Say: and therefore walking with poles can help)
 
-(Listen to the following sentence)
-We can order a ride in an off-road safari vehicle directly among the running animals.
+a proto může chůze s holemi pomoci.
 
-Můžeme si tam objednat jízdu terénním safari vozem přímo mezi pobíhajícími zvířaty.
+(Say: also with losing weight)
 
-(Let's break that down)
-(Say: we can order there)
-
-Můžeme si tam objednat
-
-(Say: a ride in an off-road safari vehicle)
-
-jízdu terénním safari vozem
-
-(Say: directly among the running animals)
-
-přímo mezi pobíhajícími zvířaty
+i při hubnutí.
 
 (Listen to another sentence)
-For the children it will be a huge experience.
 
-Pro děti to bude obrovský zážitek.
+With the correct technique, posture improves, because not only the lumbar and back muscles are strengthened, but also the neck and shoulder muscles.
+
+Při správné technice se zlepšuje držení těla, protože se zpevňují nejen bederní a zádové svaly, ale také svaly krční a ramenní.
 
 (Let's break that down)
-(Say: for the children)
 
-Pro děti
+(Say: with the correct technique)
 
-(Say: it will be)
+Při správné technice.
 
-to bude
+(Say: posture improves)
 
-(Say: a huge experience)
+se zlepšuje držení těla.
 
-obrovský zážitek
+(Say: because not only the lumbar and back muscles are strengthened)
+
+protože se zpevňují nejen bederní a zádové svaly.
+
+(Say: but also the neck and shoulder muscles)
+
+ale také svaly krční a ramenní.
 
 (Listen to the following sentence)
-They will feel there as if they were in the African savanna.
 
-Budou se tam cítit jako v africké savaně.
+By engaging the upper part of the body, the heart rate increases, heart function improves, and blood circulation improves.
+
+Zapojením horní části těla se zvyšuje tepová frekvence, zlepšuje se srdeční činnost a krevní oběh.
 
 (Let's break that down)
-(Say: they will feel there)
 
-Budou se tam cítit
+(Say: by engaging the upper part of the body)
 
-(Say: as if in the African savanna)
+Zapojením horní části těla.
 
-jako v africké savaně
+(Say: the heart rate increases)
+
+se zvyšuje tepová frekvence.
+
+(Say: heart function improves)
+
+zlepšuje se srdeční činnost.
+
+(Say: and blood circulation)
+
+a krevní oběh.
 
 (Listen to another sentence)
-With their own eyes they will see herds of antelopes, lions, giraffes, cheetahs, and zebras.
 
-Na vlastní oči uvidí stáda antilop, lvů, žiraf, gepardů a zeber.
+Therefore even people who have problems with the joints of the lower limbs can do this sport.
+
+Proto mohou takto sportovat i lidé, kteří mají problémy s klouby dolních končetin.
 
 (Let's break that down)
-(Say: with their own eyes they will see)
 
-Na vlastní oči uvidí
+(Say: therefore people can do this sport too)
 
-(Say: herds of antelopes)
+Proto mohou takto sportovat i lidé.
 
-stáda antilop
+(Say: who have problems)
 
-(Say: lions, giraffes, cheetahs, and zebras)
+kteří mají problémy.
 
-lvů, žiraf, gepardů a zeber
+(Say: with the joints of the lower limbs)
+
+s klouby dolních končetin.
+
+This is the end of today's lesson.
+
+---
+
+<a name="czech-cesi-a-pivo-jak-se-z-male-zeme-stal-pivni-narod"></a>
+### 📖 🈶 Češi a pivo - Jak se z malé země stal pivní národ
+
+#### 🈶 Češi a pivo - Jak se z malé země stal pivní národ - Lliçó Pimsleur B1
+
+Segment 1 — Pregunta cultural
+
+Instrucció (ca): Com preguntaries en txec: Saps per què els txecs són tan famosos per la seua cervesa?
+
+> Txec: Víš, proč jsou Češi tak známí svým pivem?
+
+Resposta (ca): Molt bé. La paraula clau és známí (famosos) i pivem (per la cervesa, cas instrumental).
+
+Segment 2 — Ingredients i geografia
+
+Instrucció (ca): Ara digues en txec: Tenim excel·lent llúpol de Žatec i a Plzeň aigua molt suau.
+
+> Txec: Máme skvělý žatecký chmel a v Plzni velmi měkkou vodu.
+
+Resposta (ca): Fixa't en la forma locativa v Plzni (a Plzeň) i l'adjectiu měkkou (suau, acusatiu femení).
+
+Segment 3 — Fita històrica
+
+Instrucció (ca): Digues en txec: Josef Groll va elaborar el primer lager clar.
+
+> Txec: Josef Groll uvařil první světlý ležák.
+
+Resposta (ca): El verb uvařit significa literalment 'coure' però s'usa per elaborar cervesa.
+
+Segment 4 — Canvi social
+
+Instrucció (ca): Com diuries: La gent va començar a beure en gots transparents.
+
+> Txec: Lidé začali pít z průhledných sklenic.
+
+Resposta (ca): La preposició z amb genitiu plural sklenic indica 'des de / en gots'.
+
+Segment 5 — Vida social
+
+Instrucció (ca): Ara digues: La taverna sempre ha estat el centre de la vida social.
+
+> Txec: Hospoda byla vždycky centrem společenského života.
+
+Resposta (ca): Nota el cas instrumental centrem (centre, com a predicat nominal).
+
+Conclusió
+
+Has practicat cinc expressions clau sobre la cultura cervesera txeca. Repassa el diàleg complet per consolidar el vocabulari.
+
+Expressions treballades:
+Víš, proč jsou Češi tak známí svým pivem?
+Máme skvělý žatecký chmel a v Plzni velmi měkkou vodu.
+Josef Groll uvařil první světlý ležák.
+Lidé začali pít z průhledných sklenic.
+Hospoda byla vždycky centrem společenského života.
+
+---
+
+<a name="czech-priroda-pohyb-a-skautske-vypravy-llico-pimsleur-b1"></a>
+### 📖 🈶 Příroda, pohyb a skautské výpravy - Lliçó Pimsleur B1
+
+#### 🈶 Příroda, pohyb a skautské výpravy - Lliçó Pimsleur B1
+
+Příroda, pohyb a skautské výpravy - Lliçó Pimsleur B1
+
+This is today's Pimsleur lesson.
 
 (Listen to the following sentence)
-Besides that, they will learn many interesting things about the life of animals.
 
-Kromě toho se dozvědí spoustu zajímavých věcí ze života zvířat.
+When I feel miserable, I take my backpack and head out into nature.
+
+Když je mi mizerně, vezmu si batoh a vyrážím do přírody.
 
 (Let's break that down)
-(Say: besides that)
 
-Kromě toho
+(Say: when I feel miserable)
 
-(Say: they will learn)
+Když je mi mizerně.
 
-se dozvědí
+(Say: I take my backpack)
 
-(Say: many interesting things)
+vezmu si batoh.
 
-spoustu zajímavých věcí
+(Say: and head out into nature)
 
-(Say: about the life of animals)
+a vyrážím do přírody.
 
-ze života zvířat
+(Now, listen to the main answer)
+
+When I am climbing to the top of some hill or just relaxing in the sun, I listen to the rustling of the trees and the singing of birds.
+
+Když stoupám na vrchol nějakého kopce nebo jen tak odpočívám na slunci, poslouchám šumění stromů a zpěv ptáků.
+
+(Let's break that down)
+
+(Say: when I am climbing to the top of some hill)
+
+Když stoupám na vrchol nějakého kopce.
+
+(Say: or just relaxing in the sun)
+
+nebo jen tak odpočívám na slunci.
+
+(Say: I listen to the rustling of the trees)
+
+poslouchám šumění stromů.
+
+(Say: and the singing of birds)
+
+a zpěv ptáků.
 
 (Listen to another sentence)
-I was there last year, and I know that the guide is entertaining.
 
-Byl jsem tam vloni a vím, že průvodce je zábavný.
+Nature gives me a chance to see life in a different light and, thanks to new experiences, to draw strength for further activities.
+
+Příroda mi dává šanci vidět život v jiném světle a díky novým prožitkům načerpat sílu pro další aktivity.
 
 (Let's break that down)
-(Say: I was there last year)
 
-Byl jsem tam vloni
+(Say: nature gives me a chance)
 
-(Say: and I know that)
+Příroda mi dává šanci.
 
-a vím, že
+(Say: to see life in a different light)
 
-(Say: the guide is entertaining)
+vidět život v jiném světle.
 
-průvodce je zábavný
+(Say: and thanks to new experiences)
+
+a díky novým prožitkům.
+
+(Say: to draw strength for further activities)
+
+načerpat sílu pro další aktivity.
 
 (Listen to the following sentence)
-The idea is great, but I do not know whether we will manage to see everything in one day.
 
-Nápad je to skvělý, ale nevím, jestli si za jeden den stihneme všechno prohlédnout.
+Occasionally nature gets a little revenge on me.
+
+Občas se mi ale příroda trochu vymstí.
 
 (Let's break that down)
-(Say: the idea is great)
 
-Nápad je to skvělý
+(Say: occasionally)
 
-(Say: but I do not know)
+Občas.
 
-ale nevím
+(Say: but nature gets revenge on me)
 
-(Say: whether in one day we will manage)
+se mi ale příroda vymstí.
 
-jestli si za jeden den stihneme
+(Say: a little)
 
-(Say: to see everything)
-
-všechno prohlédnout
+trochu.
 
 (Listen to another sentence)
-Therefore, we can reserve accommodation directly in the zoo, in the Safari Hotel, and stay there for the whole weekend.
 
-Proto si můžeme zamluvit ubytování přímo v zoo, v hotelu Safari, a zůstat tam celý víkend.
+I do not really like winter, because seven years ago I had a serious traffic accident on frozen snow.
+
+Nemám moc rád zimu, protože jsem měl před sedmi lety na umrzlém sněhu vážnou dopravní nehodu.
 
 (Let's break that down)
-(Say: therefore we can reserve)
 
-Proto si můžeme zamluvit
+(Say: I do not really like winter)
 
-(Say: accommodation directly in the zoo)
+Nemám moc rád zimu.
 
-ubytování přímo v zoo
+(Say: because seven years ago I had)
 
-(Say: in the Safari Hotel)
+protože jsem měl před sedmi lety.
 
-v hotelu Safari
+(Say: on frozen snow)
 
-(Say: and stay there the whole weekend)
+na umrzlém sněhu.
 
-a zůstat tam celý víkend
+(Say: a serious traffic accident)
+
+vážnou dopravní nehodu.
 
 (Listen to the following sentence)
-Accommodation in the hotel is, in my opinion, unnecessarily expensive.
 
-Ubytování v hotelu je ale podle mě zbytečně drahé.
+She works as the leader of a scout troop, and therefore she spends almost all her free time outdoors.
+
+Pracuje jako vedoucí skautského oddílu, a proto tráví téměř veškerý svůj volný čas venku.
 
 (Let's break that down)
-(Say: accommodation in the hotel)
 
-Ubytování v hotelu
+(Say: she works as the leader of a scout troop)
 
-(Say: is, however, in my opinion)
+Pracuje jako vedoucí skautského oddílu.
 
-je ale podle mě
+(Say: and therefore she spends)
 
-(Say: unnecessarily expensive)
+a proto tráví.
 
-zbytečně drahé
+(Say: almost all her free time)
+
+téměř veškerý svůj volný čas.
+
+(Say: outdoors)
+
+venku.
 
 (Listen to another sentence)
-For the children it will be more fun if w
 
-e camp in Safari Camp.
-Pro děti bude zábavnější, když budeme stanovat v Safari Campu.
+Together with them we have to explore every little forest, climb every larger hill, inspect every castle ruin, and descend into every valley.
+
+Společně s nimi musíme prozkoumat každý lesík, vystoupit na každý větší kopec, prohlédnout každou hradní zříceninu a sestoupit do každého údolí.
 
 (Let's break that down)
-(Say: for the children it will be more fun)
 
-Pro děti bude zábavnější
+(Say: together with them we have to explore every little forest)
 
-(Say: if we will camp)
+Společně s nimi musíme prozkoumat každý lesík.
 
-když budeme stanovat
+(Say: climb every larger hill)
 
-(Say: in Safari Camp)
+vystoupit na každý větší kopec.
 
-v Safari Campu
+(Say: inspect every castle ruin)
+
+prohlédnout každou hradní zříceninu.
+
+(Say: and descend into every valley)
+
+a sestoupit do každého údolí.
+
+This is the end of today's lesson.
+
+---
+
+<a name="czech-u-lekare-llico-pimsleur-b1"></a>
+### 📖 🈶 U lékaře - Lliçó Pimsleur B1
+
+#### 🈶 U lékaře - Lliçó Pimsleur B1
+
+U lékaře - Lliçó Pimsleur B1
+
+This is today's Pimsleur lesson.
 
 (Listen to the following sentence)
-In the end, the trip to Dvůr Králové seems to me like the best option.
 
-Nakonec se mi výlet do Dvora Králové zdá jako nejlepší možnost.
+My child is not feeling well right now. His stomach hurts because he ate too much ice cream.
 
-(Let's break that down)
-(Say: in the end)
-
-Nakonec
-
-(Say: the trip to Dvůr Králové seems to me)
-
-se mi výlet do Dvora Králové zdá
-
-(Say: like the best option)
-
-jako nejlepší možnost
-
-(Listen to the final sentence)
-Such a weekend will be more interesting than an ordinary visit to the Prague zoo.
-
-Takový víkend bude zajímavější než obyčejná návštěva pražské zoo.
+Mému dítěti právě není dobře. Bolí ho žaludek, protože snědlo příliš mnoho zmrzliny.
 
 (Let's break that down)
-(Say: such a weekend)
 
-Takový víkend
+(Say: my child is not feeling well right now)
 
-(Say: will be more interesting)
+Mému dítěti právě není dobře.
 
-bude zajímavější
+(Say: his stomach hurts)
 
-(Say: than an ordinary visit)
+Bolí ho žaludek.
 
-než obyčejná návštěva
+(Say: because he ate too much ice cream)
 
-(Say: to the Prague zoo)
+protože snědlo příliš mnoho zmrzliny.
 
-pražské zoo
+(Now, listen to the main answer)
+
+Recently we have been lucky, because we have mostly been healthy.
+
+V poslední době jsme měli štěstí, protože jsme byli většinou zdraví.
+
+(Let's break that down)
+
+(Say: recently)
+
+V poslední době.
+
+(Say: we have been lucky)
+
+jsme měli štěstí.
+
+(Say: because we have mostly been healthy)
+
+protože jsme byli většinou zdraví.
+
+(Listen to the following sentence)
+
+This time, however, one of the children was really ill, and therefore we had to go to the pharmacy for medicine.
+
+Tentokrát ale jednomu z dětí bylo opravdu špatně, a proto jsme museli jít do lékárny pro léky.
+
+(Let's break that down)
+
+(Say: this time, however)
+
+Tentokrát ale.
+
+(Say: one of the children was really ill)
+
+jednomu z dětí bylo opravdu špatně.
+
+(Say: and therefore we had to go)
+
+a proto jsme museli jít.
+
+(Say: to the pharmacy for medicine)
+
+do lékárny pro léky.
+
+(Listen to another sentence)
+
+The doctor examined my throat and found that I had it red.
+
+Lékař mi prohlédl krk a zjistil, že ho mám zarudlý.
+
+(Let's break that down)
+
+(Say: the doctor examined my throat)
+
+Lékař mi prohlédl krk.
+
+(Say: and found)
+
+a zjistil.
+
+(Say: that I had it red)
+
+že ho mám zarudlý.
+
+(Listen to the following sentence)
+
+The contents of the sachet had to be dissolved in a glass of water and then drunk.
+
+Obsah sáčku bylo třeba rozpustit ve sklenici vody a potom vypít.
+
+(Let's break that down)
+
+(Say: the contents of the sachet)
+
+Obsah sáčku.
+
+(Say: had to be dissolved)
+
+bylo třeba rozpustit.
+
+(Say: in a glass of water)
+
+ve sklenici vody.
+
+(Say: and then drunk)
+
+a potom vypít.
+
+(Listen to another sentence)
+
+After twenty years she decided to stop smoking from one day to the next.
+
+Po dvaceti letech se rozhodla přestat kouřit ze dne na den.
+
+(Let's break that down)
+
+(Say: after twenty years)
+
+Po dvaceti letech.
+
+(Say: she decided to stop smoking)
+
+se rozhodla přestat kouřit.
+
+(Say: from one day to the next)
+
+ze dne na den.
+
+(Listen to the following sentence)
+
+When a person becomes ill, it is important not to neglect the symptoms, to consult a doctor, and to use the prescribed medicine correctly.
+
+Když člověk onemocní, je důležité nezanedbat příznaky, poradit se s lékařem a správně užívat předepsané léky.
+
+(Let's break that down)
+
+(Say: when a person becomes ill)
+
+Když člověk onemocní.
+
+(Say: it is important not to neglect the symptoms)
+
+je důležité nezanedbat příznaky.
+
+(Say: to consult a doctor)
+
+poradit se s lékařem.
+
+(Say: and to use the prescribed medicine correctly)
+
+a správně užívat předepsané léky.
 
 This is the end of today's lesson.
 

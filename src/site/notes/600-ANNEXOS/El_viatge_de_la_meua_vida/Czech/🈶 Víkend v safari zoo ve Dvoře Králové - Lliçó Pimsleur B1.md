@@ -53,8 +53,7 @@ ale chce jít
 do pražské zoo
 
 (Listen to another sentence)
-He heard from his friend that he can feed the animals t
-here.
+He heard from his friend that he can feed the animals there.
 
 Slyšel od svého kamaráda, že tam může krmit zvířata.
 
