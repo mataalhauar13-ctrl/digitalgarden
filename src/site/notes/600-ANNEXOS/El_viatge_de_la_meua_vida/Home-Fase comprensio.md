@@ -9,1236 +9,742 @@
 
 ## Índex d'Idiomes
 
-[Czech](#czech)
+[Armenian](#armenian)
 
 ---
 
-<a name="czech"></a>
-## 🌐 Czech
+<a name="armenian"></a>
+## 🌐 Armenian
 
-- [🈶 Češi a pivo - Jak se z malé země stal pivní národ](#czech-cesi-a-pivo-jak-se-z-male-zeme-stal-pivni-narod)
-- [🈶 Nordic walking pro zdraví - Lliçó Pimsleur B1](#czech-nordic-walking-pro-zdravi-llico-pimsleur-b1)
-- [🈶 Příroda, pohyb a skautské výpravy - Lliçó Pimsleur B1](#czech-priroda-pohyb-a-skautske-vypravy-llico-pimsleur-b1)
-- [🈶 Svatby v České republice a ve Španělsku - Lliçó Pimsleur B1](#czech-svatby-v-ceske-republice-a-ve-spanelsku-llico-pimsleur-b1)
-- [🈶 U lékaře - Lliçó Pimsleur B1](#czech-u-lekare-llico-pimsleur-b1)
-- [🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1](#czech-vikend-v-safari-zoo-ve-dvore-kralove-llico-pimsleur-b1)
+- [🈶 Իմ սիրելի արհեստը և այն սովորելու ցանկությունը-Diàleg - Lliçó Pimsleur B1](#armenian-իմ-սիրելի-արհեստը-և-այն-սովորելու-ցանկությունը-dialeg-llico-pimsleur-b1)
+- [🈶 Նվերի համար ընտրված ձեռագործ իրը-Diàleg - Lliçó Pimsleur B1](#armenian-նվերի-համար-ընտրված-ձեռագործ-իրը-dialeg-llico-pimsleur-b1)
+- [🈶 Վերնիսաժ․ արվեստ և արհեստներ-Diàlog-versió comprensible - Lliçó Pimsleur B1](#armenian-վերնիսաժ-արվեստ-և-արհեստներ-dialog-versio-comprensible-llico-pimsleur-b1)
+- [🈶 Վերնիսաժում տեսած իմ ամենատպավորիչ արվեստի գործը-Diàleg - Lliçó Pimsleur B1](#armenian-վերնիսաժում-տեսած-իմ-ամենատպավորիչ-արվեստի-գործը-dialeg-llico-pimsleur-b1)
 
-<a name="czech-cesi-a-pivo-jak-se-z-male-zeme-stal-pivni-narod"></a>
-### 📖 🈶 Češi a pivo - Jak se z malé země stal pivní národ
+<a name="armenian-իմ-սիրելի-արհեստը-և-այն-սովորելու-ցանկությունը-dialeg-llico-pimsleur-b1"></a>
+### 📖 🈶 Իմ սիրելի արհեստը և այն սովորելու ցանկությունը-Diàleg - Lliçó Pimsleur B1
 
-#### 🈶 Češi a pivo - Jak se z malé země stal pivní národ - Lliçó Pimsleur B1
+#### 🈶 Իմ սիրելի արհեստը և այն սովորելու ցանկությունը-Diàleg - Lliçó Pimsleur B1
 
-Segment 1 — Pregunta cultural
+🈶 Իմ սիրելի արհեստը և այն սովորելու ցանկությունը-Diàleg-versió comprensible
 
-Instrucció (ca): Com preguntaries en txec: Saps per què els txecs són tan famosos per la seua cervesa?
-
-> Txec: Víš, proč jsou Češi tak známí svým pivem?
-
-Resposta (ca): Molt bé. La paraula clau és známí (famosos) i pivem (per la cervesa, cas instrumental).
-
-Segment 2 — Ingredients i geografia
-
-Instrucció (ca): Ara digues en txec: Tenim excel·lent llúpol de Žatec i a Plzeň aigua molt suau.
-
-> Txec: Máme skvělý žatecký chmel a v Plzni velmi měkkou vodu.
-
-Resposta (ca): Fixa't en la forma locativa v Plzni (a Plzeň) i l'adjectiu měkkou (suau, acusatiu femení).
-
-Segment 3 — Fita històrica
-
-Instrucció (ca): Digues en txec: Josef Groll va elaborar el primer lager clar.
-
-> Txec: Josef Groll uvařil první světlý ležák.
-
-Resposta (ca): El verb uvařit significa literalment 'coure' però s'usa per elaborar cervesa.
-
-Segment 4 — Canvi social
-
-Instrucció (ca): Com diuries: La gent va començar a beure en gots transparents.
-
-> Txec: Lidé začali pít z průhledných sklenic.
-
-Resposta (ca): La preposició z amb genitiu plural sklenic indica 'des de / en gots'.
-
-Segment 5 — Vida social
-
-Instrucció (ca): Ara digues: La taverna sempre ha estat el centre de la vida social.
-
-> Txec: Hospoda byla vždycky centrem společenského života.
-
-Resposta (ca): Nota el cas instrumental centrem (centre, com a predicat nominal).
-
-Conclusió
-
-Has practicat cinc expressions clau sobre la cultura cervesera txeca. Repassa el diàleg complet per consolidar el vocabulari.
-
-Expressions treballades:
-Víš, proč jsou Češi tak známí svým pivem?
-Máme skvělý žatecký chmel a v Plzni velmi měkkou vodu.
-Josef Groll uvařil první světlý ležák.
-Lidé začali pít z průhledných sklenic.
-Hospoda byla vždycky centrem společenského života.
-
----
-
-<a name="czech-nordic-walking-pro-zdravi-llico-pimsleur-b1"></a>
-### 📖 🈶 Nordic walking pro zdraví - Lliçó Pimsleur B1
-
-#### 🈶 Nordic walking pro zdraví - Lliçó Pimsleur B1
-
-Nordic walking pro zdraví - Lliçó Pimsleur B1
+🈶 Իմ սիրելի արհեստը և այն սովորելու ցանկությունը-Diàleg - Lliçó Pimsleur B1
 
 This is today's Pimsleur lesson.
 
-(Listen to the following sentence)
-
-Nordic walking may sound very mysterious to someone, but in reality it is only ordinary walking with special adjustable poles.
-
-Nordic walking možná pro někoho zní hodně tajemně, ale ve skutečnosti je to jen běžná chůze se speciálními nastavitelnými hůlkami.
+Listen to the following sentence.
+Pottery is a calm but demanding craft, because you have to use hand strength and patience together.
+Կավագործությունը հանգիստ, բայց պահանջկոտ արհեստ է, որովհետև պետք է ձեռքի ուժն ու համբերությունը միասին օգտագործել։
 
 (Let's break that down)
+(Say: pottery is a calm but demanding craft)
 
-(Say: Nordic walking may sound very mysterious)
+Կավագործությունը հանգիստ, բայց պահանջկոտ արհեստ է
 
-Nordic walking možná pro někoho zní hodně tajemně.
+(Say: because)
 
-(Say: but in reality it is only ordinary walking)
+որովհետև
 
-ale ve skutečnosti je to jen běžná chůze.
+(Say: you have to use hand strength and patience together)
 
-(Say: with special adjustable poles)
-
-se speciálními nastavitelnými hůlkami.
-
-(Now, listen to the main answer)
-
-This interesting and attractive form of movement first spread from Finland to all of Scandinavia and from there to the rest of Europe.
-
-Tato zajímavá a atraktivní forma pohybu se nejprve dostala z Finska do celé Skandinávie a odtud do zbytku Evropy.
+պետք է ձեռքի ուժն ու համբերությունը միասին օգտագործել։
+Listen to the following sentence.
+First you have to learn how to knead the clay correctly, and then give it an even shape on the wheel.
+Սկզբում պետք է սովորես կավը ճիշտ հունցել, իսկ հետո՝ անիվի վրա հավասար ձև տալ։
 
 (Let's break that down)
+(Say: first)
 
-(Say: this interesting and attractive form of movement)
+Սկզբում
 
-Tato zajímavá a atraktivní forma pohybu.
+(Say: you have to learn how to knead the clay correctly)
 
-(Say: first spread from Finland)
+պետք է սովորես կավը ճիշտ հունցել
 
-se nejprve dostala z Finska.
+(Say: and then)
 
-(Say: to all of Scandinavia)
+իսկ հետո՝
 
-do celé Skandinávie.
+(Say: give it an even shape on the wheel)
 
-(Say: and from there to the rest of Europe)
-
-a odtud do zbytku Evropy.
-
-(Listen to another sentence)
-
-Nordic walking can be practiced all year round regardless of weather, natural conditions, or physical fitness.
-
-Nordic walking je možné provozovat celý rok bez ohledu na počasí, přírodní podmínky nebo fyzickou zdatnost.
+անիվի վրա հավասար ձև տալ։
+Listen to another question.
+In your opinion, is it possible to start at home, or is it better to go to a course?
+Քո կարծիքով՝ տանը կարելի՞ է սկսել, թե՞ ավելի լավ է դասընթացի գնալ։
 
 (Let's break that down)
+(Say: in your opinion)
 
-(Say: Nordic walking can be practiced all year round)
+Քո կարծիքով՝
 
-Nordic walking je možné provozovat celý rok.
+(Say: is it possible to start at home)
 
-(Say: regardless of weather)
+տանը կարելի՞ է սկսել
 
-bez ohledu na počasí.
+(Say: or is it better)
 
-(Say: natural conditions)
+թե՞ ավելի լավ է
 
-přírodní podmínky.
+(Say: to go to a course)
 
-(Say: or physical fitness)
-
-nebo fyzickou zdatnost.
-
-(Listen to the following sentence)
-
-Compared with ordinary walking, more energy is consumed during Nordic walking, and therefore walking with poles can also help with losing weight.
-
-Oproti běžné chůzi se při nordic walkingu spotřebovává více energie, a proto může chůze s holemi pomoci i při hubnutí.
+դասընթացի գնալ։
+Listen to the following sentence.
+You can do small exercises at home, but in the workshop the teacher will immediately correct the movements of your hands.
+Տանը կարելի է փոքր վարժություններ անել, բայց արհեստանոցում ուսուցիչը անմիջապես կուղղի ձեռքիդ շարժումները։
 
 (Let's break that down)
+(Say: you can do small exercises at home)
 
-(Say: compared with ordinary walking)
+Տանը կարելի է փոքր վարժություններ անել
 
-Oproti běžné chůzi.
+(Say: but in the workshop)
 
-(Say: during Nordic walking more energy is consumed)
+բայց արհեստանոցում
 
-se při nordic walkingu spotřebovává více energie.
+(Say: the teacher will immediately correct)
 
-(Say: and therefore walking with poles can help)
+ուսուցիչը անմիջապես կուղղի
 
-a proto může chůze s holemi pomoci.
+(Say: the movements of your hands)
 
-(Say: also with losing weight)
-
-i při hubnutí.
-
-(Listen to another sentence)
-
-With the correct technique, posture improves, because not only the lumbar and back muscles are strengthened, but also the neck and shoulder muscles.
-
-Při správné technice se zlepšuje držení těla, protože se zpevňují nejen bederní a zádové svaly, ale také svaly krční a ramenní.
+ձեռքիդ շարժումները։
+Listen to the following sentence.
+That is a good plan, and after working, write down which step succeeded and which did not.
+Դա լավ ծրագիր է, իսկ աշխատելուց հետո գրի առ, թե որ քայլը հաջողվեց և որը՝ ոչ։
 
 (Let's break that down)
+(Say: that is a good plan)
 
-(Say: with the correct technique)
+Դա լավ ծրագիր է
 
-Při správné technice.
+(Say: and after working)
 
-(Say: posture improves)
+իսկ աշխատելուց հետո
 
-se zlepšuje držení těla.
+(Say: write down)
 
-(Say: because not only the lumbar and back muscles are strengthened)
+գրի առ
 
-protože se zpevňují nejen bederní a zádové svaly.
+(Say: which step succeeded)
 
-(Say: but also the neck and shoulder muscles)
+թե որ քայլը հաջողվեց
 
-ale také svaly krční a ramenní.
+(Say: and which did not)
 
-(Listen to the following sentence)
-
-By engaging the upper part of the body, the heart rate increases, heart function improves, and blood circulation improves.
-
-Zapojením horní části těla se zvyšuje tepová frekvence, zlepšuje se srdeční činnost a krevní oběh.
-
-(Let's break that down)
-
-(Say: by engaging the upper part of the body)
-
-Zapojením horní části těla.
-
-(Say: the heart rate increases)
-
-se zvyšuje tepová frekvence.
-
-(Say: heart function improves)
-
-zlepšuje se srdeční činnost.
-
-(Say: and blood circulation)
-
-a krevní oběh.
-
-(Listen to another sentence)
-
-Therefore even people who have problems with the joints of the lower limbs can do this sport.
-
-Proto mohou takto sportovat i lidé, kteří mají problémy s klouby dolních končetin.
+և որը՝ ոչ։
+Listen to the following sentence.
+I think pottery will teach me to be more attentive and not to hurry.
+Կարծում եմ՝ կավագործությունն ինձ կսովորեցնի ավելի ուշադիր լինել և չշտապել։
 
 (Let's break that down)
+(Say: I think)
 
-(Say: therefore people can do this sport too)
+Կարծում եմ՝
 
-Proto mohou takto sportovat i lidé.
+(Say: pottery will teach me)
 
-(Say: who have problems)
+կավագործությունն ինձ կսովորեցնի
 
-kteří mají problémy.
+(Say: to be more attentive)
 
-(Say: with the joints of the lower limbs)
+ավելի ուշադիր լինել
 
-s klouby dolních končetin.
+(Say: and not to hurry)
+
+և չշտապել։
+Listen to the following sentence.
+I agree. If you work regularly for three months, you will be able to make your first beautiful cup, and that is why it is worth starting this week.
+Համաձայն եմ. եթե երեք ամիս կանոնավոր աշխատես, կկարողանաս պատրաստել քո առաջին գեղեցիկ բաժակը, ու այդ պատճառով արժե սկսել այս շաբաթ։
+
+(Let's break that down)
+(Say: I agree)
+
+Համաձայն եմ.
+
+(Say: if you work regularly for three months)
+
+եթե երեք ամիս կանոնավոր աշխատես
+
+(Say: you will be able to make)
+
+կկարողանաս պատրաստել
+
+(Say: your first beautiful cup)
+
+քո առաջին գեղեցիկ բաժակը
+
+(Say: and that is why)
+
+ու այդ պատճառով
+
+(Say: it is worth starting this week)
+
+արժե սկսել այս շաբաթ։
 
 This is the end of today's lesson.
 
 ---
 
-<a name="czech-priroda-pohyb-a-skautske-vypravy-llico-pimsleur-b1"></a>
-### 📖 🈶 Příroda, pohyb a skautské výpravy - Lliçó Pimsleur B1
+<a name="armenian-նվերի-համար-ընտրված-ձեռագործ-իրը-dialeg-llico-pimsleur-b1"></a>
+### 📖 🈶 Նվերի համար ընտրված ձեռագործ իրը-Diàleg - Lliçó Pimsleur B1
 
-#### 🈶 Příroda, pohyb a skautské výpravy - Lliçó Pimsleur B1
+#### 🈶 Նվերի համար ընտրված ձեռագործ իրը-Diàleg - Lliçó Pimsleur B1
 
-Příroda, pohyb a skautské výpravy - Lliçó Pimsleur B1
+🈶 Նվերի համար ընտրված ձեռագործ իրը-Diàleg-versió comprensible
+
+🈶 Նվերի համար ընտրված ձեռագործ իրը-Diàleg - Lliçó Pimsleur B1
 
 This is today's Pimsleur lesson.
 
-(Listen to the following sentence)
-
-When I feel miserable, I take my backpack and head out into nature.
-
-Když je mi mizerně, vezmu si batoh a vyrážím do přírody.
+Listen to the following sentence.
+If I had to choose a gift, I would choose a handmade leather diary.
+Եթե պետք է նվեր ընտրեմ, ես կընտրեի ձեռագործ կաշվե օրագիր։
 
 (Let's break that down)
+(Say: if I had to choose a gift)
 
-(Say: when I feel miserable)
+Եթե պետք է նվեր ընտրեմ,
 
-Když je mi mizerně.
+(Say: I would choose)
 
-(Say: I take my backpack)
+ես կընտրեի
 
-vezmu si batoh.
+(Say: a handmade leather diary)
 
-(Say: and head out into nature)
-
-a vyrážím do přírody.
-
-(Now, listen to the main answer)
-
-When I am climbing to the top of some hill or just relaxing in the sun, I listen to the rustling of the trees and the singing of birds.
-
-Když stoupám na vrchol nějakého kopce nebo jen tak odpočívám na slunci, poslouchám šumění stromů a zpěv ptáků.
+ձեռագործ կաշվե օրագիր։
+Now, listen to the main answer.
+That is a good choice because the diary is both beautiful and useful.
+Դա լավ ընտրություն է, որովհետև օրագիրը և՛ գեղեցիկ է, և՛ օգտակար։
 
 (Let's break that down)
+(Say: that is a good choice)
 
-(Say: when I am climbing to the top of some hill)
+Դա լավ ընտրություն է,
 
-Když stoupám na vrchol nějakého kopce.
+(Say: because the diary is both beautiful and useful)
 
-(Say: or just relaxing in the sun)
-
-nebo jen tak odpočívám na slunci.
-
-(Say: I listen to the rustling of the trees)
-
-poslouchám šumění stromů.
-
-(Say: and the singing of birds)
-
-a zpěv ptáků.
-
-(Listen to another sentence)
-
-Nature gives me a chance to see life in a different light and, thanks to new experiences, to draw strength for further activities.
-
-Příroda mi dává šanci vidět život v jiném světle a díky novým prožitkům načerpat sílu pro další aktivity.
+որովհետև օրագիրը և՛ գեղեցիկ է, և՛ օգտակար։
+Listen to another question.
+Why specifically a leather diary, rather than a ready-made store-bought gift?
+Ինչո՞ւ հենց կաշվե օրագիր, ոչ թե պատրաստի խանութային նվեր։
 
 (Let's break that down)
+(Say: why specifically a leather diary)
 
-(Say: nature gives me a chance)
+Ինչո՞ւ հենց կաշվե օրագիր,
 
-Příroda mi dává šanci.
+(Say: rather than a ready-made store-bought gift)
 
-(Say: to see life in a different light)
-
-vidět život v jiném světle.
-
-(Say: and thanks to new experiences)
-
-a díky novým prožitkům.
-
-(Say: to draw strength for further activities)
-
-načerpat sílu pro další aktivity.
-
-(Listen to the following sentence)
-
-Occasionally nature gets a little revenge on me.
-
-Občas se mi ale příroda trochu vymstí.
+ոչ թե պատրաստի խանութային նվեր։
+Now, listen to the following sentence.
+A handmade diary is more personal: the craftsman carefully makes the cover of each page, while the leather lasts a long time.
+Ձեռագործ օրագիրը ավելի անձնական է. վարպետը յուրաքանչյուր էջի կազմը պատրաստում է ուշադիր, իսկ կաշին երկար է պահպանվում։
 
 (Let's break that down)
+(Say: a handmade diary is more personal)
 
-(Say: occasionally)
+Ձեռագործ օրագիրը ավելի անձնական է.
 
-Občas.
+(Say: the craftsman carefully makes the cover of each page)
 
-(Say: but nature gets revenge on me)
+վարպետը յուրաքանչյուր էջի կազմը պատրաստում է ուշադիր,
 
-se mi ale příroda vymstí.
+(Say: while the leather lasts a long time)
 
-(Say: a little)
-
-trochu.
-
-(Listen to another sentence)
-
-I do not really like winter, because seven years ago I had a serious traffic accident on frozen snow.
-
-Nemám moc rád zimu, protože jsem měl před sedmi lety na umrzlém sněhu vážnou dopravní nehodu.
+իսկ կաշին երկար է պահպանվում։
+Listen to another question.
+And what small details can be added to make the gift special?
+Իսկ ի՞նչ մանրուքներ կարելի է ավելացնել, որ նվերը հատուկ դառնա։
 
 (Let's break that down)
+(Say: and what small details)
 
-(Say: I do not really like winter)
+Իսկ ի՞նչ մանրուքներ
 
-Nemám moc rád zimu.
+(Say: can be added)
 
-(Say: because seven years ago I had)
+կարելի է ավելացնել,
 
-protože jsem měl před sedmi lety.
+(Say: to make the gift special)
 
-(Say: on frozen snow)
-
-na umrzlém sněhu.
-
-(Say: a serious traffic accident)
-
-vážnou dopravní nehodu.
-
-(Listen to the following sentence)
-
-She works as the leader of a scout troop, and therefore she spends almost all her free time outdoors.
-
-Pracuje jako vedoucí skautského oddílu, a proto tráví téměř veškerý svůj volný čas venku.
+որ նվերը հատուկ դառնա։
+Now, listen to the main answer.
+On the cover, the recipient's initials can be engraved, and a small pen and bookmark can be placed inside.
+Կազմի վրա կարելի է ստացողի սկզբնատառերը փորագրել և ներսում դնել փոքրիկ գրիչ ու էջանիշ։
 
 (Let's break that down)
+(Say: on the cover)
 
-(Say: she works as the leader of a scout troop)
+Կազմի վրա
 
-Pracuje jako vedoucí skautského oddílu.
+(Say: the recipient's initials can be engraved)
 
-(Say: and therefore she spends)
+կարելի է ստացողի սկզբնատառերը փորագրել
 
-a proto tráví.
+(Say: and a small pen and bookmark can be placed inside)
 
-(Say: almost all her free time)
-
-téměř veškerý svůj volný čas.
-
-(Say: outdoors)
-
-venku.
-
-(Listen to another sentence)
-
-Together with them we have to explore every little forest, climb every larger hill, inspect every castle ruin, and descend into every valley.
-
-Společně s nimi musíme prozkoumat každý lesík, vystoupit na každý větší kopec, prohlédnout každou hradní zříceninu a sestoupit do každého údolí.
+և ներսում դնել փոքրիկ գրիչ ու էջանիշ։
+Listen to the following sentence.
+I like that idea, but I was also thinking about a handmade ceramic cup.
+Ինձ դուր է գալիս այդ գաղափարը, բայց ես նաև ձեռագործ կերամիկական բաժակ էի մտածում։
 
 (Let's break that down)
+(Say: I like that idea)
 
-(Say: together with them we have to explore every little forest)
+Ինձ դուր է գալիս այդ գաղափարը,
 
-Společně s nimi musíme prozkoumat každý lesík.
+(Say: but I was also thinking about)
 
-(Say: climb every larger hill)
+բայց ես նաև ... էի մտածում
 
-vystoupit na každý větší kopec.
+(Say: a handmade ceramic cup)
 
-(Say: inspect every castle ruin)
+ձեռագործ կերամիկական բաժակ։
+Now, listen to the main answer.
+A ceramic cup is also good, especially if the person likes to drink coffee in the morning, but it can break.
+Կերամիկական բաժակը նույնպես լավ է, հատկապես եթե մարդը սիրում է առավոտյան սուրճ խմել, բայց այն կարող է կոտրվել։
 
-prohlédnout každou hradní zříceninu.
+(Let's break that down)
+(Say: a ceramic cup is also good)
 
-(Say: and descend into every valley)
+Կերամիկական բաժակը նույնպես լավ է,
 
-a sestoupit do každého údolí.
+(Say: especially if the person likes to drink coffee in the morning)
+
+հատկապես եթե մարդը սիրում է առավոտյան սուրճ խմել,
+
+(Say: but it can break)
+
+բայց այն կարող է կոտրվել։
+Listen to the following sentence.
+So I will choose the diary, add her initials, and write a short good wish on the first page.
+Ուրեմն ես կընտրեմ օրագիրը, կավելացնեմ նրա սկզբնատառերը և առաջին էջում կգրեմ կարճ բարեմաղթանք։
+
+(Let's break that down)
+(Say: so I will choose the diary)
+
+Ուրեմն ես կընտրեմ օրագիրը,
+
+(Say: I will add her initials)
+
+կավելացնեմ նրա սկզբնատառերը
+
+(Say: and write a short good wish on the first page)
+
+և առաջին էջում կգրեմ կարճ բարեմաղթանք։
+Now, listen to the main answer.
+I agree. That gift will be practical, beautiful, and memorable at the same time.
+Համաձայն եմ. այդ նվերը միաժամանակ գործնական, գեղեցիկ և հիշվող կլինի։
+
+(Let's break that down)
+(Say: I agree)
+
+Համաձայն եմ.
+
+(Say: that gift will be practical, beautiful, and memorable)
+
+այդ նվերը միաժամանակ գործնական, գեղեցիկ և հիշվող կլինի։
 
 This is the end of today's lesson.
 
 ---
 
-<a name="czech-svatby-v-ceske-republice-a-ve-spanelsku-llico-pimsleur-b1"></a>
-### 📖 🈶 Svatby v České republice a ve Španělsku - Lliçó Pimsleur B1
+<a name="armenian-վերնիսաժ-արվեստ-և-արհեստներ-dialog-versio-comprensible-llico-pimsleur-b1"></a>
+### 📖 🈶 Վերնիսաժ․ արվեստ և արհեստներ-Diàlog-versió comprensible - Lliçó Pimsleur B1
 
-#### 🈶 Svatby v České republice a ve Španělsku - Lliçó Pimsleur B1
+#### 🈶 Վերնիսաժ․ արվեստ և արհեստներ-Diàlog-versió comprensible - Lliçó Pimsleur B1
 
-🈶 Svatby v České republice a ve Španělsku-Diàleg-versió comprensible
-
-Svatby v České republice a ve Španělsku - Lliçó Pimsleur B1
+🈶 Վերնիսաժ․ արվեստ և արհեստներ-Diàlog-versió comprensible - Lliçó Pimsleur B1
 
 This is today's Pimsleur lesson.
 
 (Listen to the following sentence)
 
-There are certain similarities and differences between weddings in the Czech Republic and in Spain.
+Yes, Anna. It is a weekend fair in Yerevan that is open on Saturdays and Sundays from 9:00 to 19:00.
 
-Mezi svatbami v České republice a ve Španělsku existují určité podobnosti i rozdíly.
+Այո՛, Աննա։ Դա շաբաթվա վերջին գործող տոնավաճառ է Երևանում, որը բաց է շաբաթ և կիրակի օրերին՝ ժամը 9:00-ից 19:00-ն։
 
 (Let's break that down)
 
-(Say: between weddings)
+(Say: Yes, Anna)
 
-Mezi svatbami.
+Այո՛, Աննա։
 
-(Say: in the Czech Republic and in Spain)
+(Say: It is a weekend fair in Yerevan)
 
-v České republice a ve Španělsku.
+Դա շաբաթվա վերջին գործող տոնավաճառ է Երևանում,
 
-(Say: there are certain similarities and differences)
+(Say: that is open on Saturdays and Sundays)
 
-existují určité podobnosti i rozdíly.
+որը բաց է շաբաթ և կիրակի օրերին՝
+
+(Say: from 9:00 to 19:00)
+
+ժամը 9:00-ից 19:00-ն։
+
+(Listen to another question)
+
+What can you buy there, and are all the goods in the same place?
+
+Ի՞նչ կարելի է գնել այնտեղ, և արդյո՞ք բոլոր ապրանքները նույն վայրում են։
+
+(Let's break that down)
+
+(Say: What can you buy there)
+
+Ի՞նչ կարելի է գնել այնտեղ,
+
+(Say: and are all the goods in the same place)
+
+և արդյո՞ք բոլոր ապրանքները նույն վայրում են։
 
 (Now, listen to the main answer)
 
-At first glance it can look similar, but the main differences appear in the size and pace of the celebration.
+The Vernissage is in two locations.
 
-Na první pohled to může vypadat podobně, ale hlavní rozdíly se objevují ve velikosti a tempu oslavy.
-
-(Let's break that down)
-
-(Say: at first glance)
-
-Na první pohled.
-
-(Say: it can look similar)
-
-to může vypadat podobně.
-
-(Say: but the main differences appear)
-
-ale hlavní rozdíly se objevují.
-
-(Say: in the size and pace of the celebration)
-
-ve velikosti a tempu oslavy.
-
-(Listen to another sentence)
-
-In Spain, weddings are often larger and last longer, sometimes until the night.
-
-Ve Španělsku bývají svatby často větší a trvají déle, někdy až do noci.
+Վերնիսաժը երկու վայրում է։
 
 (Let's break that down)
 
-(Say: in Spain)
+(Say: The Vernissage)
 
-Ve Španělsku.
+Վերնիսաժը
 
-(Say: weddings are often larger)
+(Say: is in two locations)
 
-bývají svatby často větší.
-
-(Say: and last longer)
-
-a trvají déle.
-
-(Say: sometimes until the night)
-
-někdy až do noci.
+երկու վայրում է։
 
 (Listen to the following sentence)
 
-In the Czech Republic, there are many civil ceremonies at the town hall or in a castle complex.
+In one location there are art, handicrafts, jewellery, household goods, needlework, carpets, and even pets; in the other there are mainly pictures and sculptures by local artists.
 
-V Česku je hodně civilních obřadů na radnici nebo v zámeckém areálu.
-
-(Let's break that down)
-
-(Say: in the Czech Republic there are many civil ceremonies)
-
-V Česku je hodně civilních obřadů.
-
-(Say: at the town hall)
-
-na radnici.
-
-(Say: or in a castle complex)
-
-nebo v zámeckém areálu.
-
-(Listen to another sentence)
-
-After the ceremony, they went together with the family to the Mánes restaurant, where the family celebration can continue after the wedding ceremony.
-
-Po obřadu jeli společně s rodinou do restaurace Mánes, kde může pokračovat rodinná oslava po svatebním obřadu.
+Մեկ վայրում կան արվեստ, ձեռքի աշխատանք, զարդեղեն, տնային իրեր, ասեղնագործ աշխատանք, գորգեր և ընտանի կենդանիներ, իսկ մյուսում՝ հիմնականում տեղական արվեստագետների նկարներ ու քանդակներ։
 
 (Let's break that down)
 
-(Say: after the ceremony)
+(Say: In one location there are art, handicrafts, jewellery)
 
-Po obřadu.
+Մեկ վայրում կան արվեստ, ձեռքի աշխատանք, զարդեղեն,
 
-(Say: they went together with the family)
+(Say: household goods, needlework, carpets, and even pets)
 
-jeli společně s rodinou.
+տնային իրեր, ասեղնագործ աշխատանք, գորգեր և ընտանի կենդանիներ,
 
-(Say: to the Mánes restaurant)
+(Say: but in the other there are mainly pictures and sculptures)
 
-do restaurace Mánes.
+իսկ մյուսում՝ հիմնականում տեղական արվեստագետների նկարներ ու քանդակներ։
 
-(Say: where the family celebration can continue)
+(Listen to another question)
 
-kde může pokračovat rodinná oslava.
+Are the prices fixed, or is it possible to bargain?
 
-(Say: after the wedding ceremony)
+Իսկ գները ֆիքսվա՞ծ են, թե՞ հնարավոր է սակարկել։
 
-po svatebním obřadu.
+(Let's break that down)
+
+(Say: Are the prices fixed)
+
+Իսկ գները ֆիքսվա՞ծ են,
+
+(Say: or is it possible to bargain)
+
+թե՞ հնարավոր է սակարկել։
+
+(Now, listen to the main answer)
+
+Bargaining is normal there; all the prices are negotiable.
+
+Այնտեղ սովորական է սակարկելը, բոլոր գները բանակցելի են։
+
+(Let's break that down)
+
+(Say: Bargaining is normal there)
+
+Այնտեղ սովորական է սակարկելը,
+
+(Say: all the prices are negotiable)
+
+բոլոր գները բանակցելի են։
 
 (Listen to the following sentence)
 
-Here another difference can be seen: in one country the civil form of the ceremony can be more common, while in the other a stronger religious tradition remains.
+Let's buy this wooden jewellery box as a present, and the silver ring for you.
 
-Právě zde je vidět další rozdíl: v jedné zemi může být běžnější civilní forma obřadu, zatímco v druhé zůstává silnější náboženská tradice.
-
-(Let's break that down)
-
-(Say: here another difference can be seen)
-
-Právě zde je vidět další rozdíl.
-
-(Say: in one country)
-
-v jedné zemi.
-
-(Say: the civil form of the ceremony can be more common)
-
-může být běžnější civilní forma obřadu.
-
-(Say: while in the other)
-
-zatímco v druhé.
-
-(Say: a stronger religious tradition remains)
-
-zůstává silnější náboženská tradice.
-
-(Listen to another sentence)
-
-In Spain, the banquet is often longer and later, and there are usually many courses there.
-
-Ve Španělsku je hostina často delší a pozdější a bývá tam mnoho chodů.
+Գնենք այս փայտե զարդատուփը որպես նվեր, իսկ քեզ համար՝ արծաթե մատանին։
 
 (Let's break that down)
 
-(Say: in Spain)
+(Say: Let's buy this wooden jewellery box as a present)
 
-Ve Španělsku.
+Գնենք այս փայտե զարդատուփը որպես նվեր,
 
-(Say: the banquet is often longer and later)
+(Say: and the silver ring for you)
 
-je hostina často delší a pozdější.
-
-(Say: and there are usually many courses there)
-
-a bývá tam mnoho chodů.
-
-(Listen to the following sentence)
-
-Music and dance are very important in both countries, but the atmosphere can be different.
-
-Hudba a tanec jsou v obou zemích velmi důležité, ale atmosféra může být jiná.
-
-(Let's break that down)
-
-(Say: music and dance)
-
-Hudba a tanec.
-
-(Say: are very important in both countries)
-
-jsou v obou zemích velmi důležité.
-
-(Say: but the atmosphere can be different)
-
-ale atmosféra může být jiná.
-
-(Listen to another sentence)
-
-In the Czech Republic there are also some special wedding traditions that differ from the Spanish ones.
-
-V Česku existují i některé zvláštní svatební tradice, které se liší od těch španělských.
-
-(Let's break that down)
-
-(Say: in the Czech Republic there are also)
-
-V Česku existují i.
-
-(Say: some special wedding traditions)
-
-některé zvláštní svatební tradice.
-
-(Say: that differ)
-
-které se liší.
-
-(Say: from the Spanish ones)
-
-od těch španělských.
-
-(Listen to the following sentence)
-
-Another tradition is breaking a plate in front of the newlyweds.
-
-Další tradicí je rozbití talíře před novomanželi.
-
-(Let's break that down)
-
-(Say: another tradition is)
-
-Další tradicí je.
-
-(Say: breaking a plate)
-
-rozbití talíře.
-
-(Say: in front of the newlyweds)
-
-před novomanželi.
-
-(Listen to another sentence)
-
-It is a nice symbol, because it shows that the spouses will have to solve problems together.
-
-Je to hezký symbol, protože ukazuje, že manželé budou muset řešit problémy spolu.
-
-(Let's break that down)
-
-(Say: it is a nice symbol)
-
-Je to hezký symbol.
-
-(Say: because it shows)
-
-protože ukazuje.
-
-(Say: that the spouses will have to solve problems)
-
-že manželé budou muset řešit problémy.
-
-(Say: together)
-
-spolu.
-
-(Listen to the following sentence)
-
-On the one hand, Czech weddings often seem a little calmer, while Spanish ones are usually louder and longer.
-
-Na jedné straně české svatby často působí trochu klidněji, zatímco španělské bývají hlasitější a delší.
-
-(Let's break that down)
-
-(Say: on the one hand)
-
-Na jedné straně.
-
-(Say: Czech weddings often seem a little calmer)
-
-české svatby často působí trochu klidněji.
-
-(Say: while Spanish ones)
-
-zatímco španělské.
-
-(Say: are usually louder and longer)
-
-bývají hlasitější a delší.
-
-(Listen to another sentence)
-
-That is exactly why weddings are a good topic for comparing cultures and also for a conversation in which I can practice the language.
-
-Právě proto jsou svatby dobrým tématem pro srovnání kultur a také pro rozhovor, při kterém si mohu procvičovat jazyk.
-
-(Let's break that down)
-
-(Say: that is exactly why weddings are a good topic)
-
-Právě proto jsou svatby dobrým tématem.
-
-(Say: for comparing cultures)
-
-pro srovnání kultur.
-
-(Say: and also for a conversation)
-
-a také pro rozhovor.
-
-(Say: in which I can practice the language)
-
-při kterém si mohu procvičovat jazyk.
+իսկ քեզ համար՝ արծաթե մատանին։
 
 This is the end of today's lesson.
 
 ---
 
-<a name="czech-u-lekare-llico-pimsleur-b1"></a>
-### 📖 🈶 U lékaře - Lliçó Pimsleur B1
+<a name="armenian-վերնիսաժում-տեսած-իմ-ամենատպավորիչ-արվեստի-գործը-dialeg-llico-pimsleur-b1"></a>
+### 📖 🈶 Վերնիսաժում տեսած իմ ամենատպավորիչ արվեստի գործը-Diàleg - Lliçó Pimsleur B1
 
-#### 🈶 U lékaře - Lliçó Pimsleur B1
+#### 🈶 Վերնիսաժում տեսած իմ ամենատպավորիչ արվեստի գործը-Diàleg - Lliçó Pimsleur B1
 
-U lékaře - Lliçó Pimsleur B1
+🈶 Վերնիսաժում տեսած իմ ամենատպավորիչ արվեստի գործը-Diàleg-versió comprensible
+
+🈶 Վերնիսաժում տեսած իմ ամենատպավորիչ արվեստի գործը-Diàleg - Lliçó Pimsleur B1
 
 This is today's Pimsleur lesson.
 
-(Listen to the following sentence)
-
-My child is not feeling well right now. His stomach hurts because he ate too much ice cream.
-
-Mému dítěti právě není dobře. Bolí ho žaludek, protože snědlo příliš mnoho zmrzliny.
+Listen to the following sentence.
+The most impressive work of art I saw at Vernissage last week was a large, colorful painting.
+Անցյալ շաբաթ Վերնիսաժում տեսած իմ ամենատպավորիչ արվեստի գործը մի մեծ, գունավոր նկար էր։
 
 (Let's break that down)
+(Say: last week)
 
-(Say: my child is not feeling well right now)
+Անցյալ շաբաթ
 
-Mému dítěti právě není dobře.
+(Say: the most impressive work of art I saw at Vernissage)
 
-(Say: his stomach hurts)
+Վերնիսաժում տեսած իմ ամենատպավորիչ արվեստի գործը
 
-Bolí ho žaludek.
+(Say: was a large, colorful painting)
 
-(Say: because he ate too much ice cream)
-
-protože snědlo příliš mnoho zmrzliny.
-
-(Now, listen to the main answer)
-
-Recently we have been lucky, because we have mostly been healthy.
-
-V poslední době jsme měli štěstí, protože jsme byli většinou zdraví.
+մի մեծ, գունավոր նկար էր։
+Listen to the following sentence.
+The painting showed a courtyard in Yerevan under the evening lights.
+Նկարում երևում էր Երևանի բակը՝ երեկոյան լույսերի տակ։
 
 (Let's break that down)
+(Say: in the painting was visible)
 
-(Say: recently)
+Նկարում երևում էր
 
-V poslední době.
+(Say: the courtyard of Yerevan)
 
-(Say: we have been lucky)
+Երևանի բակը
 
-jsme měli štěstí.
+(Say: under the evening lights)
 
-(Say: because we have mostly been healthy)
-
-protože jsme byli většinou zdraví.
-
-(Listen to the following sentence)
-
-This time, however, one of the children was really ill, and therefore we had to go to the pharmacy for medicine.
-
-Tentokrát ale jednomu z dětí bylo opravdu špatně, a proto jsme museli jít do lékárny pro léky.
+երեկոյան լույսերի տակ։
+Now, listen to the main answer.
+There was an old tree in the center.
+Կենտրոնում մի ծեր ծառ կար։
 
 (Let's break that down)
+(Say: in the center)
 
-(Say: this time, however)
+Կենտրոնում
 
-Tentokrát ale.
+(Say: there was an old tree)
 
-(Say: one of the children was really ill)
-
-jednomu z dětí bylo opravdu špatně.
-
-(Say: and therefore we had to go)
-
-a proto jsme museli jít.
-
-(Say: to the pharmacy for medicine)
-
-do lékárny pro léky.
-
-(Listen to another sentence)
-
-The doctor examined my throat and found that I had it red.
-
-Lékař mi prohlédl krk a zjistil, že ho mám zarudlý.
+մի ծեր ծառ կար։
+Listen to the following sentence.
+Yes, I saw that painting too. It had been painted by a young painter named Levon.
+Այո՛, այդ նկարը ես էլ եմ տեսել։ Այն նկարել էր երիտասարդ նկարիչ Լևոնը։
 
 (Let's break that down)
+(Say: yes, I saw that painting too)
 
-(Say: the doctor examined my throat)
+Այո՛, այդ նկարը ես էլ եմ տեսել։
 
-Lékař mi prohlédl krk.
+(Say: it had been painted by)
 
-(Say: and found)
+Այն նկարել էր
 
-a zjistil.
+(Say: the young painter Levon)
 
-(Say: that I had it red)
-
-že ho mám zarudlý.
-
-(Listen to the following sentence)
-
-The contents of the sachet had to be dissolved in a glass of water and then drunk.
-
-Obsah sáčku bylo třeba rozpustit ve sklenici vody a potom vypít.
+երիտասարդ նկարիչ Լևոնը։
+Listen to the following sentence.
+I especially liked the yellow light from the windows. Because of it, the courtyard seemed very warm.
+Ինձ հատկապես դուր եկավ պատուհանների դեղին լույսը։ Դրա շնորհիվ բակը շատ ջերմ էր թվում։
 
 (Let's break that down)
+(Say: I especially liked)
 
-(Say: the contents of the sachet)
+Ինձ հատկապես դուր եկավ
 
-Obsah sáčku.
+(Say: the yellow light from the windows)
 
-(Say: had to be dissolved)
+պատուհանների դեղին լույսը։
 
-bylo třeba rozpustit.
+(Say: because of it)
 
-(Say: in a glass of water)
+Դրա շնորհիվ
 
-ve sklenici vody.
+(Say: the courtyard seemed very warm)
 
-(Say: and then drunk)
-
-a potom vypít.
-
-(Listen to another sentence)
-
-After twenty years she decided to stop smoking from one day to the next.
-
-Po dvaceti letech se rozhodla přestat kouřit ze dne na den.
+բակը շատ ջերմ էր թվում։
+Listen to the following sentence.
+The painter had said that those lights reminded him of his childhood home.
+Նկարիչը ասել էր, որ այդ լույսերը հիշեցնում են իր մանկության տունը։
 
 (Let's break that down)
+(Say: the painter had said)
 
-(Say: after twenty years)
+Նկարիչը ասել էր
 
-Po dvaceti letech.
+(Say: that those lights remind him)
 
-(Say: she decided to stop smoking)
+որ այդ լույսերը հիշեցնում են իր
 
-se rozhodla přestat kouřit.
+(Say: childhood home)
 
-(Say: from one day to the next)
-
-ze dne na den.
-
-(Listen to the following sentence)
-
-When a person becomes ill, it is important not to neglect the symptoms, to consult a doctor, and to use the prescribed medicine correctly.
-
-Když člověk onemocní, je důležité nezanedbat příznaky, poradit se s lékařem a správně užívat předepsané léky.
+մանկության տունը։
+Listen to the following sentence.
+He had lived in that courtyard for a long time.
+Նա երկար ժամանակ ապրել է այդ բակում։
 
 (Let's break that down)
+(Say: for a long time)
 
-(Say: when a person becomes ill)
+Երկար ժամանակ
 
-Když člověk onemocní.
+(Say: he has lived)
 
-(Say: it is important not to neglect the symptoms)
+ապրել է
 
-je důležité nezanedbat příznaky.
+(Say: in that courtyard)
 
-(Say: to consult a doctor)
-
-poradit se s lékařem.
-
-(Say: and to use the prescribed medicine correctly)
-
-a správně užívat předepsané léky.
-
-This is the end of today's lesson.
-
----
-
-<a name="czech-vikend-v-safari-zoo-ve-dvore-kralove-llico-pimsleur-b1"></a>
-### 📖 🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1
-
-#### 🈶 Víkend v safari zoo ve Dvoře Králové - Lliçó Pimsleur B1
-
-Víkend v safari zoo ve Dvoře Králové
-
-This is today's Pims
-leur lesson.
-
-(Listen to the following sentence)
-On the weekend I will probably go with the children to the cottage.
-
-O víkendu asi pojedu s dětmi na chatu.
+այդ բակում։
+Listen to the following sentence.
+It is interesting that there were almost no people in the painting, but I felt their presence.
+Հետաքրքիր է, որ նկարում մարդիկ գրեթե չկային, բայց ես զգում էի նրանց ներկայությունը։
 
 (Let's break that down)
-(Say: on the weekend)
+(Say: it is interesting that)
 
-O víkendu
+Հետաքրքիր է, որ
 
-(Say: I will probably go)
+(Say: there were almost no people in the painting)
 
-asi pojedu
+նկարում մարդիկ գրեթե չկային
 
-(Say: with the children)
+(Say: but I felt their presence)
 
-s dětmi
-
-(Say: to the cottage)
-
-na chatu
-
-(Listen to the following sentence)
-My son David, however, wants to go to the Prague zoo.
-
-Můj syn David ale chce jít do pražské zoo.
+բայց ես զգում էի նրանց ներկայությունը։
+Listen to the following sentence.
+That is one of the strong points of the painting.
+Դա նկարի ուժեղ կողմերից մեկն է։
 
 (Let's break that down)
-(Say: my son David)
+(Say: that is one of)
 
-Můj syn David
+Դա մեկն է
 
-(Say: however, wants to go)
+(Say: the strong points of the painting)
 
-ale chce jít
-
-(Say: to the Prague zoo)
-
-do pražské zoo
-
-(Listen to another sentence)
-He heard from his friend that he can feed the animals there.
-
-Slyšel od svého kamaráda, že tam může krmit zvířata.
+նկարի ուժեղ կողմերից։
+Listen to the following sentence.
+The empty courtyard tells the story of neighbors, families, and days gone by.
+Դատարկ բակը պատմում է հարևանների, ընտանիքների և անցած օրերի մասին։
 
 (Let's break that down)
-(Say: he heard from his friend)
+(Say: the empty courtyard)
 
-Slyšel od svého kamaráda
+Դատարկ բակը
 
-(Say: that there he can)
+(Say: tells the story)
 
-že tam může
+պատմում է
 
-(Say: feed the animals)
+(Say: about neighbors, families, and days gone by)
 
-krmit zvířata
-
-(Listen to the following sentence)
-He keeps talking about how he himself will feed the penguins, giraffes, or gorillas.
-
-Pořád mluví o tom, jak sám nakrmí tučňáky, žirafy nebo gorily.
+հարևանների, ընտանիքների և անցած օրերի մասին։
+Listen to the following sentence.
+The colors were also very well chosen: a blue sky, a green tree, and warm yellow windows.
+Գույները նույնպես շատ լավ էին ընտրված՝ կապույտ երկինք, կանաչ ծառ և տաք դեղին պատուհաններ։
 
 (Let's break that down)
-(Say: he keeps talking about that)
+(Say: the colors were also very well chosen)
 
-Pořád mluví o tom
+Գույները նույնպես շատ լավ էին ընտրված
 
-(Say: how he himself will feed)
+(Say: a blue sky)
 
-jak sám nakrmí
+կապույտ երկինք
 
-(Say: penguins, giraffes, or gorillas)
+(Say: a green tree)
 
-tučňáky, žirafy nebo gorily
+կանաչ ծառ
 
-(Now, listen to the main idea)
-Instead of the Prague zoo, we could go to the zoo in Dvůr Králové.
+(Say: and warm yellow windows)
 
-Místo pražské zoo bychom mohli jet do zoo ve Dvoře Králové.
-
-(Let's break that down)
-(Say: instead of the Prague zoo)
-
-Místo pražské zoo
-
-(Say: we could go)
-
-bychom mohli jet
-
-(Say: to the zoo in Dvůr Králové)
-
-do zoo ve Dvoře Králové
-
-(Listen to the following sentence)
-We can order a ride in an off-road safari vehicle directly among the running animals.
-
-Můžeme si tam objednat jízdu terénním safari vozem přímo mezi pobíhajícími zvířaty.
+և տաք դեղին պատուհաններ։
+Listen to the following sentence.
+In my opinion, that contrast makes the painting come alive.
+Իմ կարծիքով՝ այդ հակադրությունը նկարը դարձնում է կենդանի։
 
 (Let's break that down)
-(Say: we can order there)
+(Say: in my opinion)
 
-Můžeme si tam objednat
+Իմ կարծիքով՝
 
-(Say: a ride in an off-road safari vehicle)
+(Say: that contrast)
 
-jízdu terénním safari vozem
+այդ հակադրությունը
 
-(Say: directly among the running animals)
+(Say: makes the painting come alive)
 
-přímo mezi pobíhajícími zvířaty
-
-(Listen to another sentence)
-For the children it will be a huge experience.
-
-Pro děti to bude obrovský zážitek.
+նկարը դարձնում է կենդանի։
+Listen to the following sentence.
+If all the colors were dark, it would seem sadder.
+Եթե բոլոր գույները մուգ լինեին, այն ավելի տխուր կթվար։
 
 (Let's break that down)
-(Say: for the children)
+(Say: if all the colors were dark)
 
-Pro děti
+Եթե բոլոր գույները մուգ լինեին
 
-(Say: it will be)
+(Say: it would seem sadder)
 
-to bude
-
-(Say: a huge experience)
-
-obrovský zážitek
-
-(Listen to the following sentence)
-They will feel there as if they were in the African savanna.
-
-Budou se tam cítit jako v africké savaně.
+այն ավելի տխուր կթվար։
+Listen to the following sentence.
+I agree. That work made me look more carefully at the old courtyards of Yerevan.
+Ես համաձայն եմ։ Այդ գործը ինձ ստիպեց ավելի ուշադիր նայել Երևանի հին բակերին։
 
 (Let's break that down)
-(Say: they will feel there)
+(Say: I agree)
 
-Budou se tam cítit
+Ես համաձայն եմ։
 
-(Say: as if in the African savanna)
+(Say: that work made me)
 
-jako v africké savaně
+Այդ գործը ինձ ստիպեց
 
-(Listen to another sentence)
-With their own eyes they will see herds of antelopes, lions, giraffes, cheetahs, and zebras.
+(Say: look more carefully)
 
-Na vlastní oči uvidí stáda antilop, lvů, žiraf, gepardů a zeber.
+ավելի ուշադիր նայել
 
-(Let's break that down)
-(Say: with their own eyes they will see)
+(Say: at the old courtyards of Yerevan)
 
-Na vlastní oči uvidí
-
-(Say: herds of antelopes)
-
-stáda antilop
-
-(Say: lions, giraffes, cheetahs, and zebras)
-
-lvů, žiraf, gepardů a zeber
-
-(Listen to the following sentence)
-Besides that, they will learn many interesting things about the life of animals.
-
-Kromě toho se dozvědí spoustu zajímavých věcí ze života zvířat.
+Երևանի հին բակերին։
+Listen to the following sentence.
+So, it can be said that the most impressive work you saw was not only beautiful, but also a painting that tells a story about memories.
+Ուրեմն կարելի է ասել, որ քո տեսած ամենատպավորիչ գործը ոչ միայն գեղեցիկ էր, այլև հիշողությունների մասին պատմող նկար էր։
 
 (Let's break that down)
-(Say: besides that)
+(Say: so, it can be said)
 
-Kromě toho
+Ուրեմն կարելի է ասել
 
-(Say: they will learn)
+(Say: that the most impressive work you saw)
 
-se dozvědí
+որ քո տեսած ամենատպավորիչ գործը
 
-(Say: many interesting things)
+(Say: was not only beautiful)
 
-spoustu zajímavých věcí
+ոչ միայն գեղեցիկ էր
 
-(Say: about the life of animals)
+(Say: but also a painting)
 
-ze života zvířat
+այլև նկար էր
 
-(Listen to another sentence)
-I was there last year, and I know that the guide is entertaining.
+(Say: that tells a story about memories)
 
-Byl jsem tam vloni a vím, že průvodce je zábavný.
-
-(Let's break that down)
-(Say: I was there last year)
-
-Byl jsem tam vloni
-
-(Say: and I know that)
-
-a vím, že
-
-(Say: the guide is entertaining)
-
-průvodce je zábavný
-
-(Listen to the following sentence)
-The idea is great, but I do not know whether we will manage to see everything in one day.
-
-Nápad je to skvělý, ale nevím, jestli si za jeden den stihneme všechno prohlédnout.
-
-(Let's break that down)
-(Say: the idea is great)
-
-Nápad je to skvělý
-
-(Say: but I do not know)
-
-ale nevím
-
-(Say: whether in one day we will manage)
-
-jestli si za jeden den stihneme
-
-(Say: to see everything)
-
-všechno prohlédnout
-
-(Listen to another sentence)
-Therefore, we can reserve accommodation directly in the zoo, in the Safari Hotel, and stay there for the whole weekend.
-
-Proto si můžeme zamluvit ubytování přímo v zoo, v hotelu Safari, a zůstat tam celý víkend.
-
-(Let's break that down)
-(Say: therefore we can reserve)
-
-Proto si můžeme zamluvit
-
-(Say: accommodation directly in the zoo)
-
-ubytování přímo v zoo
-
-(Say: in the Safari Hotel)
-
-v hotelu Safari
-
-(Say: and stay there the whole weekend)
-
-a zůstat tam celý víkend
-
-(Listen to the following sentence)
-Accommodation in the hotel is, in my opinion, unnecessarily expensive.
-
-Ubytování v hotelu je ale podle mě zbytečně drahé.
-
-(Let's break that down)
-(Say: accommodation in the hotel)
-
-Ubytování v hotelu
-
-(Say: is, however, in my opinion)
-
-je ale podle mě
-
-(Say: unnecessarily expensive)
-
-zbytečně drahé
-
-(Listen to another sentence)
-For the children it will be more fun if w
-
-e camp in Safari Camp.
-Pro děti bude zábavnější, když budeme stanovat v Safari Campu.
-
-(Let's break that down)
-(Say: for the children it will be more fun)
-
-Pro děti bude zábavnější
-
-(Say: if we will camp)
-
-když budeme stanovat
-
-(Say: in Safari Camp)
-
-v Safari Campu
-
-(Listen to the following sentence)
-In the end, the trip to Dvůr Králové seems to me like the best option.
-
-Nakonec se mi výlet do Dvora Králové zdá jako nejlepší možnost.
-
-(Let's break that down)
-(Say: in the end)
-
-Nakonec
-
-(Say: the trip to Dvůr Králové seems to me)
-
-se mi výlet do Dvora Králové zdá
-
-(Say: like the best option)
-
-jako nejlepší možnost
-
-(Listen to the final sentence)
-Such a weekend will be more interesting than an ordinary visit to the Prague zoo.
-
-Takový víkend bude zajímavější než obyčejná návštěva pražské zoo.
-
-(Let's break that down)
-(Say: such a weekend)
-
-Takový víkend
-
-(Say: will be more interesting)
-
-bude zajímavější
-
-(Say: than an ordinary visit)
-
-než obyčejná návštěva
-
-(Say: to the Prague zoo)
-
-pražské zoo
+հիշողությունների մասին պատմող։
 
 This is the end of today's lesson.
 
