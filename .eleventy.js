@@ -765,6 +765,7 @@ module.exports = function(eleventyConfig) {
   userEleventySetup(eleventyConfig);
 
   return {
+        pathPrefix: process.env.ELEVENTY_PATH_PREFIX || "/",
     dir: {
       input: "src/site",
       output: "dist",
