@@ -11,5 +11,3 @@
   from = "/*"
   to = "/404"
   status = 404
-
-# Deployment trigger: keep the production site in sync with the published garden.
