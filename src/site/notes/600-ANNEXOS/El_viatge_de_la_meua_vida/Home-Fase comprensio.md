@@ -18,7 +18,7 @@
 
 - [Iš Lietuvos krepšinio istorijos-Diàleg - Lliçó Pimsleur B1](#lithuanian-is-lietuvos-krepsinio-istorijos-dialeg-llico-pimsleur-b1)
 - [Kada gimsta muzikos poveikio jėga-Diàleg-versió comprensible - Lliçó Pimsleur B1](#lithuanian-kada-gimsta-muzikos-poveikio-jega-dialeg-versio-comprensible-llico-pimsleur-b1)
-- [Lietingas sekmadienis-Diàleg-versió comprensible - Lliçó Pimsleur B1](#lithuanian-lietingas-sekmadienis-dialeg-versio-comprensible-llico-pimsleur-b1)
+- [Namų taisyklės-Diàleg-versió comprensible - Lliçó Pimsleur B1](#lithuanian-namu-taisykles-dialeg-versio-comprensible-llico-pimsleur-b1)
 
 <a name="lithuanian-is-lietuvos-krepsinio-istorijos-dialeg-llico-pimsleur-b1"></a>
 ### 📖 Iš Lietuvos krepšinio istorijos-Diàleg - Lliçó Pimsleur B1
@@ -321,82 +321,258 @@ This is the end of today's lesson.
 
 ---
 
-<a name="lithuanian-lietingas-sekmadienis-dialeg-versio-comprensible-llico-pimsleur-b1"></a>
-### 📖 Lietingas sekmadienis-Diàleg-versió comprensible - Lliçó Pimsleur B1
+<a name="lithuanian-namu-taisykles-dialeg-versio-comprensible-llico-pimsleur-b1"></a>
+### 📖 Namų taisyklės-Diàleg-versió comprensible - Lliçó Pimsleur B1
 
-#### Lietingas sekmadienis-Diàleg-versió comprensible - Lliçó Pimsleur B1
+#### Namų taisyklės-Diàleg-versió comprensible - Lliçó Pimsleur B1
 
-Lietingas sekmadienis-Diàleg-versió comprensible - Lliçó Pimsleur B1
+Namų taisyklės - Diàleg-versió comprensible - Lliçó Pimsleur B1
 
 This is today's Pimsleur lesson.
 
 (Listen to the following sentence)
-Would you like to go to the cinema?
 
-Ar norėtum eiti į kiną?
+The doors must always be kept closed, and the neighbours must not hear the noises we make. After midnight there must be absolute silence.
+
+Savo duris visada turime laikyti uždarytas, o kaimynai neturi girdėti mūsų skleidžiamų garsų. Po vidurnakčio turi būti absoliuti tyla.
 
 (Let's break that down)
-(Say: would you like)
 
-Ar norėtum
+(Say: we must always keep our doors closed)
 
-(Say: to go to the cinema)
+Savo duris visada turime laikyti uždarytas
 
-eiti į kiną?
+(Say: and the neighbours must not hear)
+
+O kaimynai neturi girdėti
+
+(Say: the noises we make)
+
+Mūsų skleidžiamų garsų
+
+(Say: after midnight there must be absolute silence)
+
+Po vidurnakčio turi būti absoliuti tyla
+
+(Now, listen to the main answer)
+
+The excessive and unnecessary use of hot water while showering will make the rent increase faster for everyone.
+
+Besaikis ir betikslis karšto vandens naudojimas prausiantis po dušu pagreitins nuomos kainų augimą visiems.
+
+(Let's break that down)
+
+(Say: the excessive and unnecessary use)
+
+Besaikis ir betikslis naudojimas
+
+(Say: of hot water)
+
+Karšto vandens
+
+(Say: while showering)
+
+Prausiantis po dušu
+
+(Say: will make the rent increase faster for everyone)
+
+Pagreitins nuomos kainų augimą visiems
+
+(Listen to another question)
+
+What happens if our guests stay overnight?
+
+O jeigu mūsų svečiai pasiliktų nakvoti?
+
+(Let's break that down)
+
+(Say: and what if)
+
+O jeigu
+
+(Say: our guests)
+
+Mūsų svečiai
+
+(Say: stayed overnight)
+
+Pasiliktų nakvoti
 
 (Listen to the following sentence)
-At the “Lietuva” cinema, they are showing a new film.
 
-'Lietuvos' teatre rodo naują filmą.
+Other guests are not allowed to stay overnight unless one extra dollar is paid for each guest.
+
+Kitiems svečiams nakvoti draudžiama, nebent už kiekvieną svečią sumokamas vienas papildomas doleris.
 
 (Let's break that down)
-(Say: at the “Lietuva” cinema)
 
-'Lietuvos' teatre
+(Say: other guests are not allowed)
 
-(Say: they are showing)
+Kitiems svečiams draudžiama
 
-rodo
+(Say: to stay overnight)
 
-(Say: a new film)
+Nakvoti
 
-naują filmą.
+(Say: unless one extra dollar is paid)
+
+Nebent sumokamas vienas papildomas doleris
+
+(Say: for each guest)
+
+Už kiekvieną svečią
 
 (Listen to the following sentence)
-After the film, we can take a short walk in the park because the rain has let up a little.
 
-Po filmo galime trumpai pasivaikščioti parke, nes lietus šiek tiek nustojo.
+Everyone, in turn, must clean the bathrooms and the second-floor hallway at least once a week.
+
+Visi paeiliui turi bent kartą per savaitę išvalyti vonios kambarius ir antro aukšto prieškambarį.
 
 (Let's break that down)
-(Say: after the film)
 
-Po filmo
+(Say: everyone, in turn, must clean)
 
-(Say: we can take a short walk in the park)
+Visi paeiliui turi išvalyti
 
-galime trumpai pasivaikščioti parke
+(Say: at least once a week)
 
-(Say: because the rain has let up a little)
+Bent kartą per savaitę
 
-nes lietus šiek tiek nustojo.
+(Say: the bathrooms)
+
+Vonios kambarius
+
+(Say: and the second-floor hallway)
+
+Ir antro aukšto prieškambarį
 
 (Listen to the following sentence)
-But be careful: it is cool outside, so that you do not catch a cold!
 
-Bet būk atsargi, lauke vėsu, kad neperšaltum!
+It would be even better to learn not to burn the food, because in winter we will not open the windows.
+
+Dar geriau būtų išmokti maisto neprideginti, nes žiemą langų neatidarysime.
 
 (Let's break that down)
-(Say: but be careful)
 
-Bet būk atsargi
+(Say: it would be even better)
 
-(Say: it is cool outside)
+Dar geriau būtų
 
-lauke vėsu
+(Say: to learn not to burn the food)
 
-(Say: so that you do not catch a cold)
+Išmokti maisto neprideginti
 
-kad neperšaltum!
+(Say: because in winter we will not open the windows)
+
+Nes žiemą langų neatidarysime
+
+(Listen to the following sentence)
+
+When cooking, we must always cover the pot with a lid and reduce the heat so that the food does not boil over.
+
+Virdami visuomet turime uždengti puodą dangčiu ir sumažinti ugnį, kad maistas neišbėgtų.
+
+(Let's break that down)
+
+(Say: when cooking, we must always cover the pot)
+
+Virdami visuomet turime uždengti puodą
+
+(Say: with a lid)
+
+Dangčiu
+
+(Say: and reduce the heat)
+
+Ir sumažinti ugnį
+
+(Say: so that the food does not boil over)
+
+Kad maistas neišbėgtų
+
+(Listen to another question)
+
+Are there rules about cans and food that is thrown away?
+
+Ar yra taisyklių dėl skardinių ir išmetamo maisto?
+
+(Let's break that down)
+
+(Say: are there rules)
+
+Ar yra taisyklių
+
+(Say: about cans)
+
+Dėl skardinių
+
+(Say: and food that is thrown away)
+
+Ir išmetamo maisto
+
+(Listen to the following sentence)
+
+If we have to throw away food, we must take it to the garden or to the rubbish dump.
+
+Jei tenka išmesti maistą, turime nunešti jį į daržą ar į šiukšlyną.
+
+(Let's break that down)
+
+(Say: if we have to throw away food)
+
+Jei tenka išmesti maistą
+
+(Say: we must take it)
+
+Turime nunešti jį
+
+(Say: to the garden or to the rubbish dump)
+
+Į daržą ar į šiukšlyną
+
+(Listen to the following sentence)
+
+We can use the oven more often if we pay one dollar for every half hour of operation, because that is what the gas costs.
+
+Galime ja naudotis dažniau, jeigu mokame po vieną dolerį už kiekvieną orkaitės veikimo pusvalandį, nes tiek kainuoja dujos.
+
+(Let's break that down)
+
+(Say: we can use it more often)
+
+Galime ja naudotis dažniau
+
+(Say: if we pay one dollar)
+
+Jeigu mokame po vieną dolerį
+
+(Say: for every half hour of operation)
+
+Už kiekvieną orkaitės veikimo pusvalandį
+
+(Say: because that is what the gas costs)
+
+Nes tiek kainuoja dujos
+
+(Listen to the following sentence)
+
+So, we must save energy if we want to keep the rent stable.
+
+Vadinasi, turime taupyti energiją, jeigu norime išlaikyti stabilų nuomos mokestį.
+
+(Let's break that down)
+
+(Say: so, we must save energy)
+
+Vadinasi, turime taupyti energiją
+
+(Say: if we want to keep)
+
+Jeigu norime išlaikyti
+
+(Say: the rent stable)
+
+Stabilų nuomos mokestį
 
 This is the end of today's lesson.
 
