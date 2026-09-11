@@ -16,9 +16,63 @@
 <a name="lithuanian"></a>
 ## 🌐 Lithuanian
 
+- [Iš Lietuvos krepšinio istorijos](#lithuanian-is-lietuvos-krepsinio-istorijos)
 - [Iš Lietuvos krepšinio istorijos-Diàleg - Lliçó Pimsleur B1](#lithuanian-is-lietuvos-krepsinio-istorijos-dialeg-llico-pimsleur-b1)
+- [Kada gimsta muzikos poveikio jėga](#lithuanian-kada-gimsta-muzikos-poveikio-jega)
 - [Kada gimsta muzikos poveikio jėga-Diàleg-versió comprensible - Lliçó Pimsleur B1](#lithuanian-kada-gimsta-muzikos-poveikio-jega-dialeg-versio-comprensible-llico-pimsleur-b1)
+- [Namų taisyklės](#lithuanian-namu-taisykles)
 - [Namų taisyklės-Diàleg-versió comprensible - Lliçó Pimsleur B1](#lithuanian-namu-taisykles-dialeg-versio-comprensible-llico-pimsleur-b1)
+
+<a name="lithuanian-is-lietuvos-krepsinio-istorijos"></a>
+### 📖 Iš Lietuvos krepšinio istorijos
+
+#### Iš Lietuvos krepšinio istorijos-Diàleg
+
+Iš Lietuvos krepšinio istorijos-Diàleg
+
+<div style="position: sticky; top: 0; z-index: 1000; background-color: var(--background-primary); padding: 15px 0; border-bottom: 2px solid var(--interactive-accent); margin-bottom: 20px;">
+    <audio id="player" controls src="file:///H:/Lithuanian/Topics/Freetime/I%C5%A1Lietuvoskrep%C5%A1inioistorijos-Dialeg.mp3" style="width: 100%;"></audio>
+</div>
+
+Anna: Labas, Adrianai! Girdėjau, kad lietuviai labai mėgsta krepšinį. Ar tai tiesa?
+
+Adrian: Labas, Anna! Taip, tai visiška tiesa. Krepšinis Lietuvoje yra labai populiarus.
+
+Anna: O kada krepšinis atsirado Lietuvoje?
+
+Adrian: Krepšinis į Lietuvą atkeliavo tūkstantis devyni šimtai dvidešimt antrais metais. Tai buvo gana vėlai.
+
+Anna: Kodėl vėlai? Kur jis jau buvo žaidžiamas?
+
+Adrian: Tuo metu jis jau buvo žaidžiamas Amerikoje ir kitose Europos šalyse. Jis jau buvo ir olimpinėse žaidynėse.
+
+Anna: Kas padėjo populiarinti krepšinį Lietuvoje?
+
+Adrian: Krepšinį populiarinti padėjo Steponas Darius. Jis gyveno Amerikoje ir ten susižavėjo krepšiniu.
+
+Anna: O kada Lietuvos komanda pradėjo žaisti Europos čempionatuose?
+
+Adrian: Pirmą kartą jie dalyvavo tūkstantis devyni šimtai trisdešimt septintais metais Rygoje. Ir jie iš karto tapo Europos čempionais!
+
+Anna: Oho! Kaip žmonės reagavo Lietuvoje?
+
+Adrian: Žmonės labai džiaugėsi. Žiūrovai sveikino juos su gėlėmis ir dainomis kiekvienoje geležinkelio stotyje.
+
+Anna: Tai tikriausiai labai padidino krepšinio populiarumą?
+
+Adrian: Taip, po šio laimėjimo moksleiviai ypač pamėgo krepšinį. Tai sužadino didelį entuziazmą.
+
+Anna: Ar vėliau Lietuva turėjo gerų komandų?
+
+Adrian: Taip, po daugelio metų, tūkstantis devyni šimtai devyniasdešimt antrais metais, nepriklausoma Lietuva laimėjo bronzą olimpinėse žaidynėse Barselonoje.
+
+Anna: Ar yra labai garsių žaidėjų?
+
+Adrian: Taip, garsiausi yra Arvydas Sabonis ir Šarūnas Marčiulionis. Sabonis net buvo išrinktas geriausiu Europos krepšininku.
+
+Anna: Kaip įdomu! Ačiū už pasakojimą.
+
+---
 
 <a name="lithuanian-is-lietuvos-krepsinio-istorijos-dialeg-llico-pimsleur-b1"></a>
 ### 📖 Iš Lietuvos krepšinio istorijos-Diàleg - Lliçó Pimsleur B1
@@ -217,6 +271,33 @@ This is the end of today's lesson.
 
 ---
 
+<a name="lithuanian-kada-gimsta-muzikos-poveikio-jega"></a>
+### 📖 Kada gimsta muzikos poveikio jėga
+
+#### Kada gimsta muzikos poveikio jėga-Diàleg
+
+Kada gimsta muzikos poveikio jėga - Diàleg
+
+🎧 Àudio i referències
+
+💬 Diàleg
+
+Tomas: Labas, Egle! Ar skaitei interviu su pianiste Aldona Dvarionaite?
+
+Eglė: Labas, Tomai! Taip, skačiau. Ji kalba apie romantinę muziką ir savo tėvo Balio Dvariono kūrinius.
+
+Tomas: Man labai patiko mintis, kad muzika gali atplėšti žmogų nuo rūpesčių ir padaryti jį laimingą.
+
+Eglė: Tikrai taip. Skriabinas tuo tvirtai tikėjo. O Aldona sako, kad muzika turi turėti tikrą poveikio jėgą.
+
+Tomas: Ji taip pat lygina Lietuvos ir Ispanijos publiką. Sakė, kad ispanai labai ekspresyvūs!
+
+Eglė: O lietuviai tylesni, nes pas mus nedaug saulės. Bet ji mano, kad žmonės patys turi spinduliuoti šilumą.
+
+Tomas: Labai gražios mintys. Muzika tikrai gali apšviesti mūsų kasdienį gyvenimą.
+
+---
+
 <a name="lithuanian-kada-gimsta-muzikos-poveikio-jega-dialeg-versio-comprensible-llico-pimsleur-b1"></a>
 ### 📖 Kada gimsta muzikos poveikio jėga-Diàleg-versió comprensible - Lliçó Pimsleur B1
 
@@ -318,6 +399,57 @@ Muzika tikrai gali apšviesti
 mūsų kasdienį gyvenimą.
 
 This is the end of today's lesson.
+
+---
+
+<a name="lithuanian-namu-taisykles"></a>
+### 📖 Namų taisyklės
+
+#### Namų taisyklės-Diàleg
+
+ANNA: Adrianai, ar matei namų taisykles? Jos labai griežtos, ypač dėl triukšmo ir tvarkos.
+
+ADRIANAS: Taip. Pavyzdžiui, rūkyti draudžiama visame name. Jei bet kuriame kambaryje randamas rūkymo įrodymas, žmogus per tris dienas turi išsikraustyti.
+
+ANNA: O ką turime daryti su durimis ir garsais?
+
+ADRIANAS: Savo duris visada turime laikyti uždarytas, o kaimynai neturi girdėti mūsų skleidžiamų garsų. Po vidurnakčio turi būti absoliuti tyla.
+
+ANNA: Kas turi išjungti prieškambario šviesas?
+
+ADRIANAS: Paskutinis į namus grįžęs asmuo turi išjungti visas prieškambario šviesas. Taip pat turime saugoti naujai lakuotas grindis ir nebraižyti jų stumdydami baldus.
+
+ANNA: Ar taisyklės dėl karšto vandens taip pat griežtos?
+
+ADRIANAS: Taip. Besaikis ir betikslis karšto vandens naudojimas prausiantis po dušu pagreitins nuomos kainų augimą visiems. Nėra jokios prasmės leisti vandenį muilinantis.
+
+ANNA: O jeigu mūsų svečiai pasiliktų nakvoti?
+
+ADRIANAS: Kitiems svečiams nakvoti draudžiama, nebent už kiekvieną svečią sumokamas vienas papildomas doleris. Taip padengiamos karšto vandens naudojimo išlaidos.
+
+ANNA: Ar yra ir valymo grafikas?
+
+ADRIANAS: Taip. Visi paeiliui turi bent kartą per savaitę išvalyti vonios kambarius ir antro aukšto prieškambarį. Vonios įrangą reikia nuvalyti su Ajax, paskui išsiurbti ir išplauti grindis su SpicėSpan.
+
+ANNA: Ką turime daryti, jei virtuvėje svyla maistas?
+
+ADRIANAS: Turime uždaryti visas duris ir atverti langą. Dar geriau būtų išmokti maisto neprideginti, nes žiemą langų neatidarysime.
+
+ANNA: O kaip turime elgtis virdami?
+
+ADRIANAS: Virdami visuomet turime uždengti puodą dangčiu ir sumažinti ugnį, kad maistas neišbėgtų. Taip pat negalima niekur pastate mėtyti maisto, nes pūvantis maistas privilioja vabzdžius ir peles.
+
+ANNA: Ar yra taisyklių dėl skardinių ir išmetamo maisto?
+
+ADRIANAS: Taip. Prieš išmesdami skardines, jas turime išplauti. Jei tenka išmesti maistą, turime nunešti jį į daržą ar į šiukšlyną.
+
+ANNA: Ar orkaitę galime naudoti tik kartą per mėnesį?
+
+ADRIANAS: Taip. Galime ja naudotis dažniau, jeigu mokame po vieną dolerį už kiekvieną orkaitės veikimo pusvalandį, nes tiek kainuoja dujos.
+
+ANNA: Vadinasi, turime taupyti energiją, jeigu norime išlaikyti stabilų nuomos mokestį.
+
+ADRIANAS: Būtent. Ir dar viena labai aiški taisyklė: nestatykime automobilių ant žolės.
 
 ---
 
